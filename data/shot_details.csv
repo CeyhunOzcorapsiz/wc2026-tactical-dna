@@ -1,0 +1,2228 @@
+minute,player,outcome,is_goal,delivery,match_number,team,header
+3,Brian GUTIERREZ,Incomplete - Blocked,0,Freekick,1,Mexico,IN POSSESSION
+4,Raul JIMENEZ,On Target - Saved,0,Cross,1,Mexico,IN POSSESSION
+8,Julian QUINONES,On Target - Goal,1,Loose Ball,1,Mexico,IN POSSESSION
+12,Raul JIMENEZ,Off Target,0,Corner,1,Mexico,IN POSSESSION
+19,Julian QUINONES,Off Target,0,Pass,1,Mexico,IN POSSESSION
+29,Brian GUTIERREZ,Incomplete - Blocked,0,Pass,1,Mexico,IN POSSESSION
+41,Julian QUINONES Deflected,Off Target,0,Other,1,Mexico,IN POSSESSION
+41,Julian QUINONES,Off Target,0,Pass,1,Mexico,IN POSSESSION
+46,Jesus GALLARDO Deflected,Off Target,0,Pass,1,Mexico,IN POSSESSION
+48,Brian GUTIERREZ,Off Target,0,Pass,1,Mexico,IN POSSESSION
+45,Brian GUTIERREZ,Off Target,0,Loose Ball,1,Mexico,IN POSSESSION
+51,Raul JIMENEZ,Incomplete - Blocked,0,Freekick,1,Mexico,IN POSSESSION
+51,Jesus GALLARDO,Off Target,0,Pass,1,Mexico,IN POSSESSION
+57,Israel REYES,Incomplete,0,Freekick,1,Mexico,IN POSSESSION
+66,Raul JIMENEZ,On Target - Goal,1,Cross,1,Mexico,IN POSSESSION
+37,Lyle FOSTER,Off Target,0,Pass,1,South Africa,IN POSSESSION
+44,Mbekezeli MBOKAZI,On Target - Saved,0,Loose Ball,1,South Africa,IN POSSESSION
+55,Aubrey MODIBA,On Target - Saved,0,Pass,1,South Africa,IN POSSESSION
+11,SON Heungmin Deflected,Off Target,0,Pass,2,Korea Republic,IN POSSESSION
+11,LEE Hanbeom,Off Target,0,Cross,2,Korea Republic,IN POSSESSION
+13,LEE Kangin,On Target - Saved,0,Pass,2,Korea Republic,IN POSSESSION
+13,SON Heungmin,Incomplete - Blocked,0,Cross,2,Korea Republic,IN POSSESSION
+37,SON Heungmin,Off Target,0,Pass,2,Korea Republic,IN POSSESSION
+38,SON Heungmin,Off Target,0,Pass,2,Korea Republic,IN POSSESSION
+46,SON Heungmin,Incomplete,0,Cross,2,Korea Republic,IN POSSESSION
+47,HWANG Inbeom,Off Target,0,Pass,2,Korea Republic,IN POSSESSION
+48,HWANG Inbeom,On Target - Saved,0,Pass,2,Korea Republic,IN POSSESSION
+48,LEE Jaesung,On Target - Saved,0,Other,2,Korea Republic,IN POSSESSION
+55,SON Heungmin,On Target - Saved,0,Pass,2,Korea Republic,IN POSSESSION
+66,HWANG Inbeom,On Target - Goal,1,Pass,2,Korea Republic,IN POSSESSION
+79,OH Hyeongyu,On Target - Goal,1,Cross,2,Korea Republic,IN POSSESSION
+93,KIM Jingyu,Incomplete - Blocked,0,Pass,2,Korea Republic,IN POSSESSION
+21,Tomas SOUCEK,Off Target,0,Corner,2,Czechia,IN POSSESSION
+31,Pavel SULC,Off Target,0,Loose Ball,2,Czechia,IN POSSESSION
+58,Ladislav KREJCI,On Target - Goal,1,Other,2,Czechia,IN POSSESSION
+81,Adam HLOZEK,On Target - Saved,0,Loose Ball,2,Czechia,IN POSSESSION
+92,Michal SADILEK,On Target - Saved,0,Pass,2,Czechia,IN POSSESSION
+93,Adam HLOZEK,Incomplete,0,Cross,2,Czechia,IN POSSESSION
+16,Jonathan DAVID,On Target - Saved,0,Loose Ball,3,Canada,IN POSSESSION
+27,Jonathan DAVID,Incomplete - Blocked,0,Pass,3,Canada,IN POSSESSION
+29,Ismael KONE,Incomplete - Blocked,0,Freekick,3,Canada,IN POSSESSION
+31,Tani OLUWASEYI,Off Target,0,Pass,3,Canada,IN POSSESSION
+37,Jonathan DAVID Deflected,Off Target,0,Loose Ball,3,Canada,IN POSSESSION
+48,Alistair JOHNSTON Deflected,Off Target,0,Other,3,Canada,IN POSSESSION
+48,Derek CORNELIUS,Off Target,0,Corner,3,Canada,IN POSSESSION
+52,Richie LARYEA,On Target - Saved,0,Pass,3,Canada,IN POSSESSION
+64,Stephen EUSTAQUIO,Off Target,0,Pass,3,Canada,IN POSSESSION
+65,Tani OLUWASEYI,On Target - Goal,1,Cross,3,Canada,IN POSSESSION
+78,Cyle LARIN Deflected,On Target - Goal,1,Pass,3,Canada,IN POSSESSION
+95,Cyle LARIN,Incomplete - Blocked,0,Pass,3,Canada,IN POSSESSION
+2,Amar MEMIC,Off Target,0,Loose Ball,3,Bosnia and Herzegovina,IN POSSESSION
+4,Jovo LUKIC,Off Target,0,Cross,3,Bosnia and Herzegovina,IN POSSESSION
+12,Jovo LUKIC,On Target - Saved,0,Freekick,3,Bosnia and Herzegovina,IN POSSESSION
+20,Jovo LUKIC,On Target - Goal,1,Pass,3,Bosnia and Herzegovina,IN POSSESSION
+43,Benjamin TAHIROVIC,Off Target,0,Loose Ball,3,Bosnia and Herzegovina,IN POSSESSION
+45,Ermedin DEMIROVIC,On Target - Saved,0,Pass,3,Bosnia and Herzegovina,IN POSSESSION
+58,Tarik MUHAREMOVIC,Off Target,0,Corner,3,Bosnia and Herzegovina,IN POSSESSION
+84,Dzenis BURNIC,Incomplete,0,Loose Ball,3,Bosnia and Herzegovina,IN POSSESSION
+2,Folarin BALOGUN Deflected,On Target - Saved,0,Pass,4,USA,IN POSSESSION
+30,Folarin BALOGUN,On Target - Goal,1,Pass,4,USA,IN POSSESSION
+34,Folarin BALOGUN,Incomplete,0,Cross,4,USA,IN POSSESSION
+36,Malik TILLMAN Deflected,Off Target,0,Loose Ball,4,USA,IN POSSESSION
+37,Chris RICHARDS,Off Target,0,Corner,4,USA,IN POSSESSION
+42,Malik TILLMAN,On Target - Saved,0,Loose Ball,4,USA,IN POSSESSION
+46,Folarin BALOGUN,Incomplete - Blocked,0,Other,4,USA,IN POSSESSION
+56,Malik TILLMAN,Incomplete - Blocked,0,Pass,4,USA,IN POSSESSION
+60,Malik TILLMAN,Off Target,0,Loose Ball,4,USA,IN POSSESSION
+74,Malik TILLMAN,On Target - Saved,0,Pass,4,USA,IN POSSESSION
+88,Ricardo PEPI,Off Target,0,Pass,4,USA,IN POSSESSION
+89,Sebastian BERHALTER,Off Target,0,Other,4,USA,IN POSSESSION
+96,Timothy WEAH,Incomplete - Blocked,0,Pass,4,USA,IN POSSESSION
+1,Diego GOMEZ,Off Target,0,Pass,4,Paraguay,IN POSSESSION
+64,Diego GOMEZ,Off Target,0,Pass,4,Paraguay,IN POSSESSION
+70,Miguel ALMIRON,Incomplete - Blocked,0,Other,4,Paraguay,IN POSSESSION
+72,MAURICIO,On Target - Goal,1,Pass,4,Paraguay,IN POSSESSION
+10,Jean-Ricner BELLEGARDE,Off Target,0,Pass,5,Haiti,IN POSSESSION
+12,Wilson ISIDOR,Incomplete - Blocked,0,Pass,5,Haiti,IN POSSESSION
+33,Ricardo ADE,Incomplete,0,Freekick,5,Haiti,IN POSSESSION
+33,Ruben PROVIDENCE,On Target - Saved,0,Pass,5,Haiti,IN POSSESSION
+33,Frantzdy PIERROT,Incomplete - Blocked,0,Other,5,Haiti,IN POSSESSION
+35,Wilson ISIDOR,Off Target,0,Freekick,5,Haiti,IN POSSESSION
+41,Jean-Ricner BELLEGARDE,Off Target,0,Pass,5,Haiti,IN POSSESSION
+72,Ruben PROVIDENCE,Off Target,0,Loose Ball,5,Haiti,IN POSSESSION
+77,Jean-Ricner BELLEGARDE,Incomplete - Blocked,0,Pass,5,Haiti,IN POSSESSION
+78,Ruben PROVIDENCE Deflected,Off Target,0,Loose Ball,5,Haiti,IN POSSESSION
+84,Frantzdy PIERROT,Off Target,0,Cross,5,Haiti,IN POSSESSION
+93,Frantzdy PIERROT,On Target - Saved,0,Pass,5,Haiti,IN POSSESSION
+96,Martin EXPERIENCE,Off Target,0,Pass,5,Haiti,IN POSSESSION
+3,Lawrence SHANKLAND,Incomplete - Blocked,0,Pass,5,Scotland,IN POSSESSION
+6,Scott McTOMINAY,Off Target,0,Cross,5,Scotland,IN POSSESSION
+16,Scott McTOMINAY,Off Target,0,Pass,5,Scotland,IN POSSESSION
+27,Che ADAMS,On Target - Saved,0,Cross,5,Scotland,IN POSSESSION
+27,John McGINN Deflected,On Target - Goal,1,Other,5,Scotland,IN POSSESSION
+31,Lawrence SHANKLAND,Off Target,0,Cross,5,Scotland,IN POSSESSION
+54,Ben GANNONDOAK Deflected,Off Target,0,Cross,5,Scotland,IN POSSESSION
+72,John McGINN,Off Target,0,Pass,5,Scotland,IN POSSESSION
+16,Alessandro CIRCATI,Off Target,0,Corner,6,Australia,IN POSSESSION
+38,Jordan BOS,Off Target,0,Other,6,Australia,IN POSSESSION
+47,Jordan BOS Deflected,Off Target,0,Pass,6,Australia,IN POSSESSION
+48,Jacob ITALIANO,Off Target,0,Pass,6,Australia,IN POSSESSION
+53,Harry SOUTTAR,On Target - Saved,0,Corner,6,Australia,IN POSSESSION
+53,Mohamed TOURE,Incomplete - Blocked,0,Cross,6,Australia,IN POSSESSION
+74,Connor METCALFE,On Target - Goal,1,Loose Ball,6,Australia,IN POSSESSION
+2,Hakan CALHANOGLU Deflected,Off Target,0,Pass,6,Türkiye,IN POSSESSION
+3,Ismail YUKSEK Deflected,Off Target,0,Corner,6,Türkiye,IN POSSESSION
+6,Arda GULER,Off Target,0,Pass,6,Türkiye,IN POSSESSION
+18,Ferdi KADIOGLU,Off Target,0,Pass,6,Türkiye,IN POSSESSION
+26,Arda GULER,On Target - Saved,0,Loose Ball,6,Türkiye,IN POSSESSION
+29,Abdulkerim BARDAKCI,Off Target,0,Loose Ball,6,Türkiye,IN POSSESSION
+29,Hakan CALHANOGLU,Off Target,0,Pass,6,Türkiye,IN POSSESSION
+35,Orkun KOKCU,Off Target,0,Pass,6,Türkiye,IN POSSESSION
+41,Arda GULER,Off Target,0,Pass,6,Türkiye,IN POSSESSION
+45,Hakan CALHANOGLU,On Target - Saved,0,Pass,6,Türkiye,IN POSSESSION
+49,Hakan CALHANOGLU,Incomplete - Blocked,0,Loose Ball,6,Türkiye,IN POSSESSION
+50,Kerem AKTURKOGLU,Incomplete,0,Loose Ball,6,Türkiye,IN POSSESSION
+56,Arda GULER,On Target - Saved,0,Freekick,6,Türkiye,IN POSSESSION
+56,Ismail YUKSEK,Off Target,0,Pass,6,Türkiye,IN POSSESSION
+62,Kenan YILDIZ,Incomplete - Blocked,0,Pass,6,Türkiye,IN POSSESSION
+64,Arda GULER,Incomplete - Blocked,0,Pass,6,Türkiye,IN POSSESSION
+65,Kenan YILDIZ,Incomplete - Blocked,0,Pass,6,Türkiye,IN POSSESSION
+71,Zeki CELIK,On Target - Saved,0,Pass,6,Türkiye,IN POSSESSION
+73,Arda GULER,Off Target,0,Pass,6,Türkiye,IN POSSESSION
+76,Kenan YILDIZ,Incomplete - Blocked,0,Pass,6,Türkiye,IN POSSESSION
+76,Kerem AKTURKOGLU,On Target - Saved,0,Pass,6,Türkiye,IN POSSESSION
+81,Arda GULER,Off Target,0,Pass,6,Türkiye,IN POSSESSION
+85,Hakan CALHANOGLU,On Target - Saved,0,Freekick,6,Türkiye,IN POSSESSION
+88,Arda GULER,On Target - Saved,0,Pass,6,Türkiye,IN POSSESSION
+89,Merih DEMIRAL,Off Target,0,Pass,6,Türkiye,IN POSSESSION
+94,Kenan YILDIZ Deflected,Off Target,0,Loose Ball,6,Türkiye,IN POSSESSION
+8,RAPHINHA,Incomplete - Blocked,0,Pass,7,Brazil,IN POSSESSION
+13,IGOR THIAGO,Incomplete,0,Cross,7,Brazil,IN POSSESSION
+19,LUCAS PAQUETA,Incomplete - Blocked,0,Pass,7,Brazil,IN POSSESSION
+46,LUCAS PAQUETA,On Target - Saved,0,Cross,7,Brazil,IN POSSESSION
+47,MARQUINHOS,Off Target,0,Corner,7,Brazil,IN POSSESSION
+45,BRUNO GUIMARAES,Incomplete,0,Loose Ball,7,Brazil,IN POSSESSION
+47,MARQUINHOS Deflected,Off Target,0,Corner,7,Brazil,IN POSSESSION
+51,IGOR THIAGO,On Target - Saved,0,Other,7,Brazil,IN POSSESSION
+77,RAPHINHA,On Target - Saved,0,Cross,7,Brazil,IN POSSESSION
+90,DANILO SANTOS,Incomplete,0,Cross,7,Brazil,IN POSSESSION
+5,Brahim DIAZ,Incomplete - Blocked,0,Pass,7,Morocco,IN POSSESSION
+5,Neil EL AYNAOUI,Incomplete,0,Loose Ball,7,Morocco,IN POSSESSION
+6,Bilal EL KHANNOUSS,Incomplete - Blocked,0,Pass,7,Morocco,IN POSSESSION
+6,Achraf HAKIMI,Off Target,0,Pass,7,Morocco,IN POSSESSION
+8,Brahim DIAZ,Incomplete - Blocked,0,Pass,7,Morocco,IN POSSESSION
+10,Ismael SAIBARI,Incomplete - Blocked,0,Pass,7,Morocco,IN POSSESSION
+20,Ismael SAIBARI,On Target - Goal,1,Pass,7,Morocco,IN POSSESSION
+26,Achraf HAKIMI,Off Target,0,Pass,7,Morocco,IN POSSESSION
+28,Neil EL AYNAOUI,Incomplete,0,Freekick,7,Morocco,IN POSSESSION
+29,Ismael SAIBARI,Incomplete - Blocked,0,Pass,7,Morocco,IN POSSESSION
+30,Achraf HAKIMI,Off Target,0,Loose Ball,7,Morocco,IN POSSESSION
+98,Neil EL AYNAOUI,Off Target,0,Loose Ball,7,Morocco,IN POSSESSION
+98,Ayoube AMAIMOUNI,On Target - Saved,0,Other,7,Morocco,IN POSSESSION
+1,EDMILSON JUNIOR,On Target - Saved,0,Loose Ball,8,Qatar,IN POSSESSION
+29,ISSA LAYE,Off Target,0,Cross,8,Qatar,IN POSSESSION
+42,EDMILSON JUNIOR,On Target - Saved,0,Loose Ball,8,Qatar,IN POSSESSION
+43,HOMAM AHMED,Incomplete,0,Loose Ball,8,Qatar,IN POSSESSION
+74,KARIM BOUDIAF,Off Target,0,Pass,8,Qatar,IN POSSESSION
+89,AHMED ALAAELDIN,On Target - Saved,0,Pass,8,Qatar,IN POSSESSION
+0,Breel EMBOLO,Incomplete - Blocked,0,Pass,8,Switzerland,IN POSSESSION
+5,Dan NDOYE,On Target - Saved,0,Pass,8,Switzerland,IN POSSESSION
+9,Dan NDOYE,Off Target,0,Cross,8,Switzerland,IN POSSESSION
+11,Manuel AKANJI,On Target - Saved,0,Freekick,8,Switzerland,IN POSSESSION
+16,Breel EMBOLO,On Target - Goal,1,Penalty,8,Switzerland,IN POSSESSION
+20,Denis ZAKARIA,On Target - Saved,0,Pass,8,Switzerland,IN POSSESSION
+20,Ruben VARGAS,Incomplete - Blocked,0,Pass,8,Switzerland,IN POSSESSION
+33,Dan NDOYE,Incomplete - Blocked,0,Pass,8,Switzerland,IN POSSESSION
+34,Dan NDOYE,Off Target,0,Pass,8,Switzerland,IN POSSESSION
+41,Breel EMBOLO,Incomplete - Blocked,0,Corner,8,Switzerland,IN POSSESSION
+45,Dan NDOYE,On Target - Saved,0,Pass,8,Switzerland,IN POSSESSION
+47,Ruben VARGAS,Off Target,0,Pass,8,Switzerland,IN POSSESSION
+48,Denis ZAKARIA,Incomplete,0,Pass,8,Switzerland,IN POSSESSION
+50,Michel AEBISCHER,On Target - Goal,1,Pass,8,Switzerland,IN POSSESSION
+47,Nico ELVEDI Deflected,Off Target,0,Freekick,8,Switzerland,IN POSSESSION
+48,Granit XHAKA,Off Target,0,Pass,8,Switzerland,IN POSSESSION
+50,Dan NDOYE,Off Target,0,Cross,8,Switzerland,IN POSSESSION
+62,Nico ELVEDI,Incomplete - Blocked,0,Pass,8,Switzerland,IN POSSESSION
+66,Granit XHAKA,Off Target,0,Pass,8,Switzerland,IN POSSESSION
+71,Fabian RIEDER,Incomplete - Blocked,0,Pass,8,Switzerland,IN POSSESSION
+74,Ruben VARGAS,On Target - Saved,0,Pass,8,Switzerland,IN POSSESSION
+75,Breel EMBOLO,Off Target,0,Pass,8,Switzerland,IN POSSESSION
+80,Johan MANZAMBI,Off Target,0,Other,8,Switzerland,IN POSSESSION
+85,Johan MANZAMBI,Incomplete - Blocked,0,Pass,8,Switzerland,IN POSSESSION
+91,Zeki AMDOUNI,Incomplete - Blocked,0,Pass,8,Switzerland,IN POSSESSION
+96,Ardon JASHARI,Off Target,0,Loose Ball,8,Switzerland,IN POSSESSION
+15,Seko FOFANA,Incomplete,0,Pass,9,Côte d'Ivoire,IN POSSESSION
+17,Elye WAHI,On Target - Saved,0,Pass,9,Côte d'Ivoire,IN POSSESSION
+32,Seko FOFANA,Off Target,0,Pass,9,Côte d'Ivoire,IN POSSESSION
+34,Nicolas PEPE,Incomplete - Blocked,0,Pass,9,Côte d'Ivoire,IN POSSESSION
+46,Wilfried SINGO,Off Target,0,Cross,9,Côte d'Ivoire,IN POSSESSION
+49,Yan DIOMANDE,Off Target,0,Pass,9,Côte d'Ivoire,IN POSSESSION
+51,Elye WAHI,Off Target,0,Cross,9,Côte d'Ivoire,IN POSSESSION
+52,Seko FOFANA,Off Target,0,Pass,9,Côte d'Ivoire,IN POSSESSION
+60,Seko FOFANA Deflected,On Target - Saved,0,Corner,9,Côte d'Ivoire,IN POSSESSION
+89,Amad DIALLO,On Target - Goal,1,Pass,9,Côte d'Ivoire,IN POSSESSION
+93,Amad DIALLO,On Target - Saved,0,Pass,9,Côte d'Ivoire,IN POSSESSION
+96,Christ Inao OULAI,Off Target,0,Pass,9,Côte d'Ivoire,IN POSSESSION
+1,Moises CAICEDO,Off Target,0,Pass,9,Ecuador,IN POSSESSION
+13,John YEBOAH,Off Target,0,Loose Ball,9,Ecuador,IN POSSESSION
+23,Alan MINDA,Off Target,0,Loose Ball,9,Ecuador,IN POSSESSION
+29,Alan MINDA,Off Target,0,Pass,9,Ecuador,IN POSSESSION
+29,John YEBOAH,Off Target,0,Pass,9,Ecuador,IN POSSESSION
+45,Enner VALENCIA,Off Target,0,Pass,9,Ecuador,IN POSSESSION
+55,Pedro VITE,Off Target,0,Pass,9,Ecuador,IN POSSESSION
+67,Gonzalo PLATA,On Target - Saved,0,Pass,9,Ecuador,IN POSSESSION
+86,Joel ORDONEZ Deflected,Off Target,0,Freekick,9,Ecuador,IN POSSESSION
+87,Joel ORDONEZ,Incomplete - Blocked,0,Corner,9,Ecuador,IN POSSESSION
+98,Piero HINCAPIE Deflected,Off Target,0,Corner,9,Ecuador,IN POSSESSION
+5,Jamal MUSIALA,Incomplete - Blocked,0,Pass,10,Germany,IN POSSESSION
+5,Felix NMECHA,On Target - Goal,1,Pass,10,Germany,IN POSSESSION
+8,Felix NMECHA,Off Target,0,Pass,10,Germany,IN POSSESSION
+11,Felix NMECHA,On Target - Saved,0,Pass,10,Germany,IN POSSESSION
+13,Florian WIRTZ,Off Target,0,Pass,10,Germany,IN POSSESSION
+27,Nico SCHLOTTERBECK,On Target - Saved,0,Freekick,10,Germany,IN POSSESSION
+29,Aleksandar PAVLOVIC Deflected,Off Target,0,Pass,10,Germany,IN POSSESSION
+31,Leroy SANE,Incomplete - Blocked,0,Pass,10,Germany,IN POSSESSION
+44,Nathaniel BROWN,Incomplete - Blocked,0,Loose Ball,10,Germany,IN POSSESSION
+44,Aleksandar PAVLOVIC,On Target - Goal,1,Pass,10,Germany,IN POSSESSION
+44,Kai HAVERTZ,Incomplete,0,Loose Ball,10,Germany,IN POSSESSION
+49,Kai HAVERTZ,On Target - Goal,1,Penalty,10,Germany,IN POSSESSION
+46,Jamal MUSIALA,On Target - Goal,1,Pass,10,Germany,IN POSSESSION
+49,Felix NMECHA,On Target - Saved,0,Freekick,10,Germany,IN POSSESSION
+52,Florian WIRTZ Deflected,Off Target,0,Cross,10,Germany,IN POSSESSION
+53,Kai HAVERTZ,Incomplete - Blocked,0,Other,10,Germany,IN POSSESSION
+53,Aleksandar PAVLOVIC,Off Target,0,Pass,10,Germany,IN POSSESSION
+62,Leroy SANE,Off Target,0,Pass,10,Germany,IN POSSESSION
+67,Nathaniel BROWN,On Target - Goal,1,Pass,10,Germany,IN POSSESSION
+77,Deniz UNDAV,On Target - Goal,1,Pass,10,Germany,IN POSSESSION
+85,David RAUM Deflected,On Target - Saved,0,Pass,10,Germany,IN POSSESSION
+87,Kai HAVERTZ Deflected,On Target - Goal,1,Pass,10,Germany,IN POSSESSION
+18,Leandro BACUNA,Off Target,0,Other,10,Curaçao,IN POSSESSION
+20,Livano COMENENCIA Deflected,On Target - Goal,1,Loose Ball,10,Curaçao,IN POSSESSION
+35,Juninho BACUNA,Off Target,0,Pass,10,Curaçao,IN POSSESSION
+46,Sontje HANSEN,On Target - Saved,0,Pass,10,Curaçao,IN POSSESSION
+61,Leandro BACUNA,Off Target,0,Freekick,10,Curaçao,IN POSSESSION
+66,Livano COMENENCIA,Incomplete,0,Loose Ball,10,Curaçao,IN POSSESSION
+75,Jearl MARGARITHA,Off Target,0,Pass,10,Curaçao,IN POSSESSION
+8,Alexis MAC ALLISTER Deflected,Off Target,0,Pass,100,Argentina,IN POSSESSION
+8,Alexis MAC ALLISTER,Incomplete,0,Corner,100,Argentina,IN POSSESSION
+9,Alexis MAC ALLISTER,On Target - Goal,1,Corner,100,Argentina,IN POSSESSION
+49,Nahuel MOLINA,Off Target,0,Pass,100,Argentina,IN POSSESSION
+51,Julian ALVAREZ Deflected,Off Target,0,Other,100,Argentina,IN POSSESSION
+88,Alexis MAC ALLISTER,Off Target,0,Cross,100,Argentina,IN POSSESSION
+91,Lionel MESSI,Off Target,0,Pass,100,Argentina,IN POSSESSION
+98,Lisandro MARTINEZ,On Target - Saved,0,Loose Ball,100,Argentina,IN POSSESSION
+90,Lautaro MARTINEZ,Incomplete - Blocked,0,Loose Ball,100,Argentina,IN POSSESSION
+90,Nico GONZALEZ Deflected,Off Target,0,Loose Ball,100,Argentina,IN POSSESSION
+92,Thiago ALMADA,On Target - Saved,0,Pass,100,Argentina,IN POSSESSION
+94,Thiago ALMADA,Off Target,0,Pass,100,Argentina,IN POSSESSION
+102,Lionel MESSI,Incomplete - Blocked,0,Freekick,100,Argentina,IN POSSESSION
+106,Cristian ROMERO,Off Target,0,Corner,100,Argentina,IN POSSESSION
+111,Lionel MESSI,On Target - Saved,0,Pass,100,Argentina,IN POSSESSION
+111,Julian ALVAREZ,On Target - Goal,1,Pass,100,Argentina,IN POSSESSION
+118,Lionel MESSI Deflected,Off Target,0,Pass,100,Argentina,IN POSSESSION
+120,Lautaro MARTINEZ,On Target - Goal,1,Other,100,Argentina,IN POSSESSION
+0,Denis ZAKARIA,Incomplete - Blocked,0,Other,100,Switzerland,IN POSSESSION
+6,Granit XHAKA,Off Target,0,Loose Ball,100,Switzerland,IN POSSESSION
+19,Djibril SOW,On Target - Saved,0,Pass,100,Switzerland,IN POSSESSION
+46,Fabian RIEDER Deflected,Off Target,0,Pass,100,Switzerland,IN POSSESSION
+54,Dan NDOYE,Incomplete - Blocked,0,Pass,100,Switzerland,IN POSSESSION
+59,Breel EMBOLO,On Target - Saved,0,Cross,100,Switzerland,IN POSSESSION
+64,Dan NDOYE,On Target - Saved,0,Cross,100,Switzerland,IN POSSESSION
+65,Granit XHAKA,On Target - Saved,0,Pass,100,Switzerland,IN POSSESSION
+66,Dan NDOYE,On Target - Goal,1,Pass,100,Switzerland,IN POSSESSION
+98,Granit XHAKA,Off Target,0,Pass,100,Switzerland,IN POSSESSION
+104,Ardon JASHARI,Off Target,0,Pass,100,Switzerland,IN POSSESSION
+33,Donyell MALEN,On Target - Saved,0,Corner,11,Netherlands,IN POSSESSION
+33,Micky VAN DE VEN,Off Target,0,Cross,11,Netherlands,IN POSSESSION
+35,Cody GAKPO,Off Target,0,Loose Ball,11,Netherlands,IN POSSESSION
+50,Virgil VAN DIJK,On Target - Goal,1,Cross,11,Netherlands,IN POSSESSION
+63,Crysencio SUMMERVILLE,On Target - Goal,1,Pass,11,Netherlands,IN POSSESSION
+72,Cody GAKPO,On Target - Saved,0,Pass,11,Netherlands,IN POSSESSION
+72,Jan Paul VAN HECKE,On Target - Saved,0,Corner,11,Netherlands,IN POSSESSION
+75,Teun KOOPMEINERS Deflected,Off Target,0,Pass,11,Netherlands,IN POSSESSION
+92,Teun KOOPMEINERS,Off Target,0,Cross,11,Netherlands,IN POSSESSION
+27,Hiroki ITO,Off Target,0,Pass,11,Japan,IN POSSESSION
+42,Keito NAKAMURA,Off Target,0,Cross,11,Japan,IN POSSESSION
+44,Ayase UEDA,Off Target,0,Pass,11,Japan,IN POSSESSION
+56,Keito NAKAMURA Deflected,On Target - Goal,1,Pass,11,Japan,IN POSSESSION
+66,Takefusa KUBO,Off Target,0,Loose Ball,11,Japan,IN POSSESSION
+74,Keito NAKAMURA,Off Target,0,Corner,11,Japan,IN POSSESSION
+77,Koki OGAWA,Incomplete,0,Cross,11,Japan,IN POSSESSION
+79,Yukinari SUGAWARA,On Target - Saved,0,Cross,11,Japan,IN POSSESSION
+88,Koki OGAWA,Incomplete,0,Corner,11,Japan,IN POSSESSION
+4,Viktor GYOKERES,Off Target,0,Pass,12,Sweden,IN POSSESSION
+6,Yasin AYARI,On Target - Goal,1,Loose Ball,12,Sweden,IN POSSESSION
+32,Victor LINDELOF,Off Target,0,Corner,12,Sweden,IN POSSESSION
+52,Viktor GYOKERES,Incomplete - Blocked,0,Loose Ball,12,Sweden,IN POSSESSION
+58,Viktor GYOKERES,On Target - Goal,1,Pass,12,Sweden,IN POSSESSION
+65,Viktor GYOKERES,Off Target,0,Pass,12,Sweden,IN POSSESSION
+67,Alexander ISAK,Incomplete - Blocked,0,Pass,12,Sweden,IN POSSESSION
+83,Mattias SVANBERG,On Target - Goal,1,Pass,12,Sweden,IN POSSESSION
+87,Alexander ISAK,On Target - Saved,0,Pass,12,Sweden,IN POSSESSION
+95,Yasin AYARI,On Target - Goal,1,Pass,12,Sweden,IN POSSESSION
+17,Elias SAAD,Off Target,0,Pass,12,Tunisia,IN POSSESSION
+30,Rani KHEDIRA,Incomplete,0,Pass,12,Tunisia,IN POSSESSION
+42,Omar REKIK,On Target - Goal,1,Cross,12,Tunisia,IN POSSESSION
+51,Hannibal MEJBRI,Off Target,0,Freekick,12,Tunisia,IN POSSESSION
+54,Montassar TALBI,Incomplete,0,Corner,12,Tunisia,IN POSSESSION
+92,Elias ACHOURI,On Target - Saved,0,Loose Ball,12,Tunisia,IN POSSESSION
+17,SALEM ALDAWSARI,Off Target,0,Pass,13,Saudi Arabia,IN POSSESSION
+37,ABDULELAH ALAMRI,On Target - Saved,0,Corner,13,Saudi Arabia,IN POSSESSION
+38,ABDULLAH ALKHAIBARI,Off Target,0,Loose Ball,13,Saudi Arabia,IN POSSESSION
+40,MOHAMED KANNO,On Target - Saved,0,Corner,13,Saudi Arabia,IN POSSESSION
+40,ABDULELAH ALAMRI,On Target - Goal,1,Other,13,Saudi Arabia,IN POSSESSION
+86,MOHAMED KANNO,Incomplete - Blocked,0,Loose Ball,13,Saudi Arabia,IN POSSESSION
+4,Maxi ARAUJO,On Target - Saved,0,Pass,13,Uruguay,IN POSSESSION
+5,Federico VINAS,Incomplete,0,Corner,13,Uruguay,IN POSSESSION
+20,Rodrigo BENTANCUR,Incomplete,0,Freekick,13,Uruguay,IN POSSESSION
+44,Federico VINAS,On Target - Saved,0,Freekick,13,Uruguay,IN POSSESSION
+45,Darwin NUNEZ,Incomplete,0,Corner,13,Uruguay,IN POSSESSION
+45,Federico VINAS,On Target - Saved,0,Cross,13,Uruguay,IN POSSESSION
+49,Federico VINAS,Off Target,0,Corner,13,Uruguay,IN POSSESSION
+53,Mathias OLIVERA,Incomplete - Blocked,0,Corner,13,Uruguay,IN POSSESSION
+53,Manuel UGARTE,Off Target,0,Loose Ball,13,Uruguay,IN POSSESSION
+58,Agustin CANOBBIO,Off Target,0,Cross,13,Uruguay,IN POSSESSION
+59,Manuel UGARTE,On Target - Saved,0,Pass,13,Uruguay,IN POSSESSION
+59,Juan Manuel SANABRIA,Off Target,0,Loose Ball,13,Uruguay,IN POSSESSION
+66,Federico VALVERDE,On Target - Saved,0,Freekick,13,Uruguay,IN POSSESSION
+66,Guillermo VARELA,Incomplete - Blocked,0,Loose Ball,13,Uruguay,IN POSSESSION
+78,Nicolas DE LA CRUZ,Incomplete - Blocked,0,Pass,13,Uruguay,IN POSSESSION
+79,Federico VINAS,On Target - Saved,0,Pass,13,Uruguay,IN POSSESSION
+79,Maxi ARAUJO,On Target - Goal,1,Other,13,Uruguay,IN POSSESSION
+81,Juan Manuel SANABRIA Deflected,Off Target,0,Pass,13,Uruguay,IN POSSESSION
+82,Sebastian CACERES,Off Target,0,Corner,13,Uruguay,IN POSSESSION
+90,Nicolas DE LA CRUZ,On Target - Saved,0,Pass,13,Uruguay,IN POSSESSION
+92,Federico VALVERDE,On Target - Saved,0,Corner,13,Uruguay,IN POSSESSION
+93,Sebastian CACERES,Off Target,0,Corner,13,Uruguay,IN POSSESSION
+94,Federico VALVERDE Deflected,Off Target,0,Pass,13,Uruguay,IN POSSESSION
+95,Guillermo VARELA,Incomplete - Blocked,0,Loose Ball,13,Uruguay,IN POSSESSION
+95,Brian RODRIGUEZ,On Target - Saved,0,Pass,13,Uruguay,IN POSSESSION
+97,Juan Manuel SANABRIA,Incomplete,0,Loose Ball,13,Uruguay,IN POSSESSION
+14,PEDRI,On Target - Saved,0,Loose Ball,14,Spain,IN POSSESSION
+18,Fabian RUIZ,Incomplete,0,Loose Ball,14,Spain,IN POSSESSION
+19,Pau CUBARSI,Incomplete,0,Pass,14,Spain,IN POSSESSION
+28,GAVI,Incomplete - Blocked,0,Pass,14,Spain,IN POSSESSION
+28,Marc CUCURELLA,Off Target,0,Other,14,Spain,IN POSSESSION
+38,Ferran TORRES,Off Target,0,Pass,14,Spain,IN POSSESSION
+38,Mikel OYARZABAL,On Target - Saved,0,Other,14,Spain,IN POSSESSION
+39,Ferran TORRES,Incomplete - Blocked,0,Corner,14,Spain,IN POSSESSION
+40,Fabian RUIZ,Off Target,0,Pass,14,Spain,IN POSSESSION
+44,Ferran TORRES,On Target - Saved,0,Loose Ball,14,Spain,IN POSSESSION
+46,Aymeric LAPORTE Deflected,On Target - Saved,0,Corner,14,Spain,IN POSSESSION
+48,Mikel OYARZABAL,Off Target,0,Cross,14,Spain,IN POSSESSION
+47,Mikel OYARZABAL,Incomplete,0,Cross,14,Spain,IN POSSESSION
+47,Fabian RUIZ,Off Target,0,Pass,14,Spain,IN POSSESSION
+50,Fabian RUIZ,Off Target,0,Pass,14,Spain,IN POSSESSION
+55,Fabian RUIZ,On Target - Saved,0,Cross,14,Spain,IN POSSESSION
+57,Aymeric LAPORTE,Off Target,0,Pass,14,Spain,IN POSSESSION
+72,Mikel MERINO,On Target - Saved,0,Pass,14,Spain,IN POSSESSION
+74,Ferran TORRES,Incomplete - Blocked,0,Pass,14,Spain,IN POSSESSION
+77,PEDRI,Incomplete - Blocked,0,Pass,14,Spain,IN POSSESSION
+81,Marc CUCURELLA,On Target - Saved,0,Pass,14,Spain,IN POSSESSION
+84,RODRI,Off Target,0,Loose Ball,14,Spain,IN POSSESSION
+87,Mikel OYARZABAL Deflected,Off Target,0,Pass,14,Spain,IN POSSESSION
+91,Lamine YAMAL,Incomplete,0,Pass,14,Spain,IN POSSESSION
+94,Mikel OYARZABAL,Off Target,0,Corner,14,Spain,IN POSSESSION
+34,DAILON LIVRAMENTO,Off Target,0,Loose Ball,14,Cabo Verde,IN POSSESSION
+37,JOVANE CABRAL,Off Target,0,Freekick,14,Cabo Verde,IN POSSESSION
+89,KEVIN PINA Deflected,Off Target,0,Pass,14,Cabo Verde,IN POSSESSION
+90,DINEY BORGES,On Target - Saved,0,Corner,14,Cabo Verde,IN POSSESSION
+93,RYAN MENDES,Off Target,0,Pass,14,Cabo Verde,IN POSSESSION
+22,Mehdi TAREMI,Off Target,0,Pass,15,IR Iran,IN POSSESSION
+29,Saman GHODDOS,Off Target,0,Loose Ball,15,IR Iran,IN POSSESSION
+31,Shahriyar MOGHANLOO,Incomplete,0,Loose Ball,15,IR Iran,IN POSSESSION
+31,Ramin REZAEIAN,On Target - Goal,1,Loose Ball,15,IR Iran,IN POSSESSION
+47,Shahriyar MOGHANLOO,Off Target,0,Other,15,IR Iran,IN POSSESSION
+48,Mehdi GHAYEDI,Incomplete - Blocked,0,Pass,15,IR Iran,IN POSSESSION
+50,Shahriyar MOGHANLOO,Off Target,0,Pass,15,IR Iran,IN POSSESSION
+63,Mohammad MOHEBBI,On Target - Goal,1,Cross,15,IR Iran,IN POSSESSION
+72,Mohammad MOHEBBI,Incomplete - Blocked,0,Pass,15,IR Iran,IN POSSESSION
+79,Mehdi TAREMI,Off Target,0,Cross,15,IR Iran,IN POSSESSION
+84,Ali ALIPOUR,Incomplete - Blocked,0,Loose Ball,15,IR Iran,IN POSSESSION
+84,Saeid EZATOLAHI,Off Target,0,Loose Ball,15,IR Iran,IN POSSESSION
+86,Saeid EZATOLAHI,On Target - Saved,0,Pass,15,IR Iran,IN POSSESSION
+88,Ali NEMATI,Incomplete,0,Loose Ball,15,IR Iran,IN POSSESSION
+6,Elijah JUST,On Target - Goal,1,Other,15,New Zealand,IN POSSESSION
+14,Callum McCOWATT,Incomplete,0,Loose Ball,15,New Zealand,IN POSSESSION
+14,Chris WOOD,Incomplete,0,Loose Ball,15,New Zealand,IN POSSESSION
+29,Liberato CACACE,On Target - Saved,0,Pass,15,New Zealand,IN POSSESSION
+44,Chris WOOD,On Target - Saved,0,Freekick,15,New Zealand,IN POSSESSION
+54,Elijah JUST,On Target - Goal,1,Pass,15,New Zealand,IN POSSESSION
+80,Finn SURMAN,Incomplete,0,Cross,15,New Zealand,IN POSSESSION
+92,Chris WOOD,On Target - Saved,0,Cross,15,New Zealand,IN POSSESSION
+5,Leandro TROSSARD,Incomplete - Blocked,0,Pass,16,Belgium,IN POSSESSION
+6,Kevin DE BRUYNE,Off Target,0,Pass,16,Belgium,IN POSSESSION
+30,Youri TIELEMANS,Off Target,0,Cross,16,Belgium,IN POSSESSION
+37,Leandro TROSSARD,Incomplete,0,Pass,16,Belgium,IN POSSESSION
+38,Leandro TROSSARD,Deflected On Target - Defensive Event,0,Pass,16,Belgium,IN POSSESSION
+42,Kevin DE BRUYNE,Incomplete,0,Pass,16,Belgium,IN POSSESSION
+45,Jeremy DOKU,Off Target,0,Pass,16,Belgium,IN POSSESSION
+52,Kevin DE BRUYNE,Off Target,0,Freekick,16,Belgium,IN POSSESSION
+61,Youri TIELEMANS,Off Target,0,Loose Ball,16,Belgium,IN POSSESSION
+61,Kevin DE BRUYNE,On Target - Saved,0,Pass,16,Belgium,IN POSSESSION
+72,Thomas MEUNIER,On Target - Saved,0,Pass,16,Belgium,IN POSSESSION
+82,Brandon MECHELE,On Target - Saved,0,Pass,16,Belgium,IN POSSESSION
+86,Romelu LUKAKU,Off Target,0,Cross,16,Belgium,IN POSSESSION
+93,Brandon MECHELE,Off Target,0,Freekick,16,Belgium,IN POSSESSION
+19,EMAM ASHOUR,On Target - Goal,1,Pass,16,Egypt,IN POSSESSION
+32,MOSTAFA ZICO,On Target - Saved,0,Pass,16,Egypt,IN POSSESSION
+48,OMAR MARMOUSH,Off Target,0,Loose Ball,16,Egypt,IN POSSESSION
+48,MOHAMED HANY Deflected,Off Target,0,Loose Ball,16,Egypt,IN POSSESSION
+47,MOSTAFA ZICO,Incomplete - Blocked,0,Cross,16,Egypt,IN POSSESSION
+47,OMAR MARMOUSH,Incomplete - Blocked,0,Loose Ball,16,Egypt,IN POSSESSION
+54,MOHAMED SALAH,On Target - Saved,0,Cross,16,Egypt,IN POSSESSION
+54,EMAM ASHOUR,Off Target,0,Loose Ball,16,Egypt,IN POSSESSION
+56,MARAWAN ATTIA,Incomplete - Blocked,0,Loose Ball,16,Egypt,IN POSSESSION
+64,OMAR MARMOUSH Deflected,Off Target,0,Pass,16,Egypt,IN POSSESSION
+78,ZIZO,Incomplete - Blocked,0,Pass,16,Egypt,IN POSSESSION
+83,OMAR MARMOUSH,Incomplete - Blocked,0,Pass,16,Egypt,IN POSSESSION
+18,Ousmane DEMBELE,Incomplete - Blocked,0,Pass,17,France,IN POSSESSION
+46,Desire DOUE,Off Target,0,Pass,17,France,IN POSSESSION
+56,Kylian MBAPPE,On Target - Saved,0,Pass,17,France,IN POSSESSION
+64,Theo HERNANDEZ,Incomplete - Blocked,0,Pass,17,France,IN POSSESSION
+65,Kylian MBAPPE,On Target - Goal,1,Pass,17,France,IN POSSESSION
+71,Michael OLISE,On Target - Saved,0,Loose Ball,17,France,IN POSSESSION
+73,Desire DOUE Deflected,On Target - Saved,0,Pass,17,France,IN POSSESSION
+81,Bradley BARCOLA,On Target - Goal,1,Pass,17,France,IN POSSESSION
+84,Kylian MBAPPE,On Target - Saved,0,Pass,17,France,IN POSSESSION
+95,Kylian MBAPPE,On Target - Goal,1,Loose Ball,17,France,IN POSSESSION
+6,Ismaila SARR,Incomplete - Blocked,0,Pass,17,Senegal,IN POSSESSION
+24,Nicolas JACKSON,Off Target,0,Pass,17,Senegal,IN POSSESSION
+30,Ismaila SARR,Off Target,0,Pass,17,Senegal,IN POSSESSION
+39,Sadio MANE,On Target - Saved,0,Pass,17,Senegal,IN POSSESSION
+50,Ismaila SARR,Off Target,0,Cross,17,Senegal,IN POSSESSION
+4,AYMEN HUSSEIN,Off Target,0,Other,18,Iraq,IN POSSESSION
+12,ALI ALHAMADI,Off Target,0,Pass,18,Iraq,IN POSSESSION
+27,ZAID TAHSEEN,Off Target,0,Loose Ball,18,Iraq,IN POSSESSION
+38,AYMEN HUSSEIN,On Target - Goal,1,Cross,18,Iraq,IN POSSESSION
+47,ALI ALHAMADI,Incomplete,0,Pass,18,Iraq,IN POSSESSION
+47,IBRAHIM BAYESH Deflected,Off Target,0,Loose Ball,18,Iraq,IN POSSESSION
+48,ZAID TAHSEEN,Off Target,0,Cross,18,Iraq,IN POSSESSION
+49,ALI ALHAMADI Deflected,Off Target,0,Pass,18,Iraq,IN POSSESSION
+50,AKAM HASHIM,Off Target,0,Loose Ball,18,Iraq,IN POSSESSION
+52,AYMEN HUSSEIN,Off Target,0,Pass,18,Iraq,IN POSSESSION
+62,HUSSEIN ALI,Off Target,0,Pass,18,Iraq,IN POSSESSION
+19,Erling HAALAND,Off Target,0,Corner,18,Norway,IN POSSESSION
+23,Alexander SORLOTH,Deflected On Target - Defensive Event,0,Other,18,Norway,IN POSSESSION
+28,Erling HAALAND,On Target - Goal,1,Cross,18,Norway,IN POSSESSION
+30,Alexander SORLOTH,Incomplete - Blocked,0,Pass,18,Norway,IN POSSESSION
+36,Martin ODEGAARD,Off Target,0,Pass,18,Norway,IN POSSESSION
+75,Kristian THORSTVEDT Deflected,Off Target,0,Pass,18,Norway,IN POSSESSION
+75,Leo OSTIGARD,On Target - Goal,1,Corner,18,Norway,IN POSSESSION
+81,Leo OSTIGARD,Off Target,0,Freekick,18,Norway,IN POSSESSION
+82,Erling HAALAND,On Target - Saved,0,Loose Ball,18,Norway,IN POSSESSION
+90,Kristian THORSTVEDT,Off Target,0,Loose Ball,18,Norway,IN POSSESSION
+16,Lionel MESSI,On Target - Goal,1,Pass,19,Argentina,IN POSSESSION
+36,Lionel MESSI,Incomplete,0,Freekick,19,Argentina,IN POSSESSION
+41,Thiago ALMADA,Off Target,0,Pass,19,Argentina,IN POSSESSION
+49,Alexis MAC ALLISTER,Off Target,0,Freekick,19,Argentina,IN POSSESSION
+50,Lionel MESSI,Off Target,0,Pass,19,Argentina,IN POSSESSION
+53,Lautaro MARTINEZ,On Target - Saved,0,Pass,19,Argentina,IN POSSESSION
+59,Alexis MAC ALLISTER,On Target - Saved,0,Loose Ball,19,Argentina,IN POSSESSION
+59,Lionel MESSI,On Target - Goal,1,Other,19,Argentina,IN POSSESSION
+65,Lionel MESSI,On Target - Saved,0,Pass,19,Argentina,IN POSSESSION
+75,Lionel MESSI,On Target - Goal,1,Pass,19,Argentina,IN POSSESSION
+40,Fares CHAIBI,Off Target,0,Pass,19,Algeria,IN POSSESSION
+44,Fares CHAIBI,Off Target,0,Pass,19,Algeria,IN POSSESSION
+56,Ibrahim MAZA,Incomplete - Blocked,0,Pass,19,Algeria,IN POSSESSION
+68,Houssem AOUAR,Off Target,0,Pass,19,Algeria,IN POSSESSION
+85,Riyad MAHREZ,Incomplete - Blocked,0,Freekick,19,Algeria,IN POSSESSION
+10,David ALABA,Incomplete - Blocked,0,Loose Ball,20,Austria,IN POSSESSION
+18,Marcel SABITZER,Incomplete - Blocked,0,Pass,20,Austria,IN POSSESSION
+20,Romano SCHMID,On Target - Goal,1,Pass,20,Austria,IN POSSESSION
+32,Stefan POSCH,Off Target,0,Loose Ball,20,Austria,IN POSSESSION
+48,Sasa KALAJDZIC,Off Target,0,Pass,20,Austria,IN POSSESSION
+59,Stefan POSCH,Off Target,0,Other,20,Austria,IN POSSESSION
+62,Carney CHUKWUEMEKA,On Target - Goal,1,Pass,20,Austria,IN POSSESSION
+91,Marko ARNAUTOVIC,On Target - Saved,0,Loose Ball,20,Austria,IN POSSESSION
+93,Konrad LAIMER,Off Target,0,Loose Ball,20,Austria,IN POSSESSION
+101,Marko ARNAUTOVIC,On Target - Goal,1,Penalty,20,Austria,IN POSSESSION
+1,EHSAN HADDAD,Off Target,0,Pass,20,Jordan,IN POSSESSION
+8,MOUSA ALTAMARI,On Target - Saved,0,Pass,20,Jordan,IN POSSESSION
+16,ODEH FAKHOURY Deflected,On Target - Saved,0,Freekick,20,Jordan,IN POSSESSION
+21,ALI OLWAN,Off Target,0,Cross,20,Jordan,IN POSSESSION
+33,ALI OLWAN,On Target - Saved,0,Pass,20,Jordan,IN POSSESSION
+33,MOUSA ALTAMARI,Incomplete - Blocked,0,Other,20,Jordan,IN POSSESSION
+43,MOUSA ALTAMARI,Incomplete - Blocked,0,Freekick,20,Jordan,IN POSSESSION
+49,ALI OLWAN,On Target - Goal,1,Pass,20,Jordan,IN POSSESSION
+47,Jonas ADJETEY,On Target - Saved,0,Cross,21,Ghana,IN POSSESSION
+49,Caleb YIRENKYI,Off Target,0,Pass,21,Ghana,IN POSSESSION
+58,Abdul FATAWU,Off Target,0,Loose Ball,21,Ghana,IN POSSESSION
+65,Antoine SEMENYO,Incomplete,0,Other,21,Ghana,IN POSSESSION
+66,Antoine SEMENYO,Incomplete - Blocked,0,Loose Ball,21,Ghana,IN POSSESSION
+72,Jonas ADJETEY,Off Target,0,Freekick,21,Ghana,IN POSSESSION
+94,Caleb YIRENKYI,On Target - Goal,1,Cross,21,Ghana,IN POSSESSION
+1,Cecilio WATERMAN,On Target - Saved,0,Cross,21,Panama,IN POSSESSION
+4,Cesar BLACKMAN,Incomplete - Blocked,0,Pass,21,Panama,IN POSSESSION
+37,Jiovany RAMOS,Off Target,0,Loose Ball,21,Panama,IN POSSESSION
+52,Edgar Yoel BARCENAS,Incomplete - Blocked,0,Loose Ball,21,Panama,IN POSSESSION
+59,Carlos HARVEY,Incomplete,0,Loose Ball,21,Panama,IN POSSESSION
+59,Cristian MARTINEZ,Off Target,0,Loose Ball,21,Panama,IN POSSESSION
+63,Cesar BLACKMAN,On Target - Saved,0,Pass,21,Panama,IN POSSESSION
+84,Ismael DIAZ,On Target - Saved,0,Other,21,Panama,IN POSSESSION
+86,Edgar Yoel BARCENAS,Off Target,0,Pass,21,Panama,IN POSSESSION
+98,Ismael DIAZ,On Target - Saved,0,Pass,21,Panama,IN POSSESSION
+7,Harry KANE Deflected,Off Target,0,Loose Ball,22,England,IN POSSESSION
+8,Ezri KONSA,Incomplete,0,Other,22,England,IN POSSESSION
+11,Harry KANE,On Target - Goal,1,Penalty,22,England,IN POSSESSION
+15,Noni MADUEKE Deflected,Off Target,0,Loose Ball,22,England,IN POSSESSION
+15,Elliot ANDERSON,Incomplete - Blocked,0,Loose Ball,22,England,IN POSSESSION
+30,Jude BELLINGHAM,Incomplete,0,Cross,22,England,IN POSSESSION
+34,Harry KANE,Incomplete,0,Cross,22,England,IN POSSESSION
+41,Harry KANE,On Target - Goal,1,Corner,22,England,IN POSSESSION
+45,Reece JAMES,Incomplete - Blocked,0,Freekick,22,England,IN POSSESSION
+46,Jude BELLINGHAM,On Target - Goal,1,Pass,22,England,IN POSSESSION
+47,Jude BELLINGHAM,On Target - Saved,0,Loose Ball,22,England,IN POSSESSION
+51,Declan RICE,On Target - Saved,0,Pass,22,England,IN POSSESSION
+55,Nico OREILLY,On Target - Saved,0,Corner,22,England,IN POSSESSION
+55,Anthony GORDON,On Target - Saved,0,Other,22,England,IN POSSESSION
+55,Ezri KONSA,On Target - Saved,0,Loose Ball,22,England,IN POSSESSION
+56,Harry KANE,On Target - Saved,0,Pass,22,England,IN POSSESSION
+56,Harry KANE,Off Target,0,Pass,22,England,IN POSSESSION
+68,Anthony GORDON,Incomplete - Blocked,0,Pass,22,England,IN POSSESSION
+81,Djed SPENCE,On Target - Saved,0,Pass,22,England,IN POSSESSION
+84,Marcus RASHFORD,On Target - Goal,1,Pass,22,England,IN POSSESSION
+95,Harry KANE,Off Target,0,Pass,22,England,IN POSSESSION
+2,Josip SUTALO,Off Target,0,Corner,22,Croatia,IN POSSESSION
+35,Martin BATURINA,On Target - Goal,1,Pass,22,Croatia,IN POSSESSION
+48,Mario PASALIC,Off Target,0,Pass,22,Croatia,IN POSSESSION
+49,Petar MUSA,On Target - Goal,1,Pass,22,Croatia,IN POSSESSION
+75,Marco PASALIC,On Target - Saved,0,Pass,22,Croatia,IN POSSESSION
+80,Petar SUCIC,Off Target,0,Loose Ball,22,Croatia,IN POSSESSION
+83,Mateo KOVACIC,On Target - Saved,0,Loose Ball,22,Croatia,IN POSSESSION
+93,Andrej KRAMARIC,Incomplete - Blocked,0,Pass,22,Croatia,IN POSSESSION
+94,Josko GVARDIOL,Incomplete - Blocked,0,Loose Ball,22,Croatia,IN POSSESSION
+5,JOAO NEVES,On Target - Goal,1,Cross,23,Portugal,IN POSSESSION
+38,BRUNO FERNANDES,Incomplete - Blocked,0,Pass,23,Portugal,IN POSSESSION
+67,CRISTIANO RONALDO,Off Target,0,Pass,23,Portugal,IN POSSESSION
+73,CRISTIANO RONALDO,Off Target,0,Cross,23,Portugal,IN POSSESSION
+77,FRANCISCO CONCEICAO Deflected,Off Target,0,Cross,23,Portugal,IN POSSESSION
+89,BRUNO FERNANDES,Off Target,0,Other,23,Portugal,IN POSSESSION
+91,CRISTIANO RONALDO,Incomplete,0,Cross,23,Portugal,IN POSSESSION
+10,Yoane WISSA,Off Target,0,Loose Ball,23,Congo DR,IN POSSESSION
+45,Samuel MOUTOUSSAMY,Incomplete,0,Pass,23,Congo DR,IN POSSESSION
+47,Samuel MOUTOUSSAMY Deflected,Off Target,0,Pass,23,Congo DR,IN POSSESSION
+49,Yoane WISSA,On Target - Goal,1,Cross,23,Congo DR,IN POSSESSION
+62,Steve KAPUADI,Off Target,0,Pass,23,Congo DR,IN POSSESSION
+76,Cedric BAKAMBU,Off Target,0,Pass,23,Congo DR,IN POSSESSION
+46,Behruzjon KARIMOV,Incomplete,0,Loose Ball,24,Uzbekistan,IN POSSESSION
+59,Eldor SHOMURODOV,On Target - Saved,0,Cross,24,Uzbekistan,IN POSSESSION
+59,Abbosbek FAYZULLAEV,On Target - Goal,1,Other,24,Uzbekistan,IN POSSESSION
+87,Dostonbek KHAMDAMOV Deflected,Off Target,0,Pass,24,Uzbekistan,IN POSSESSION
+89,Akmal MOZGOVOY,Off Target,0,Pass,24,Uzbekistan,IN POSSESSION
+91,Dostonbek KHAMDAMOV,Incomplete,0,Pass,24,Uzbekistan,IN POSSESSION
+100,Behruzjon KARIMOV,Off Target,0,Loose Ball,24,Uzbekistan,IN POSSESSION
+16,Jhon ARIAS,Off Target,0,Pass,24,Colombia,IN POSSESSION
+31,Luis DIAZ,Off Target,0,Pass,24,Colombia,IN POSSESSION
+39,James RODRIGUEZ,Incomplete - Blocked,0,Loose Ball,24,Colombia,IN POSSESSION
+40,Daniel MUNOZ,On Target - Goal,1,Pass,24,Colombia,IN POSSESSION
+44,James RODRIGUEZ,On Target - Saved,0,Pass,24,Colombia,IN POSSESSION
+48,Jefferson LERMA,Incomplete,0,Loose Ball,24,Colombia,IN POSSESSION
+48,Gustavo PUERTA,Incomplete - Blocked,0,Pass,24,Colombia,IN POSSESSION
+63,Jhon ARIAS,Incomplete - Blocked,0,Pass,24,Colombia,IN POSSESSION
+63,Jefferson LERMA Deflected,Off Target,0,Loose Ball,24,Colombia,IN POSSESSION
+63,Davinson SANCHEZ,Off Target,0,Loose Ball,24,Colombia,IN POSSESSION
+64,Luis DIAZ,On Target - Goal,1,Pass,24,Colombia,IN POSSESSION
+81,Johan MOJICA,Off Target,0,Pass,24,Colombia,IN POSSESSION
+85,Jefferson LERMA,Off Target,0,Pass,24,Colombia,IN POSSESSION
+86,Jaminton CAMPAZ,Off Target,0,Other,24,Colombia,IN POSSESSION
+98,Jaminton CAMPAZ,On Target - Goal,1,Cross,24,Colombia,IN POSSESSION
+0,Patrik SCHICK,Off Target,0,Cross,25,Czechia,IN POSSESSION
+4,Ladislav KREJCI,Incomplete,0,Corner,25,Czechia,IN POSSESSION
+4,Michal SADILEK,Off Target,0,Loose Ball,25,Czechia,IN POSSESSION
+5,Michal SADILEK Deflected,On Target - Goal,1,Pass,25,Czechia,IN POSSESSION
+41,Adam HLOZEK,Off Target,0,Freekick,25,Czechia,IN POSSESSION
+46,Vladimir DARIDA,Incomplete - Blocked,0,Pass,25,Czechia,IN POSSESSION
+46,Lukas CERV,On Target - Saved,0,Loose Ball,25,Czechia,IN POSSESSION
+47,Patrik SCHICK,On Target - Saved,0,Corner,25,Czechia,IN POSSESSION
+52,Ladislav KREJCI,Off Target,0,Corner,25,Czechia,IN POSSESSION
+58,Michal SADILEK,Incomplete,0,Pass,25,Czechia,IN POSSESSION
+67,Ladislav KREJCI,Incomplete - Blocked,0,Other,25,Czechia,IN POSSESSION
+90,Jaroslav ZELENY,Incomplete,0,Freekick,25,Czechia,IN POSSESSION
+93,Lukas PROVOD,Off Target,0,Loose Ball,25,Czechia,IN POSSESSION
+11,Oswin APPOLLIS Deflected,Off Target,0,Pass,25,South Africa,IN POSSESSION
+12,Aubrey MODIBA,Off Target,0,Pass,25,South Africa,IN POSSESSION
+21,Iqraam RAYNERS,Incomplete - Blocked,0,Cross,25,South Africa,IN POSSESSION
+44,Teboho MOKOENA,Off Target,0,Pass,25,South Africa,IN POSSESSION
+48,Thapelo MASEKO,Incomplete - Blocked,0,Loose Ball,25,South Africa,IN POSSESSION
+49,Mbekezeli MBOKAZI,Incomplete - Blocked,0,Loose Ball,25,South Africa,IN POSSESSION
+53,Thapelo MASEKO,Off Target,0,Pass,25,South Africa,IN POSSESSION
+59,Aubrey MODIBA,Off Target,0,Pass,25,South Africa,IN POSSESSION
+73,Evidence MAKGOPA,On Target - Saved,0,Pass,25,South Africa,IN POSSESSION
+75,Mbekezeli MBOKAZI,Incomplete - Blocked,0,Freekick,25,South Africa,IN POSSESSION
+80,Thapelo MASEKO,Incomplete - Blocked,0,Pass,25,South Africa,IN POSSESSION
+82,Teboho MOKOENA,On Target - Goal,1,Penalty,25,South Africa,IN POSSESSION
+85,Thalente MBATHA,Incomplete - Blocked,0,Loose Ball,25,South Africa,IN POSSESSION
+87,Relebohile MOFOKENG,On Target - Saved,0,Loose Ball,25,South Africa,IN POSSESSION
+95,Evidence MAKGOPA,On Target - Saved,0,Loose Ball,25,South Africa,IN POSSESSION
+96,Aubrey MODIBA Deflected,Off Target,0,Loose Ball,25,South Africa,IN POSSESSION
+96,Mbekezeli MBOKAZI,Incomplete - Blocked,0,Pass,25,South Africa,IN POSSESSION
+7,Granit XHAKA Deflected,Off Target,0,Pass,26,Switzerland,IN POSSESSION
+9,Dan NDOYE,Off Target,0,Pass,26,Switzerland,IN POSSESSION
+19,Dan NDOYE Deflected,On Target - Saved,0,Pass,26,Switzerland,IN POSSESSION
+22,Remo FREULER,Off Target,0,Pass,26,Switzerland,IN POSSESSION
+50,Dan NDOYE,On Target - Saved,0,Pass,26,Switzerland,IN POSSESSION
+52,Michel AEBISCHER,Off Target,0,Pass,26,Switzerland,IN POSSESSION
+54,Dan NDOYE Deflected,Off Target,0,Pass,26,Switzerland,IN POSSESSION
+61,Breel EMBOLO Deflected,Off Target,0,Loose Ball,26,Switzerland,IN POSSESSION
+73,Johan MANZAMBI,On Target - Goal,1,Loose Ball,26,Switzerland,IN POSSESSION
+80,Ruben VARGAS,On Target - Saved,0,Freekick,26,Switzerland,IN POSSESSION
+83,Ruben VARGAS,On Target - Goal,1,Pass,26,Switzerland,IN POSSESSION
+96,Granit XHAKA,On Target - Goal,1,Penalty,26,Switzerland,IN POSSESSION
+1,Edin DZEKO,Incomplete,0,Loose Ball,26,Bosnia and Herzegovina,IN POSSESSION
+37,Amar MEMIC,On Target - Saved,0,Pass,26,Bosnia and Herzegovina,IN POSSESSION
+40,Edin DZEKO,Incomplete - Blocked,0,Pass,26,Bosnia and Herzegovina,IN POSSESSION
+67,Amar DEDIC,On Target - Saved,0,Pass,26,Bosnia and Herzegovina,IN POSSESSION
+92,Ermin MAHMIC,On Target - Goal,1,Loose Ball,26,Bosnia and Herzegovina,IN POSSESSION
+6,Jonathan DAVID,On Target - Saved,0,Cross,27,Canada,IN POSSESSION
+14,Stephen EUSTAQUIO,Incomplete,0,Loose Ball,27,Canada,IN POSSESSION
+15,Jonathan DAVID,On Target - Saved,0,Cross,27,Canada,IN POSSESSION
+15,Cyle LARIN,On Target - Goal,1,Other,27,Canada,IN POSSESSION
+20,Derek CORNELIUS,Off Target,0,Freekick,27,Canada,IN POSSESSION
+28,Jonathan DAVID,On Target - Goal,1,Loose Ball,27,Canada,IN POSSESSION
+34,Ali AHMED,Off Target,0,Freekick,27,Canada,IN POSSESSION
+37,Tajon BUCHANAN,On Target - Goal,1,Cross,27,Canada,IN POSSESSION
+39,Jonathan DAVID,Deflected On Target - Defensive Event,0,Pass,27,Canada,IN POSSESSION
+44,Cyle LARIN Deflected,Off Target,0,Pass,27,Canada,IN POSSESSION
+47,Jonathan DAVID,On Target - Goal,1,Other,27,Canada,IN POSSESSION
+49,Alistair JOHNSTON,On Target - Saved,0,Pass,27,Canada,IN POSSESSION
+47,Ismael KONE,Incomplete - Blocked,0,Pass,27,Canada,IN POSSESSION
+49,Cyle LARIN Deflected,Off Target,0,Loose Ball,27,Canada,IN POSSESSION
+61,Ali AHMED,Incomplete,0,Pass,27,Canada,IN POSSESSION
+63,Nathan SALIBA,On Target - Goal,1,Freekick,27,Canada,IN POSSESSION
+74,Tajon BUCHANAN,Incomplete - Blocked,0,Loose Ball,27,Canada,IN POSSESSION
+74,Jacob SHAFFELBURG,Off Target,0,Loose Ball,27,Canada,IN POSSESSION
+76,Tajon BUCHANAN,Off Target,0,Pass,27,Canada,IN POSSESSION
+77,Richie LARYEA Deflected,Off Target,0,Pass,27,Canada,IN POSSESSION
+79,Jacob SHAFFELBURG,Off Target,0,Loose Ball,27,Canada,IN POSSESSION
+81,Jacob SHAFFELBURG,Off Target,0,Loose Ball,27,Canada,IN POSSESSION
+83,Jonathan DAVID Deflected,Off Target,0,Loose Ball,27,Canada,IN POSSESSION
+83,Tani OLUWASEYI,Incomplete - Blocked,0,Loose Ball,27,Canada,IN POSSESSION
+85,Jonathan DAVID,Incomplete - Blocked,0,Pass,27,Canada,IN POSSESSION
+89,Niko SIGUR,Incomplete - Blocked,0,Pass,27,Canada,IN POSSESSION
+91,Nathan SALIBA,Incomplete,0,Pass,27,Canada,IN POSSESSION
+91,Jonathan DAVID,On Target - Goal,1,Loose Ball,27,Canada,IN POSSESSION
+94,Cyle LARIN,Incomplete - Blocked,0,Cross,27,Canada,IN POSSESSION
+97,Cyle LARIN,Incomplete,0,Cross,27,Canada,IN POSSESSION
+99,Nathan SALIBA,Incomplete,0,Cross,27,Canada,IN POSSESSION
+0,EDMILSON JUNIOR,Off Target,0,Cross,27,Qatar,IN POSSESSION
+9,BOUALEM KHOUKHI Deflected,Off Target,0,Freekick,27,Qatar,IN POSSESSION
+6,Roberto ALVARADO,Off Target,0,Loose Ball,28,Mexico,IN POSSESSION
+7,Brian GUTIERREZ,Off Target,0,Pass,28,Mexico,IN POSSESSION
+19,Julian QUINONES,On Target - Saved,0,Cross,28,Mexico,IN POSSESSION
+48,Jesus GALLARDO,Off Target,0,Pass,28,Mexico,IN POSSESSION
+49,Raul JIMENEZ,Incomplete - Blocked,0,Cross,28,Mexico,IN POSSESSION
+49,Luis ROMO,On Target - Goal,1,Loose Ball,28,Mexico,IN POSSESSION
+74,Raul JIMENEZ,On Target - Saved,0,Pass,28,Mexico,IN POSSESSION
+84,Obed VARGAS,On Target - Saved,0,Other,28,Mexico,IN POSSESSION
+40,SEOL Youngwoo,Off Target,0,Pass,28,Korea Republic,IN POSSESSION
+43,LEE Kangin,Incomplete - Blocked,0,Pass,28,Korea Republic,IN POSSESSION
+57,HWANG Inbeom,Incomplete - Blocked,0,Loose Ball,28,Korea Republic,IN POSSESSION
+77,LEE Kangin,Off Target,0,Pass,28,Korea Republic,IN POSSESSION
+86,CHO Guesung,On Target - Saved,0,Cross,28,Korea Republic,IN POSSESSION
+86,YANG Hyunjun,On Target - Saved,0,Other,28,Korea Republic,IN POSSESSION
+91,LEE Hanbeom,Off Target,0,Corner,28,Korea Republic,IN POSSESSION
+93,CHO Guesung Deflected,Off Target,0,Cross,28,Korea Republic,IN POSSESSION
+93,OH Hyeongyu,Incomplete,0,Corner,28,Korea Republic,IN POSSESSION
+16,VINICIUS JUNIOR Deflected,Off Target,0,Loose Ball,29,Brazil,IN POSSESSION
+22,VINICIUS JUNIOR,On Target - Saved,0,Pass,29,Brazil,IN POSSESSION
+28,RAPHINHA,On Target - Saved,0,Pass,29,Brazil,IN POSSESSION
+35,MATHEUS CUNHA,On Target - Goal,1,Pass,29,Brazil,IN POSSESSION
+47,VINICIUS JUNIOR,On Target - Goal,1,Pass,29,Brazil,IN POSSESSION
+75,DOUGLAS SANTOS,Off Target,0,Pass,29,Brazil,IN POSSESSION
+90,EDERSON SILVA,Incomplete,0,Cross,29,Brazil,IN POSSESSION
+48,Wilson ISIDOR Deflected,Off Target,0,Loose Ball,29,Haiti,IN POSSESSION
+62,Ricardo ADE,On Target - Saved,0,Corner,29,Haiti,IN POSSESSION
+65,Ruben PROVIDENCE,Incomplete,0,Loose Ball,29,Haiti,IN POSSESSION
+65,Jean-Kevin DUVERNE,Off Target,0,Loose Ball,29,Haiti,IN POSSESSION
+86,Wilson ISIDOR,On Target - Saved,0,Pass,29,Haiti,IN POSSESSION
+88,Ricardo ADE,Off Target,0,Pass,29,Haiti,IN POSSESSION
+92,Dominique SIMON,On Target - Saved,0,Pass,29,Haiti,IN POSSESSION
+45,John McGINN,Off Target,0,Cross,30,Scotland,IN POSSESSION
+46,Kieran TIERNEY,Incomplete - Blocked,0,Pass,30,Scotland,IN POSSESSION
+63,Ryan CHRISTIE,Off Target,0,Pass,30,Scotland,IN POSSESSION
+84,Scott McTOMINAY Deflected,Off Target,0,Pass,30,Scotland,IN POSSESSION
+85,Lyndon DYKES,Off Target,0,Corner,30,Scotland,IN POSSESSION
+87,Scott McTOMINAY,Incomplete - Blocked,0,Loose Ball,30,Scotland,IN POSSESSION
+1,Ismael SAIBARI,On Target - Goal,1,Pass,30,Morocco,IN POSSESSION
+20,Ayyoub BOUADDI,Incomplete - Blocked,0,Loose Ball,30,Morocco,IN POSSESSION
+29,Neil EL AYNAOUI,Off Target,0,Pass,30,Morocco,IN POSSESSION
+35,Bilal EL KHANNOUSS,Off Target,0,Pass,30,Morocco,IN POSSESSION
+37,Achraf HAKIMI,Incomplete,0,Cross,30,Morocco,IN POSSESSION
+49,Ismael SAIBARI Deflected,Off Target,0,Cross,30,Morocco,IN POSSESSION
+51,Bilal EL KHANNOUSS,On Target - Saved,0,Corner,30,Morocco,IN POSSESSION
+57,Brahim DIAZ,Incomplete - Blocked,0,Pass,30,Morocco,IN POSSESSION
+90,Chemsdine TALBI,Incomplete - Blocked,0,Pass,30,Morocco,IN POSSESSION
+92,Chemsdine TALBI,Off Target,0,Pass,30,Morocco,IN POSSESSION
+94,Ayoube AMAIMOUNI,Off Target,0,Pass,30,Morocco,IN POSSESSION
+13,Arda GULER,Off Target,0,Cross,31,Türkiye,IN POSSESSION
+20,Hakan CALHANOGLU,Incomplete - Blocked,0,Loose Ball,31,Türkiye,IN POSSESSION
+24,Arda GULER,Incomplete - Blocked,0,Loose Ball,31,Türkiye,IN POSSESSION
+29,Kenan YILDIZ,On Target - Saved,0,Pass,31,Türkiye,IN POSSESSION
+34,Mert MULDUR,Off Target,0,Freekick,31,Türkiye,IN POSSESSION
+35,Kenan YILDIZ,Incomplete,0,Pass,31,Türkiye,IN POSSESSION
+44,Hakan CALHANOGLU,Incomplete - Blocked,0,Pass,31,Türkiye,IN POSSESSION
+50,Ismail YUKSEK,Off Target,0,Loose Ball,31,Türkiye,IN POSSESSION
+52,Ismail YUKSEK,Off Target,0,Pass,31,Türkiye,IN POSSESSION
+53,Abdulkerim BARDAKCI,Incomplete - Blocked,0,Pass,31,Türkiye,IN POSSESSION
+46,Merih DEMIRAL,On Target - Saved,0,Pass,31,Türkiye,IN POSSESSION
+47,Kenan YILDIZ,Off Target,0,Pass,31,Türkiye,IN POSSESSION
+56,Hakan CALHANOGLU,Off Target,0,Pass,31,Türkiye,IN POSSESSION
+58,Merih DEMIRAL Deflected,On Target - Saved,0,Pass,31,Türkiye,IN POSSESSION
+61,Deniz GUL,On Target - Saved,0,Cross,31,Türkiye,IN POSSESSION
+61,Kenan YILDIZ,Off Target,0,Pass,31,Türkiye,IN POSSESSION
+64,Merih DEMIRAL,Off Target,0,Pass,31,Türkiye,IN POSSESSION
+72,Baris Alper YILMAZ,Off Target,0,Pass,31,Türkiye,IN POSSESSION
+74,Mert MULDUR Deflected,Off Target,0,Corner,31,Türkiye,IN POSSESSION
+75,Hakan CALHANOGLU,Incomplete - Blocked,0,Other,31,Türkiye,IN POSSESSION
+77,Mert MULDUR,Off Target,0,Cross,31,Türkiye,IN POSSESSION
+79,Merih DEMIRAL,Off Target,0,Cross,31,Türkiye,IN POSSESSION
+81,Can UZUN,Off Target,0,Pass,31,Türkiye,IN POSSESSION
+85,Arda GULER Deflected,Off Target,0,Pass,31,Türkiye,IN POSSESSION
+88,Can UZUN,On Target - Saved,0,Pass,31,Türkiye,IN POSSESSION
+88,Deniz GUL,Off Target,0,Other,31,Türkiye,IN POSSESSION
+95,Kenan YILDIZ,Incomplete - Blocked,0,Pass,31,Türkiye,IN POSSESSION
+96,Can UZUN,Incomplete - Blocked,0,Pass,31,Türkiye,IN POSSESSION
+96,Merih DEMIRAL,Off Target,0,Cross,31,Türkiye,IN POSSESSION
+98,Hakan CALHANOGLU,Off Target,0,Loose Ball,31,Türkiye,IN POSSESSION
+1,Matias GALARZA,On Target - Goal,1,Pass,31,Paraguay,IN POSSESSION
+10,Omar ALDERETE,Incomplete - Blocked,0,Loose Ball,31,Paraguay,IN POSSESSION
+10,Diego GOMEZ,Off Target,0,Loose Ball,31,Paraguay,IN POSSESSION
+36,Juan Jose CACERES,On Target - Saved,0,Pass,31,Paraguay,IN POSSESSION
+88,Gustavo GOMEZ,Incomplete - Blocked,0,Loose Ball,31,Paraguay,IN POSSESSION
+89,Matias GALARZA,Incomplete - Blocked,0,Pass,31,Paraguay,IN POSSESSION
+4,Ricardo PEPI Deflected,Off Target,0,Cross,32,USA,IN POSSESSION
+8,Sergino DEST,Incomplete - Blocked,0,Pass,32,USA,IN POSSESSION
+14,Weston McKENNIE,Incomplete - Blocked,0,Corner,32,USA,IN POSSESSION
+16,Weston McKENNIE,Off Target,0,Freekick,32,USA,IN POSSESSION
+21,Folarin BALOGUN,Incomplete - Blocked,0,Pass,32,USA,IN POSSESSION
+37,Ricardo PEPI,Incomplete - Blocked,0,Cross,32,USA,IN POSSESSION
+42,Sergino DEST,Incomplete,0,Freekick,32,USA,IN POSSESSION
+42,Alex FREEMAN,On Target - Goal,1,Loose Ball,32,USA,IN POSSESSION
+51,Sergino DEST,On Target - Saved,0,Pass,32,USA,IN POSSESSION
+51,Folarin BALOGUN Deflected,Off Target,0,Pass,32,USA,IN POSSESSION
+12,Mathew LECKIE,Off Target,0,Loose Ball,32,Australia,IN POSSESSION
+61,Cristian VOLPATO,Off Target,0,Pass,32,Australia,IN POSSESSION
+64,Connor METCALFE,On Target - Saved,0,Pass,32,Australia,IN POSSESSION
+86,Alessandro CIRCATI,Off Target,0,Loose Ball,32,Australia,IN POSSESSION
+0,Kai HAVERTZ,Off Target,0,Pass,33,Germany,IN POSSESSION
+9,Kai HAVERTZ,On Target - Saved,0,Pass,33,Germany,IN POSSESSION
+17,Jamal MUSIALA,Off Target,0,Pass,33,Germany,IN POSSESSION
+20,Felix NMECHA Deflected,Off Target,0,Pass,33,Germany,IN POSSESSION
+40,Florian WIRTZ Deflected,Off Target,0,Pass,33,Germany,IN POSSESSION
+41,Jamal MUSIALA,Incomplete,0,Loose Ball,33,Germany,IN POSSESSION
+46,Felix NMECHA,Incomplete - Blocked,0,Loose Ball,33,Germany,IN POSSESSION
+56,Antonio RUEDIGER,Off Target,0,Pass,33,Germany,IN POSSESSION
+60,Jamie LEWELING,Off Target,0,Pass,33,Germany,IN POSSESSION
+62,Kai HAVERTZ,Off Target,0,Corner,33,Germany,IN POSSESSION
+85,Deniz UNDAV,On Target - Saved,0,Pass,33,Germany,IN POSSESSION
+88,Nathaniel BROWN,On Target - Saved,0,Pass,33,Germany,IN POSSESSION
+90,Nadiem AMIRI,On Target - Saved,0,Pass,33,Germany,IN POSSESSION
+93,Deniz UNDAV,On Target - Goal,1,Pass,33,Germany,IN POSSESSION
+11,Wilfried SINGO,Incomplete - Blocked,0,Loose Ball,33,Côte d'Ivoire,IN POSSESSION
+29,Amad DIALLO,Incomplete - Blocked,0,Cross,33,Côte d'Ivoire,IN POSSESSION
+29,Franck KESSIE,On Target - Goal,1,Loose Ball,33,Côte d'Ivoire,IN POSSESSION
+37,Ange-Yoan BONNY,On Target - Saved,0,Pass,33,Côte d'Ivoire,IN POSSESSION
+45,Ghislain KONAN,Incomplete - Blocked,0,Pass,33,Côte d'Ivoire,IN POSSESSION
+49,Franck KESSIE,Incomplete,0,Pass,33,Côte d'Ivoire,IN POSSESSION
+50,Christ Inao OULAI,Off Target,0,Pass,33,Côte d'Ivoire,IN POSSESSION
+55,Yan DIOMANDE,Off Target,0,Loose Ball,33,Côte d'Ivoire,IN POSSESSION
+83,Seko FOFANA,Incomplete - Blocked,0,Pass,33,Côte d'Ivoire,IN POSSESSION
+2,Enner VALENCIA,On Target - Saved,0,Pass,34,Ecuador,IN POSSESSION
+11,John YEBOAH,On Target - Saved,0,Pass,34,Ecuador,IN POSSESSION
+15,Gonzalo PLATA,On Target - Saved,0,Loose Ball,34,Ecuador,IN POSSESSION
+19,Enner VALENCIA Deflected,On Target - Saved,0,Cross,34,Ecuador,IN POSSESSION
+21,Jordy ALCIVAR Deflected,Off Target,0,Pass,34,Ecuador,IN POSSESSION
+27,Gonzalo PLATA,On Target - Saved,0,Pass,34,Ecuador,IN POSSESSION
+41,John YEBOAH,On Target - Saved,0,Pass,34,Ecuador,IN POSSESSION
+49,Moises CAICEDO,On Target - Saved,0,Pass,34,Ecuador,IN POSSESSION
+49,Gonzalo PLATA,Off Target,0,Pass,34,Ecuador,IN POSSESSION
+53,Gonzalo PLATA,Off Target,0,Pass,34,Ecuador,IN POSSESSION
+58,Gonzalo PLATA,On Target - Saved,0,Loose Ball,34,Ecuador,IN POSSESSION
+60,Enner VALENCIA,On Target - Saved,0,Pass,34,Ecuador,IN POSSESSION
+63,Kevin RODRIGUEZ,Off Target,0,Corner,34,Ecuador,IN POSSESSION
+64,Enner VALENCIA,On Target - Saved,0,Cross,34,Ecuador,IN POSSESSION
+65,Kevin RODRIGUEZ,On Target - Saved,0,Corner,34,Ecuador,IN POSSESSION
+65,Enner VALENCIA,Incomplete - Blocked,0,Loose Ball,34,Ecuador,IN POSSESSION
+65,Willian PACHO,On Target - Saved,0,Loose Ball,34,Ecuador,IN POSSESSION
+66,Kevin RODRIGUEZ,Incomplete - Blocked,0,Cross,34,Ecuador,IN POSSESSION
+73,Piero HINCAPIE,Off Target,0,Corner,34,Ecuador,IN POSSESSION
+76,Enner VALENCIA,On Target - Saved,0,Cross,34,Ecuador,IN POSSESSION
+79,Pedro VITE,On Target - Saved,0,Pass,34,Ecuador,IN POSSESSION
+83,Enner VALENCIA,Off Target,0,Loose Ball,34,Ecuador,IN POSSESSION
+8,Sherel FLORANUS,Off Target,0,Pass,34,Curaçao,IN POSSESSION
+17,Livano COMENENCIA,Incomplete - Blocked,0,Pass,34,Curaçao,IN POSSESSION
+29,Juninho BACUNA,Incomplete,0,Pass,34,Curaçao,IN POSSESSION
+32,Juninho BACUNA Deflected,Off Target,0,Pass,34,Curaçao,IN POSSESSION
+56,Leandro BACUNA,Off Target,0,Pass,34,Curaçao,IN POSSESSION
+59,Leandro BACUNA,On Target - Saved,0,Pass,34,Curaçao,IN POSSESSION
+59,Livano COMENENCIA,On Target - Saved,0,Pass,34,Curaçao,IN POSSESSION
+59,Juergen LOCADIA Deflected,Off Target,0,Other,34,Curaçao,IN POSSESSION
+73,Juninho BACUNA,On Target - Saved,0,Pass,34,Curaçao,IN POSSESSION
+5,Brian BROBBEY,On Target - Goal,1,Cross,35,Netherlands,IN POSSESSION
+10,Cody GAKPO,On Target - Saved,0,Cross,35,Netherlands,IN POSSESSION
+14,Tijjani REIJNDERS,Off Target,0,Loose Ball,35,Netherlands,IN POSSESSION
+16,Brian BROBBEY,On Target - Goal,1,Cross,35,Netherlands,IN POSSESSION
+46,Cody GAKPO,On Target - Goal,1,Cross,35,Netherlands,IN POSSESSION
+49,Cody GAKPO,Incomplete,0,Pass,35,Netherlands,IN POSSESSION
+56,Ryan GRAVENBERCH,Off Target,0,Pass,35,Netherlands,IN POSSESSION
+88,Crysencio SUMMERVILLE Deflected,On Target - Goal,1,Pass,35,Netherlands,IN POSSESSION
+6,Viktor GYOKERES,On Target - Saved,0,Pass,35,Sweden,IN POSSESSION
+26,Jesper KARLSTROM,Incomplete,0,Pass,35,Sweden,IN POSSESSION
+30,Yasin AYARI,Off Target,0,Pass,35,Sweden,IN POSSESSION
+32,Viktor GYOKERES,Off Target,0,Pass,35,Sweden,IN POSSESSION
+36,Viktor GYOKERES,On Target - Saved,0,Pass,35,Sweden,IN POSSESSION
+40,Yasin AYARI,Off Target,0,Pass,35,Sweden,IN POSSESSION
+47,Viktor GYOKERES,On Target - Saved,0,Freekick,35,Sweden,IN POSSESSION
+48,Benjamin NYGREN,Off Target,0,Loose Ball,35,Sweden,IN POSSESSION
+49,Yasin AYARI,On Target - Saved,0,Pass,35,Sweden,IN POSSESSION
+51,Yasin AYARI,Incomplete - Blocked,0,Pass,35,Sweden,IN POSSESSION
+58,Anthony ELANGA,On Target - Goal,1,Pass,35,Sweden,IN POSSESSION
+83,Alexander ISAK,On Target - Saved,0,Pass,35,Sweden,IN POSSESSION
+84,Besfort ZENELI,On Target - Saved,0,Pass,35,Sweden,IN POSSESSION
+91,Viktor GYOKERES,Incomplete - Blocked,0,Pass,35,Sweden,IN POSSESSION
+95,Gustaf LAGERBIELKE,On Target - Saved,0,Corner,35,Sweden,IN POSSESSION
+2,Hannibal MEJBRI,Off Target,0,Loose Ball,36,Tunisia,IN POSSESSION
+5,Ayase UEDA,Off Target,0,Pass,36,Japan,IN POSSESSION
+9,Ayase UEDA Deflected,On Target - Saved,0,Loose Ball,36,Japan,IN POSSESSION
+9,Takehiro TOMIYASU,Off Target,0,Other,36,Japan,IN POSSESSION
+30,Ayase UEDA,On Target - Goal,1,Pass,36,Japan,IN POSSESSION
+47,Ao TANAKA,Off Target,0,Pass,36,Japan,IN POSSESSION
+62,Ayase UEDA Deflected,Off Target,0,Pass,36,Japan,IN POSSESSION
+65,Keito NAKAMURA,Incomplete - Blocked,0,Pass,36,Japan,IN POSSESSION
+68,Junya ITO,On Target - Goal,1,Pass,36,Japan,IN POSSESSION
+82,Ayase UEDA,On Target - Goal,1,Cross,36,Japan,IN POSSESSION
+6,Rodrigo BENTANCUR,Incomplete - Blocked,0,Corner,37,Uruguay,IN POSSESSION
+13,Federico VALVERDE,Off Target,0,Pass,37,Uruguay,IN POSSESSION
+23,Federico VALVERDE Deflected,Off Target,0,Pass,37,Uruguay,IN POSSESSION
+27,Federico VALVERDE,Off Target,0,Loose Ball,37,Uruguay,IN POSSESSION
+32,Manuel UGARTE,Off Target,0,Loose Ball,37,Uruguay,IN POSSESSION
+33,Federico VALVERDE,Off Target,0,Pass,37,Uruguay,IN POSSESSION
+39,Maxi ARAUJO,Off Target,0,Cross,37,Uruguay,IN POSSESSION
+41,Sebastian CACERES,Incomplete - Blocked,0,Pass,37,Uruguay,IN POSSESSION
+43,Maxi ARAUJO,On Target - Goal,1,Loose Ball,37,Uruguay,IN POSSESSION
+50,Agustin CANOBBIO,On Target - Goal,1,Pass,37,Uruguay,IN POSSESSION
+78,Nicolas DE LA CRUZ,Off Target,0,Pass,37,Uruguay,IN POSSESSION
+85,Brian RODRIGUEZ Deflected,Off Target,0,Other,37,Uruguay,IN POSSESSION
+85,Rodrigo BENTANCUR Deflected,Off Target,0,Corner,37,Uruguay,IN POSSESSION
+89,Federico VALVERDE,Off Target,0,Freekick,37,Uruguay,IN POSSESSION
+20,KEVIN PINA,On Target - Goal,1,Freekick,37,Cabo Verde,IN POSSESSION
+58,JAMIRO MONTEIRO,Incomplete - Blocked,0,Freekick,37,Cabo Verde,IN POSSESSION
+62,JAMIRO MONTEIRO,Off Target,0,Pass,37,Cabo Verde,IN POSSESSION
+75,PICO LOPES Deflected,Off Target,0,Corner,37,Cabo Verde,IN POSSESSION
+92,SIDNY LOPES CABRAL,Incomplete - Blocked,0,Pass,37,Cabo Verde,IN POSSESSION
+92,RYAN MENDES,Incomplete - Blocked,0,Loose Ball,37,Cabo Verde,IN POSSESSION
+93,LAROS DUARTE,On Target - Saved,0,Pass,37,Cabo Verde,IN POSSESSION
+96,LAROS DUARTE,On Target - Saved,0,Freekick,37,Cabo Verde,IN POSSESSION
+7,Dani OLMO,Off Target,0,Corner,38,Spain,IN POSSESSION
+9,Pedro PORRO,Off Target,0,Pass,38,Spain,IN POSSESSION
+9,Lamine YAMAL,On Target - Goal,1,Cross,38,Spain,IN POSSESSION
+12,PEDRI,Off Target,0,Loose Ball,38,Spain,IN POSSESSION
+14,Alex BAENA,Off Target,0,Pass,38,Spain,IN POSSESSION
+20,Dani OLMO,Incomplete - Blocked,0,Loose Ball,38,Spain,IN POSSESSION
+20,Mikel OYARZABAL,On Target - Goal,1,Pass,38,Spain,IN POSSESSION
+23,Mikel OYARZABAL,On Target - Goal,1,Pass,38,Spain,IN POSSESSION
+35,Mikel OYARZABAL,Off Target,0,Loose Ball,38,Spain,IN POSSESSION
+35,Lamine YAMAL,On Target - Saved,0,Pass,38,Spain,IN POSSESSION
+36,Lamine YAMAL,Off Target,0,Pass,38,Spain,IN POSSESSION
+41,Mikel OYARZABAL,Off Target,0,Loose Ball,38,Spain,IN POSSESSION
+45,RODRI,Off Target,0,Pass,38,Spain,IN POSSESSION
+48,Marc CUCURELLA,On Target - Saved,0,Loose Ball,38,Spain,IN POSSESSION
+52,Pedro PORRO,On Target - Saved,0,Pass,38,Spain,IN POSSESSION
+52,Ferran TORRES,On Target - Saved,0,Other,38,Spain,IN POSSESSION
+64,Ferran TORRES,Off Target,0,Pass,38,Spain,IN POSSESSION
+97,Mikel MERINO,Incomplete - Blocked,0,Pass,38,Spain,IN POSSESSION
+34,ABDULELAH ALAMRI,Off Target,0,Loose Ball,38,Saudi Arabia,IN POSSESSION
+48,SALEM ALDAWSARI,Deflected On Target - Defensive Event,0,Loose Ball,38,Saudi Arabia,IN POSSESSION
+80,ABDULLAH ALHAMDDAN,On Target - Saved,0,Loose Ball,38,Saudi Arabia,IN POSSESSION
+7,Kevin DE BRUYNE,Off Target,0,Pass,39,Belgium,IN POSSESSION
+8,Kevin DE BRUYNE,Incomplete - Blocked,0,Cross,39,Belgium,IN POSSESSION
+8,Maxim DE CUYPER,On Target - Saved,0,Loose Ball,39,Belgium,IN POSSESSION
+9,Romelu LUKAKU,Incomplete - Blocked,0,Pass,39,Belgium,IN POSSESSION
+18,Leandro TROSSARD,Incomplete - Blocked,0,Pass,39,Belgium,IN POSSESSION
+21,Youri TIELEMANS,On Target - Saved,0,Pass,39,Belgium,IN POSSESSION
+22,Nathan NGOY,Off Target,0,Loose Ball,39,Belgium,IN POSSESSION
+41,Kevin DE BRUYNE,On Target - Saved,0,Pass,39,Belgium,IN POSSESSION
+43,Maxim DE CUYPER,On Target - Saved,0,Pass,39,Belgium,IN POSSESSION
+43,Alexis SAELEMAEKERS,Incomplete - Blocked,0,Pass,39,Belgium,IN POSSESSION
+47,Kevin DE BRUYNE Deflected,Off Target,0,Pass,39,Belgium,IN POSSESSION
+49,Alexis SAELEMAEKERS,Off Target,0,Corner,39,Belgium,IN POSSESSION
+58,Maxim DE CUYPER,On Target - Saved,0,Loose Ball,39,Belgium,IN POSSESSION
+61,Dodi LUKEBAKIO,On Target - Saved,0,Pass,39,Belgium,IN POSSESSION
+61,Hans VANAKEN,Off Target,0,Other,39,Belgium,IN POSSESSION
+83,Youri TIELEMANS,Incomplete,0,Loose Ball,39,Belgium,IN POSSESSION
+83,Hans VANAKEN,Off Target,0,Cross,39,Belgium,IN POSSESSION
+85,Maxim DE CUYPER,On Target - Saved,0,Cross,39,Belgium,IN POSSESSION
+92,Brandon MECHELE,Off Target,0,Cross,39,Belgium,IN POSSESSION
+94,Dodi LUKEBAKIO,Off Target,0,Pass,39,Belgium,IN POSSESSION
+13,Hossein KANANI,On Target - Saved,0,Pass,39,IR Iran,IN POSSESSION
+14,Saeid EZATOLAHI,Off Target,0,Corner,39,IR Iran,IN POSSESSION
+52,Mehdi TAREMI,On Target - Saved,0,Pass,39,IR Iran,IN POSSESSION
+64,Shoja KHALILZADEH,Off Target,0,Corner,39,IR Iran,IN POSSESSION
+87,Amirhossein HOSSEINZADEH,Incomplete - Blocked,0,Pass,39,IR Iran,IN POSSESSION
+6,Sarpreet SINGH,Off Target,0,Pass,40,New Zealand,IN POSSESSION
+13,Elijah JUST,On Target - Saved,0,Pass,40,New Zealand,IN POSSESSION
+14,Finn SURMAN,On Target - Goal,1,Corner,40,New Zealand,IN POSSESSION
+18,Elijah JUST,Incomplete - Blocked,0,Loose Ball,40,New Zealand,IN POSSESSION
+18,Callum McCOWATT,On Target - Saved,0,Loose Ball,40,New Zealand,IN POSSESSION
+25,Joe BELL,Incomplete - Blocked,0,Pass,40,New Zealand,IN POSSESSION
+26,Chris WOOD,Off Target,0,Cross,40,New Zealand,IN POSSESSION
+51,Callum McCOWATT,On Target - Saved,0,Cross,40,New Zealand,IN POSSESSION
+64,Marko STAMENIC,Incomplete - Blocked,0,Pass,40,New Zealand,IN POSSESSION
+97,Marko STAMENIC,Incomplete,0,Loose Ball,40,New Zealand,IN POSSESSION
+97,Tyler BINDON,On Target - Saved,0,Loose Ball,40,New Zealand,IN POSSESSION
+5,MOHAMED SALAH Deflected,Off Target,0,Loose Ball,40,Egypt,IN POSSESSION
+19,MOHAMED HANY Deflected,Off Target,0,Pass,40,Egypt,IN POSSESSION
+20,MOSTAFA ZICO,Off Target,0,Cross,40,Egypt,IN POSSESSION
+26,OMAR MARMOUSH,On Target - Saved,0,Pass,40,Egypt,IN POSSESSION
+34,MOHAMED SALAH,Off Target,0,Freekick,40,Egypt,IN POSSESSION
+45,EMAM ASHOUR,Off Target,0,Cross,40,Egypt,IN POSSESSION
+45,MOHAMED SALAH,On Target - Saved,0,Cross,40,Egypt,IN POSSESSION
+46,OMAR MARMOUSH,Off Target,0,Freekick,40,Egypt,IN POSSESSION
+48,MOSTAFA ZICO,Incomplete - Blocked,0,Pass,40,Egypt,IN POSSESSION
+49,EMAM ASHOUR,Off Target,0,Pass,40,Egypt,IN POSSESSION
+49,OMAR MARMOUSH,Incomplete - Blocked,0,Pass,40,Egypt,IN POSSESSION
+54,MOSTAFA ZICO,Incomplete - Blocked,0,Pass,40,Egypt,IN POSSESSION
+54,EMAM ASHOUR,Incomplete,0,Loose Ball,40,Egypt,IN POSSESSION
+57,MOSTAFA ZICO,On Target - Goal,1,Cross,40,Egypt,IN POSSESSION
+66,MOHAMED SALAH,On Target - Goal,1,Pass,40,Egypt,IN POSSESSION
+79,AHMED FATOUH,On Target - Saved,0,Loose Ball,40,Egypt,IN POSSESSION
+80,MOHAMED SALAH Deflected,Off Target,0,Pass,40,Egypt,IN POSSESSION
+81,TREZEGUET,On Target - Goal,1,Corner,40,Egypt,IN POSSESSION
+1,Antonio NUSA Deflected,Off Target,0,Loose Ball,41,Norway,IN POSSESSION
+2,Kristoffer AJER,On Target - Saved,0,Corner,41,Norway,IN POSSESSION
+13,Martin ODEGAARD,Off Target,0,Cross,41,Norway,IN POSSESSION
+36,Martin ODEGAARD,On Target - Saved,0,Pass,41,Norway,IN POSSESSION
+41,Martin ODEGAARD,Incomplete - Blocked,0,Pass,41,Norway,IN POSSESSION
+42,Marcus HOLMGREN PEDERSEN,On Target - Goal,1,Loose Ball,41,Norway,IN POSSESSION
+48,Erling HAALAND,Off Target,0,Loose Ball,41,Norway,IN POSSESSION
+48,Erling HAALAND,On Target - Saved,0,Cross,41,Norway,IN POSSESSION
+47,Erling HAALAND,On Target - Goal,1,Pass,41,Norway,IN POSSESSION
+57,Antonio NUSA,Incomplete,0,Other,41,Norway,IN POSSESSION
+57,Erling HAALAND,On Target - Goal,1,Pass,41,Norway,IN POSSESSION
+89,Oscar BOBB,On Target - Goal,1,Loose Ball,41,Norway,IN POSSESSION
+7,Idrissa Gana GUEYE,Incomplete - Blocked,0,Loose Ball,41,Senegal,IN POSSESSION
+16,Nicolas JACKSON,Incomplete - Blocked,0,Pass,41,Senegal,IN POSSESSION
+27,Nicolas JACKSON,Off Target,0,Pass,41,Senegal,IN POSSESSION
+38,Idrissa Gana GUEYE,Off Target,0,Pass,41,Senegal,IN POSSESSION
+40,Lamine CAMARA,Off Target,0,Pass,41,Senegal,IN POSSESSION
+45,Ismaila SARR,On Target - Saved,0,Cross,41,Senegal,IN POSSESSION
+51,Nicolas JACKSON,On Target - Saved,0,Cross,41,Senegal,IN POSSESSION
+52,Ismaila SARR,On Target - Goal,1,Pass,41,Senegal,IN POSSESSION
+55,Lamine CAMARA,Off Target,0,Pass,41,Senegal,IN POSSESSION
+73,Ismaila SARR,Incomplete - Blocked,0,Pass,41,Senegal,IN POSSESSION
+80,Pape Matar SARR,Off Target,0,Loose Ball,41,Senegal,IN POSSESSION
+82,Ismaila SARR,Incomplete,0,Cross,41,Senegal,IN POSSESSION
+91,Pape Matar SARR Deflected,Off Target,0,Loose Ball,41,Senegal,IN POSSESSION
+92,Ismaila SARR,On Target - Goal,1,Cross,41,Senegal,IN POSSESSION
+98,Ibrahim MBAYE,Incomplete - Blocked,0,Pass,41,Senegal,IN POSSESSION
+98,Ismaila SARR,Off Target,0,Corner,41,Senegal,IN POSSESSION
+1,Manu KONE,Off Target,0,Loose Ball,42,France,IN POSSESSION
+7,Michael OLISE,Incomplete - Blocked,0,Loose Ball,42,France,IN POSSESSION
+7,Kylian MBAPPE,Off Target,0,Loose Ball,42,France,IN POSSESSION
+13,Michael OLISE,Incomplete - Blocked,0,Pass,42,France,IN POSSESSION
+13,Kylian MBAPPE,On Target - Goal,1,Pass,42,France,IN POSSESSION
+31,Kylian MBAPPE,Incomplete - Blocked,0,Pass,42,France,IN POSSESSION
+39,Kylian MBAPPE,Off Target,0,Loose Ball,42,France,IN POSSESSION
+52,Bradley BARCOLA,Incomplete,0,Cross,42,France,IN POSSESSION
+53,Kylian MBAPPE,On Target - Goal,1,Pass,42,France,IN POSSESSION
+57,Michael OLISE,Off Target,0,Pass,42,France,IN POSSESSION
+58,Ousmane DEMBELE,On Target - Saved,0,Pass,42,France,IN POSSESSION
+64,Ousmane DEMBELE Deflected,Off Target,0,Pass,42,France,IN POSSESSION
+65,William SALIBA Deflected,Off Target,0,Cross,42,France,IN POSSESSION
+65,Ousmane DEMBELE,Off Target,0,Loose Ball,42,France,IN POSSESSION
+65,Ousmane DEMBELE,On Target - Goal,1,Pass,42,France,IN POSSESSION
+79,Kylian MBAPPE,Off Target,0,Pass,42,France,IN POSSESSION
+87,Kylian MBAPPE,On Target - Saved,0,Pass,42,France,IN POSSESSION
+26,ALI ALHAMADI,Incomplete - Blocked,0,Pass,42,Iraq,IN POSSESSION
+26,ALI ALHAMADI,Off Target,0,Cross,42,Iraq,IN POSSESSION
+73,REBIN SULAKA,Off Target,0,Corner,42,Iraq,IN POSSESSION
+75,ALI ALHAMADI,Off Target,0,Cross,42,Iraq,IN POSSESSION
+8,Lionel MESSI,Off Target,0,Penalty,43,Argentina,IN POSSESSION
+31,Lionel MESSI,On Target - Goal,1,Loose Ball,43,Argentina,IN POSSESSION
+37,Lionel MESSI,On Target - Goal,1,Cross,43,Argentina,IN POSSESSION
+61,Enzo FERNANDEZ,Incomplete - Blocked,0,Pass,43,Argentina,IN POSSESSION
+64,Lionel MESSI,Off Target,0,Pass,43,Argentina,IN POSSESSION
+72,Nico GONZALEZ,Off Target,0,Corner,43,Argentina,IN POSSESSION
+85,Nico GONZALEZ,Incomplete - Blocked,0,Pass,43,Argentina,IN POSSESSION
+85,Enzo FERNANDEZ,Incomplete - Blocked,0,Loose Ball,43,Argentina,IN POSSESSION
+93,Julian ALVAREZ,On Target - Saved,0,Pass,43,Argentina,IN POSSESSION
+94,Lionel MESSI,On Target - Saved,0,Pass,43,Argentina,IN POSSESSION
+94,Lionel MESSI,On Target - Goal,1,Loose Ball,43,Argentina,IN POSSESSION
+22,Paul WANNER,Incomplete,0,Pass,43,Austria,IN POSSESSION
+22,Marcel SABITZER Deflected,Off Target,0,Loose Ball,43,Austria,IN POSSESSION
+45,Marcel SABITZER Deflected,Off Target,0,Pass,43,Austria,IN POSSESSION
+54,Marcel SABITZER,On Target - Saved,0,Freekick,43,Austria,IN POSSESSION
+66,Michael GREGORITSCH,Off Target,0,Cross,43,Austria,IN POSSESSION
+92,Patrick WIMMER,Off Target,0,Pass,43,Austria,IN POSSESSION
+0,NIZAR ALRASHDAN,Off Target,0,Freekick,44,Jordan,IN POSSESSION
+11,MOUSA ALTAMARI,On Target - Saved,0,Pass,44,Jordan,IN POSSESSION
+22,ALI OLWAN,On Target - Saved,0,Loose Ball,44,Jordan,IN POSSESSION
+35,MOUSA ALTAMARI,Incomplete,0,Pass,44,Jordan,IN POSSESSION
+35,NIZAR ALRASHDAN,On Target - Goal,1,Loose Ball,44,Jordan,IN POSSESSION
+45,ALI OLWAN,Off Target,0,Other,44,Jordan,IN POSSESSION
+61,NOOR ALRAWABDEH,Off Target,0,Loose Ball,44,Jordan,IN POSSESSION
+71,MAHMOUD ALMARDI,On Target - Saved,0,Pass,44,Jordan,IN POSSESSION
+2,Amine GOUIRI,Off Target,0,Pass,44,Algeria,IN POSSESSION
+20,Fares CHAIBI,Incomplete - Blocked,0,Pass,44,Algeria,IN POSSESSION
+28,Amine GOUIRI,On Target - Saved,0,Pass,44,Algeria,IN POSSESSION
+32,Riyad MAHREZ,On Target - Saved,0,Pass,44,Algeria,IN POSSESSION
+47,Rafik BELGHALI,Incomplete,0,Loose Ball,44,Algeria,IN POSSESSION
+53,Ibrahim MAZA,On Target - Saved,0,Pass,44,Algeria,IN POSSESSION
+53,Rayan AITNOURI,Off Target,0,Other,44,Algeria,IN POSSESSION
+59,Ibrahim MAZA,Off Target,0,Pass,44,Algeria,IN POSSESSION
+62,Nadhir BENBOUALI,On Target - Saved,0,Pass,44,Algeria,IN POSSESSION
+65,Ibrahim MAZA Deflected,Off Target,0,Freekick,44,Algeria,IN POSSESSION
+68,Nadhir BENBOUALI,On Target - Goal,1,Corner,44,Algeria,IN POSSESSION
+72,Fares CHAIBI,On Target - Saved,0,Freekick,44,Algeria,IN POSSESSION
+77,Nabil BENTALEB,Incomplete - Blocked,0,Pass,44,Algeria,IN POSSESSION
+79,Anis HADJ MOUSSA Deflected,Off Target,0,Pass,44,Algeria,IN POSSESSION
+81,Ramy BENSEBAINI,Incomplete - Blocked,0,Corner,44,Algeria,IN POSSESSION
+81,Amine GOUIRI,On Target - Goal,1,Loose Ball,44,Algeria,IN POSSESSION
+88,Ibrahim MAZA,On Target - Saved,0,Pass,44,Algeria,IN POSSESSION
+13,Declan RICE,Off Target,0,Freekick,45,England,IN POSSESSION
+14,Elliot ANDERSON Deflected,Off Target,0,Pass,45,England,IN POSSESSION
+15,Declan RICE Deflected,Off Target,0,Loose Ball,45,England,IN POSSESSION
+32,Jude BELLINGHAM,Incomplete - Blocked,0,Loose Ball,45,England,IN POSSESSION
+36,Declan RICE,Off Target,0,Cross,45,England,IN POSSESSION
+48,Harry KANE Deflected,Off Target,0,Pass,45,England,IN POSSESSION
+56,Noni MADUEKE Deflected,Off Target,0,Pass,45,England,IN POSSESSION
+56,Anthony GORDON,On Target - Saved,0,Pass,45,England,IN POSSESSION
+60,Elliot ANDERSON Deflected,Off Target,0,Freekick,45,England,IN POSSESSION
+61,Elliot ANDERSON,Off Target,0,Corner,45,England,IN POSSESSION
+62,Elliot ANDERSON,Incomplete - Blocked,0,Loose Ball,45,England,IN POSSESSION
+68,Harry KANE,On Target - Saved,0,Loose Ball,45,England,IN POSSESSION
+69,Bukayo SAKA,Off Target,0,Cross,45,England,IN POSSESSION
+85,Bukayo SAKA,On Target - Saved,0,Pass,45,England,IN POSSESSION
+85,Nico OREILLY,Off Target,0,Cross,45,England,IN POSSESSION
+85,Harry KANE,Off Target,0,Other,45,England,IN POSSESSION
+92,Nico OREILLY,Incomplete,0,Corner,45,England,IN POSSESSION
+92,Marc GUEHI,Incomplete,0,Cross,45,England,IN POSSESSION
+49,Marvin SENAYA,Incomplete - Blocked,0,Pass,45,Ghana,IN POSSESSION
+78,Prince ADU,Incomplete,0,Loose Ball,45,Ghana,IN POSSESSION
+59,Jose FAJARDO,Incomplete,0,Cross,46,Panama,IN POSSESSION
+67,Amir MURILLO,On Target - Saved,0,Loose Ball,46,Panama,IN POSSESSION
+67,Carlos HARVEY,Off Target,0,Cross,46,Panama,IN POSSESSION
+77,Jose Luis RODRIGUEZ,Off Target,0,Pass,46,Panama,IN POSSESSION
+79,Carlos HARVEY,Off Target,0,Corner,46,Panama,IN POSSESSION
+83,Cecilio WATERMAN,Incomplete - Blocked,0,Pass,46,Panama,IN POSSESSION
+92,Amir MURILLO,Off Target,0,Freekick,46,Panama,IN POSSESSION
+1,Luka MODRIC,Off Target,0,Cross,46,Croatia,IN POSSESSION
+45,Martin BATURINA,Off Target,0,Pass,46,Croatia,IN POSSESSION
+53,Ante BUDIMIR,On Target - Goal,1,Cross,46,Croatia,IN POSSESSION
+56,Marco PASALIC,On Target - Saved,0,Pass,46,Croatia,IN POSSESSION
+56,Marco PASALIC,Off Target,0,Other,46,Croatia,IN POSSESSION
+81,Luka SUCIC Deflected,Off Target,0,Freekick,46,Croatia,IN POSSESSION
+1,BRUNO FERNANDES Deflected,Off Target,0,Pass,47,Portugal,IN POSSESSION
+3,CRISTIANO RONALDO,Incomplete,0,Cross,47,Portugal,IN POSSESSION
+5,CRISTIANO RONALDO,On Target - Goal,1,Cross,47,Portugal,IN POSSESSION
+10,JOAO CANCELO,Incomplete - Blocked,0,Loose Ball,47,Portugal,IN POSSESSION
+16,NUNO MENDES,On Target - Goal,1,Freekick,47,Portugal,IN POSSESSION
+20,VITINHA,Incomplete,0,Loose Ball,47,Portugal,IN POSSESSION
+38,CRISTIANO RONALDO,On Target - Goal,1,Pass,47,Portugal,IN POSSESSION
+41,JOAO FELIX,Off Target,0,Pass,47,Portugal,IN POSSESSION
+50,CRISTIANO RONALDO,On Target - Goal,1,Pass,47,Portugal,IN POSSESSION
+46,JOAO FELIX,Off Target,0,Loose Ball,47,Portugal,IN POSSESSION
+57,CRISTIANO RONALDO,On Target - Saved,0,Freekick,47,Portugal,IN POSSESSION
+72,CRISTIANO RONALDO,Off Target,0,Cross,47,Portugal,IN POSSESSION
+73,CRISTIANO RONALDO Deflected,On Target - Saved,0,Loose Ball,47,Portugal,IN POSSESSION
+83,BRUNO FERNANDES,On Target - Saved,0,Pass,47,Portugal,IN POSSESSION
+86,RAFAEL LEAO,On Target - Goal,1,Loose Ball,47,Portugal,IN POSSESSION
+92,FRANCISCO TRINCAO,Off Target,0,Cross,47,Portugal,IN POSSESSION
+18,Sherzod NASRULLAEV,On Target - Saved,0,Pass,47,Uzbekistan,IN POSSESSION
+42,Otabek SHUKUROV,Off Target,0,Loose Ball,47,Uzbekistan,IN POSSESSION
+46,Odiljon XAMROBEKOV,Incomplete - Blocked,0,Pass,47,Uzbekistan,IN POSSESSION
+51,Abbosbek FAYZULLAEV,On Target - Saved,0,Pass,47,Uzbekistan,IN POSSESSION
+54,Otabek SHUKUROV Deflected,Off Target,0,Pass,47,Uzbekistan,IN POSSESSION
+61,Azizjon GANIEV,Incomplete - Blocked,0,Pass,47,Uzbekistan,IN POSSESSION
+77,Eldor SHOMURODOV,Off Target,0,Pass,47,Uzbekistan,IN POSSESSION
+3,Jhon ARIAS,On Target - Saved,0,Pass,48,Colombia,IN POSSESSION
+3,Daniel MUNOZ,Off Target,0,Other,48,Colombia,IN POSSESSION
+10,James RODRIGUEZ,On Target - Saved,0,Pass,48,Colombia,IN POSSESSION
+11,Jhon LUCUMI,Off Target,0,Corner,48,Colombia,IN POSSESSION
+14,Johan MOJICA,On Target - Saved,0,Pass,48,Colombia,IN POSSESSION
+16,Gustavo PUERTA,Off Target,0,Loose Ball,48,Colombia,IN POSSESSION
+18,Gustavo PUERTA,On Target - Saved,0,Pass,48,Colombia,IN POSSESSION
+23,Luis DIAZ,Incomplete - Blocked,0,Pass,48,Colombia,IN POSSESSION
+30,Luis DIAZ,Incomplete - Blocked,0,Pass,48,Colombia,IN POSSESSION
+38,Davinson SANCHEZ,On Target - Saved,0,Freekick,48,Colombia,IN POSSESSION
+47,Gustavo PUERTA,Incomplete - Blocked,0,Pass,48,Colombia,IN POSSESSION
+49,Luis DIAZ,On Target - Saved,0,Cross,48,Colombia,IN POSSESSION
+49,Jhon ARIAS,Off Target,0,Other,48,Colombia,IN POSSESSION
+75,Daniel MUNOZ Deflected,On Target - Goal,1,Pass,48,Colombia,IN POSSESSION
+85,Gustavo PUERTA Deflected,Off Target,0,Pass,48,Colombia,IN POSSESSION
+85,Gustavo PUERTA,On Target - Saved,0,Loose Ball,48,Colombia,IN POSSESSION
+95,Juan QUINTERO,Off Target,0,Freekick,48,Colombia,IN POSSESSION
+0,Edo KAYEMBE,Off Target,0,Pass,48,Congo DR,IN POSSESSION
+44,Cedric BAKAMBU,Off Target,0,Corner,48,Congo DR,IN POSSESSION
+52,Samuel MOUTOUSSAMY,Off Target,0,Pass,48,Congo DR,IN POSSESSION
+73,Yoane WISSA Deflected,Off Target,0,Pass,48,Congo DR,IN POSSESSION
+88,Joris KAYEMBE,Incomplete - Blocked,0,Pass,48,Congo DR,IN POSSESSION
+90,Nathanael MBUKU,On Target - Saved,0,Loose Ball,48,Congo DR,IN POSSESSION
+92,Charles PICKEL,Incomplete,0,Corner,48,Congo DR,IN POSSESSION
+32,Lewis FERGUSON,Incomplete,0,Loose Ball,49,Scotland,IN POSSESSION
+35,Kenny McLEAN,Incomplete - Blocked,0,Pass,49,Scotland,IN POSSESSION
+46,Ben GANNONDOAK,Incomplete - Blocked,0,Pass,49,Scotland,IN POSSESSION
+50,Ben GANNONDOAK,Incomplete,0,Pass,49,Scotland,IN POSSESSION
+48,Scott McTOMINAY,On Target - Saved,0,Cross,49,Scotland,IN POSSESSION
+63,Lewis FERGUSON,On Target - Saved,0,Freekick,49,Scotland,IN POSSESSION
+63,Scott McTOMINAY,On Target - Saved,0,Cross,49,Scotland,IN POSSESSION
+71,Lawrence SHANKLAND,Incomplete,0,Cross,49,Scotland,IN POSSESSION
+71,Scott McTOMINAY,Off Target,0,Loose Ball,49,Scotland,IN POSSESSION
+75,Lawrence SHANKLAND,Off Target,0,Corner,49,Scotland,IN POSSESSION
+82,Ryan CHRISTIE,Incomplete - Blocked,0,Loose Ball,49,Scotland,IN POSSESSION
+88,Anthony RALSTON,On Target - Saved,0,Cross,49,Scotland,IN POSSESSION
+95,Scott McTOMINAY,On Target - Saved,0,Cross,49,Scotland,IN POSSESSION
+6,CASEMIRO,Incomplete - Blocked,0,Pass,49,Brazil,IN POSSESSION
+10,BRUNO GUIMARAES,Incomplete - Blocked,0,Pass,49,Brazil,IN POSSESSION
+11,MATHEUS CUNHA,Off Target,0,Pass,49,Brazil,IN POSSESSION
+19,VINICIUS JUNIOR,Off Target,0,Pass,49,Brazil,IN POSSESSION
+37,RAYAN,Off Target,0,Pass,49,Brazil,IN POSSESSION
+44,MATHEUS CUNHA Deflected,On Target - Goal,1,Cross,49,Brazil,IN POSSESSION
+47,VINICIUS JUNIOR,On Target - Goal,1,Cross,49,Brazil,IN POSSESSION
+51,DOUGLAS SANTOS Deflected,Off Target,0,Loose Ball,49,Brazil,IN POSSESSION
+50,VINICIUS JUNIOR,On Target - Saved,0,Pass,49,Brazil,IN POSSESSION
+53,VINICIUS JUNIOR,On Target - Saved,0,Pass,49,Brazil,IN POSSESSION
+58,MATHEUS CUNHA,Incomplete - Blocked,0,Pass,49,Brazil,IN POSSESSION
+58,LUCAS PAQUETA,Off Target,0,Loose Ball,49,Brazil,IN POSSESSION
+59,MATHEUS CUNHA,On Target - Goal,1,Pass,49,Brazil,IN POSSESSION
+78,VINICIUS JUNIOR,On Target - Saved,0,Pass,49,Brazil,IN POSSESSION
+80,VINICIUS JUNIOR,Off Target,0,Cross,49,Brazil,IN POSSESSION
+85,GABRIEL MAGALHAES,Incomplete - Blocked,0,Corner,49,Brazil,IN POSSESSION
+89,NEYMAR JR,On Target - Saved,0,Other,49,Brazil,IN POSSESSION
+95,VINICIUS JUNIOR,Incomplete - Blocked,0,Pass,49,Brazil,IN POSSESSION
+11,Ayoub EL KAABI,On Target - Saved,0,Pass,50,Morocco,IN POSSESSION
+12,Ismael SAIBARI,Off Target,0,Cross,50,Morocco,IN POSSESSION
+13,Ismael SAIBARI,Incomplete - Blocked,0,Pass,50,Morocco,IN POSSESSION
+22,Ismael SAIBARI,Off Target,0,Pass,50,Morocco,IN POSSESSION
+27,Ayoub EL KAABI,Incomplete,0,Cross,50,Morocco,IN POSSESSION
+29,Achraf HAKIMI,On Target - Saved,0,Pass,50,Morocco,IN POSSESSION
+29,Ayoub EL KAABI,On Target - Saved,0,Other,50,Morocco,IN POSSESSION
+35,Ismael SAIBARI,Off Target,0,Cross,50,Morocco,IN POSSESSION
+38,Achraf HAKIMI,On Target - Goal,1,Loose Ball,50,Morocco,IN POSSESSION
+45,Ismael SAIBARI,On Target - Goal,1,Cross,50,Morocco,IN POSSESSION
+47,Brahim DIAZ,Off Target,0,Pass,50,Morocco,IN POSSESSION
+49,Neil EL AYNAOUI,On Target - Saved,0,Freekick,50,Morocco,IN POSSESSION
+58,Bilal EL KHANNOUSS,On Target - Saved,0,Loose Ball,50,Morocco,IN POSSESSION
+74,Achraf HAKIMI,Incomplete - Blocked,0,Freekick,50,Morocco,IN POSSESSION
+76,Soufiane RAHIMI Deflected,Off Target,0,Corner,50,Morocco,IN POSSESSION
+77,Chadi RIAD,Incomplete,0,Corner,50,Morocco,IN POSSESSION
+77,Soufiane RAHIMI Deflected,On Target - Goal,1,Loose Ball,50,Morocco,IN POSSESSION
+87,Achraf HAKIMI,On Target - Saved,0,Freekick,50,Morocco,IN POSSESSION
+88,Azzedine OUNAHI,Incomplete - Blocked,0,Loose Ball,50,Morocco,IN POSSESSION
+88,Gessime YASSINE,On Target - Goal,1,Cross,50,Morocco,IN POSSESSION
+7,Jean-Ricner BELLEGARDE,Off Target,0,Freekick,50,Haiti,IN POSSESSION
+9,Lenny JOSEPH,Incomplete,0,Cross,50,Haiti,IN POSSESSION
+42,Wilson ISIDOR,On Target - Goal,1,Pass,50,Haiti,IN POSSESSION
+63,Jean-Ricner BELLEGARDE,Incomplete - Blocked,0,Freekick,50,Haiti,IN POSSESSION
+94,Duckens NAZON,On Target - Saved,0,Freekick,50,Haiti,IN POSSESSION
+94,Jean-Ricner BELLEGARDE,Incomplete - Blocked,0,Corner,50,Haiti,IN POSSESSION
+97,Louicius DEEDSON,Incomplete - Blocked,0,Pass,50,Haiti,IN POSSESSION
+97,Ricardo ADE,Off Target,0,Pass,50,Haiti,IN POSSESSION
+10,Breel EMBOLO,On Target - Saved,0,Pass,51,Switzerland,IN POSSESSION
+10,Johan MANZAMBI,Incomplete - Blocked,0,Other,51,Switzerland,IN POSSESSION
+16,Breel EMBOLO,On Target - Saved,0,Other,51,Switzerland,IN POSSESSION
+37,Granit XHAKA,Off Target,0,Freekick,51,Switzerland,IN POSSESSION
+45,Ruben VARGAS,On Target - Goal,1,Cross,51,Switzerland,IN POSSESSION
+56,Johan MANZAMBI,On Target - Goal,1,Pass,51,Switzerland,IN POSSESSION
+19,Luc DE FOUGEROLLES,On Target - Saved,0,Freekick,51,Canada,IN POSSESSION
+32,Cyle LARIN,On Target - Saved,0,Pass,51,Canada,IN POSSESSION
+39,Alistair JOHNSTON,Off Target,0,Loose Ball,51,Canada,IN POSSESSION
+40,Ali AHMED,On Target - Saved,0,Pass,51,Canada,IN POSSESSION
+43,Jonathan DAVID,Off Target,0,Pass,51,Canada,IN POSSESSION
+60,Liam MILLAR Deflected,Off Target,0,Pass,51,Canada,IN POSSESSION
+60,Derek CORNELIUS Deflected,Off Target,0,Cross,51,Canada,IN POSSESSION
+67,Jonathan DAVID Deflected,Off Target,0,Cross,51,Canada,IN POSSESSION
+75,Promise DAVID,On Target - Goal,1,Cross,51,Canada,IN POSSESSION
+90,Derek CORNELIUS,Off Target,0,Cross,51,Canada,IN POSSESSION
+92,Promise DAVID,On Target - Saved,0,Other,51,Canada,IN POSSESSION
+95,Alistair JOHNSTON,On Target - Saved,0,Cross,51,Canada,IN POSSESSION
+95,Promise DAVID,On Target - Saved,0,Pass,51,Canada,IN POSSESSION
+1,Ermedin DEMIROVIC,On Target - Saved,0,Pass,52,Bosnia and Herzegovina,IN POSSESSION
+2,Ivan SUNJIC,On Target - Saved,0,Pass,52,Bosnia and Herzegovina,IN POSSESSION
+17,Ivan BASIC Deflected,Off Target,0,Pass,52,Bosnia and Herzegovina,IN POSSESSION
+22,Kerim ALAJBEGOVIC,Incomplete - Blocked,0,Freekick,52,Bosnia and Herzegovina,IN POSSESSION
+32,Ivan BASIC Deflected,Off Target,0,Loose Ball,52,Bosnia and Herzegovina,IN POSSESSION
+32,Nikola KATIC,Off Target,0,Pass,52,Bosnia and Herzegovina,IN POSSESSION
+37,Edin DZEKO,Off Target,0,Pass,52,Bosnia and Herzegovina,IN POSSESSION
+75,Esmir BAJRAKTAREVIC,Off Target,0,Pass,52,Bosnia and Herzegovina,IN POSSESSION
+78,Esmir BAJRAKTAREVIC,On Target - Saved,0,Pass,52,Bosnia and Herzegovina,IN POSSESSION
+79,Stjepan RADELJIC,Incomplete - Blocked,0,Loose Ball,52,Bosnia and Herzegovina,IN POSSESSION
+79,Ermin MAHMIC,On Target - Goal,1,Pass,52,Bosnia and Herzegovina,IN POSSESSION
+41,HASSAN ALHAYDOS,On Target - Goal,1,Cross,52,Qatar,IN POSSESSION
+44,BOUALEM KHOUKHI,Off Target,0,Pass,52,Qatar,IN POSSESSION
+47,PEDRO MIGUEL,Off Target,0,Pass,52,Qatar,IN POSSESSION
+56,AKRAM AFIF,Off Target,0,Pass,52,Qatar,IN POSSESSION
+59,AKRAM AFIF,Off Target,0,Pass,52,Qatar,IN POSSESSION
+85,AHMED ALGANEHI,Off Target,0,Freekick,52,Qatar,IN POSSESSION
+93,PEDRO MIGUEL,On Target - Saved,0,Pass,52,Qatar,IN POSSESSION
+93,ALMOEZ ALI,On Target - Saved,0,Corner,52,Qatar,IN POSSESSION
+6,Vladimir COUFAL,Incomplete - Blocked,0,Cross,53,Czechia,IN POSSESSION
+7,Denis VISINSKY,Off Target,0,Loose Ball,53,Czechia,IN POSSESSION
+11,Michal SADILEK,Off Target,0,Loose Ball,53,Czechia,IN POSSESSION
+14,Denis VISINSKY,Off Target,0,Pass,53,Czechia,IN POSSESSION
+43,David DOUDERA,Off Target,0,Loose Ball,53,Czechia,IN POSSESSION
+45,Lukas CERV Deflected,On Target - Saved,0,Loose Ball,53,Czechia,IN POSSESSION
+53,Lukas CERV,Incomplete,0,Loose Ball,53,Czechia,IN POSSESSION
+60,Michal SADILEK,Incomplete - Blocked,0,Pass,53,Czechia,IN POSSESSION
+67,David DOUDERA,Off Target,0,Loose Ball,53,Czechia,IN POSSESSION
+80,David DOUDERA,Off Target,0,Loose Ball,53,Czechia,IN POSSESSION
+92,David DOUDERA,Off Target,0,Cross,53,Czechia,IN POSSESSION
+36,Israel REYES,Off Target,0,Loose Ball,53,Mexico,IN POSSESSION
+38,Gilberto MORA,Incomplete - Blocked,0,Pass,53,Mexico,IN POSSESSION
+38,Jorge SANCHEZ,On Target - Saved,0,Pass,53,Mexico,IN POSSESSION
+38,Roberto ALVARADO,Off Target,0,Pass,53,Mexico,IN POSSESSION
+47,Julian QUINONES,Off Target,0,Pass,53,Mexico,IN POSSESSION
+49,Julian QUINONES,Incomplete - Blocked,0,Pass,53,Mexico,IN POSSESSION
+60,Julian QUINONES,On Target - Goal,1,Loose Ball,53,Mexico,IN POSSESSION
+76,Julian QUINONES,Off Target,0,Cross,53,Mexico,IN POSSESSION
+93,Santiago GIMENEZ,On Target - Saved,0,Pass,53,Mexico,IN POSSESSION
+93,Alvaro FIDALGO,On Target - Goal,1,Pass,53,Mexico,IN POSSESSION
+5,Relebohile MOFOKENG Deflected,Off Target,0,Loose Ball,54,South Africa,IN POSSESSION
+13,Evidence MAKGOPA,Off Target,0,Cross,54,South Africa,IN POSSESSION
+18,Thapelo MASEKO Deflected,Off Target,0,Pass,54,South Africa,IN POSSESSION
+19,Oswin APPOLLIS,On Target - Saved,0,Pass,54,South Africa,IN POSSESSION
+29,Thalente MBATHA,On Target - Saved,0,Loose Ball,54,South Africa,IN POSSESSION
+29,Evidence MAKGOPA,On Target - Saved,0,Other,54,South Africa,IN POSSESSION
+38,Thapelo MASEKO,Off Target,0,Pass,54,South Africa,IN POSSESSION
+41,Relebohile MOFOKENG,Off Target,0,Pass,54,South Africa,IN POSSESSION
+42,Thapelo MASEKO,Incomplete - Blocked,0,Pass,54,South Africa,IN POSSESSION
+49,Aubrey MODIBA,Off Target,0,Loose Ball,54,South Africa,IN POSSESSION
+50,Thapelo MASEKO,Incomplete - Blocked,0,Pass,54,South Africa,IN POSSESSION
+62,Thapelo MASEKO,On Target - Goal,1,Pass,54,South Africa,IN POSSESSION
+1,KIM Minjae,On Target - Goal,1,Corner,54,Korea Republic,IN POSSESSION
+6,OH Hyeongyu,Incomplete,0,Cross,54,Korea Republic,IN POSSESSION
+7,LEE Kangin,Off Target,0,Cross,54,Korea Republic,IN POSSESSION
+33,HWANG Heechan,Off Target,0,Pass,54,Korea Republic,IN POSSESSION
+59,OH Hyeongyu,On Target - Saved,0,Cross,54,Korea Republic,IN POSSESSION
+85,SEOL Youngwoo,Off Target,0,Loose Ball,54,Korea Republic,IN POSSESSION
+87,SON Heungmin,Incomplete - Blocked,0,Pass,54,Korea Republic,IN POSSESSION
+92,PARK Jinseob,On Target - Saved,0,Cross,54,Korea Republic,IN POSSESSION
+1,Tahith CHONG,On Target - Saved,0,Other,55,Curaçao,IN POSSESSION
+13,Jurien GAARI,Off Target,0,Pass,55,Curaçao,IN POSSESSION
+39,Tahith CHONG,Off Target,0,Pass,55,Curaçao,IN POSSESSION
+47,Jurien GAARI Deflected,Off Target,0,Corner,55,Curaçao,IN POSSESSION
+54,Sherel FLORANUS,Off Target,0,Pass,55,Curaçao,IN POSSESSION
+73,Tahith CHONG,On Target - Saved,0,Pass,55,Curaçao,IN POSSESSION
+78,Leandro BACUNA,Incomplete,0,Freekick,55,Curaçao,IN POSSESSION
+78,Juninho BACUNA,Off Target,0,Loose Ball,55,Curaçao,IN POSSESSION
+91,Gervane KASTANEER,Off Target,0,Loose Ball,55,Curaçao,IN POSSESSION
+92,Jeremy ANTONISSE Deflected,Off Target,0,Loose Ball,55,Curaçao,IN POSSESSION
+6,Nicolas PEPE,On Target - Goal,1,Pass,55,Côte d'Ivoire,IN POSSESSION
+9,Amad DIALLO,Off Target,0,Pass,55,Côte d'Ivoire,IN POSSESSION
+17,Amad DIALLO,Off Target,0,Cross,55,Côte d'Ivoire,IN POSSESSION
+52,Franck KESSIE Deflected,Off Target,0,Pass,55,Côte d'Ivoire,IN POSSESSION
+63,Nicolas PEPE,On Target - Goal,1,Pass,55,Côte d'Ivoire,IN POSSESSION
+88,Elye WAHI,On Target - Saved,0,Pass,55,Côte d'Ivoire,IN POSSESSION
+8,Nilson ANGULO,On Target - Goal,1,Pass,56,Ecuador,IN POSSESSION
+31,Enner VALENCIA,Incomplete - Blocked,0,Pass,56,Ecuador,IN POSSESSION
+53,Moises CAICEDO,Off Target,0,Corner,56,Ecuador,IN POSSESSION
+61,Enner VALENCIA,On Target - Saved,0,Pass,56,Ecuador,IN POSSESSION
+72,Gonzalo PLATA,Off Target,0,Cross,56,Ecuador,IN POSSESSION
+76,Kevin RODRIGUEZ Deflected,Off Target,0,Pass,56,Ecuador,IN POSSESSION
+77,Gonzalo PLATA,On Target - Goal,1,Pass,56,Ecuador,IN POSSESSION
+1,Leroy SANE,On Target - Goal,1,Pass,56,Germany,IN POSSESSION
+6,Florian WIRTZ,Incomplete - Blocked,0,Loose Ball,56,Germany,IN POSSESSION
+13,Felix NMECHA,Off Target,0,Pass,56,Germany,IN POSSESSION
+24,Kai HAVERTZ,On Target - Saved,0,Cross,56,Germany,IN POSSESSION
+34,Jamal MUSIALA Deflected,Off Target,0,Pass,56,Germany,IN POSSESSION
+37,Felix NMECHA Deflected,Off Target,0,Pass,56,Germany,IN POSSESSION
+62,Florian WIRTZ,Incomplete - Blocked,0,Pass,56,Germany,IN POSSESSION
+75,Leroy SANE,On Target - Saved,0,Loose Ball,56,Germany,IN POSSESSION
+92,Deniz UNDAV,Off Target,0,Pass,56,Germany,IN POSSESSION
+94,Pascal GROSS,Off Target,0,Loose Ball,56,Germany,IN POSSESSION
+14,Ritsu DOAN,Incomplete - Blocked,0,Pass,57,Japan,IN POSSESSION
+21,Daizen MAEDA,Off Target,0,Cross,57,Japan,IN POSSESSION
+39,Yukinari SUGAWARA,On Target - Saved,0,Pass,57,Japan,IN POSSESSION
+44,Keito NAKAMURA,On Target - Saved,0,Pass,57,Japan,IN POSSESSION
+51,Ayase UEDA Deflected,Off Target,0,Pass,57,Japan,IN POSSESSION
+55,Daizen MAEDA,On Target - Goal,1,Pass,57,Japan,IN POSSESSION
+82,Koki OGAWA,Off Target,0,Cross,57,Japan,IN POSSESSION
+5,Alexander BERNHARDSSON,On Target - Saved,0,Pass,57,Sweden,IN POSSESSION
+47,Viktor GYOKERES Deflected,Off Target,0,Loose Ball,57,Sweden,IN POSSESSION
+49,Gustaf LAGERBIELKE,Off Target,0,Corner,57,Sweden,IN POSSESSION
+61,Anthony ELANGA,On Target - Goal,1,Pass,57,Sweden,IN POSSESSION
+64,Alexander ISAK,On Target - Saved,0,Loose Ball,57,Sweden,IN POSSESSION
+77,Daniel SVENSSON Deflected,Off Target,0,Pass,57,Sweden,IN POSSESSION
+78,Victor LINDELOF,Off Target,0,Corner,57,Sweden,IN POSSESSION
+78,Ken SEMA,Incomplete - Blocked,0,Loose Ball,57,Sweden,IN POSSESSION
+80,Gustaf LAGERBIELKE,Off Target,0,Freekick,57,Sweden,IN POSSESSION
+92,Anthony ELANGA,On Target - Saved,0,Pass,57,Sweden,IN POSSESSION
+93,Alexander ISAK,On Target - Saved,0,Corner,57,Sweden,IN POSSESSION
+1,Ismael GHARBI,Off Target,0,Cross,58,Tunisia,IN POSSESSION
+8,Ali ABDI,Off Target,0,Cross,58,Tunisia,IN POSSESSION
+31,Ismael GHARBI,Off Target,0,Freekick,58,Tunisia,IN POSSESSION
+53,Hazem MASTOURI,On Target - Goal,1,Corner,58,Tunisia,IN POSSESSION
+64,Hazem MASTOURI,On Target - Saved,0,Pass,58,Tunisia,IN POSSESSION
+75,Hannibal MEJBRI,On Target - Saved,0,Pass,58,Tunisia,IN POSSESSION
+76,Elias ACHOURI,Off Target,0,Loose Ball,58,Tunisia,IN POSSESSION
+89,Hazem MASTOURI,Off Target,0,Loose Ball,58,Tunisia,IN POSSESSION
+93,Elias ACHOURI,Incomplete - Blocked,0,Loose Ball,58,Tunisia,IN POSSESSION
+6,Brian BROBBEY,On Target - Goal,1,Pass,58,Netherlands,IN POSSESSION
+10,Frenkie DE JONG,Incomplete - Blocked,0,Loose Ball,58,Netherlands,IN POSSESSION
+16,Jan Paul VAN HECKE,Off Target,0,Freekick,58,Netherlands,IN POSSESSION
+18,Tijjani REIJNDERS,On Target - Saved,0,Loose Ball,58,Netherlands,IN POSSESSION
+27,Ryan GRAVENBERCH Deflected,Off Target,0,Pass,58,Netherlands,IN POSSESSION
+28,Donyell MALEN,Off Target,0,Corner,58,Netherlands,IN POSSESSION
+29,Cody GAKPO,Incomplete,0,Cross,58,Netherlands,IN POSSESSION
+29,Denzel DUMFRIES Deflected,Off Target,0,Pass,58,Netherlands,IN POSSESSION
+30,Donyell MALEN,Incomplete,0,Loose Ball,58,Netherlands,IN POSSESSION
+38,Ryan GRAVENBERCH,Off Target,0,Pass,58,Netherlands,IN POSSESSION
+41,Brian BROBBEY,Incomplete - Blocked,0,Pass,58,Netherlands,IN POSSESSION
+50,Denzel DUMFRIES,On Target - Goal,1,Loose Ball,58,Netherlands,IN POSSESSION
+60,Cody GAKPO,Incomplete - Blocked,0,Pass,58,Netherlands,IN POSSESSION
+61,Jan Paul VAN HECKE Deflected,On Target - Goal,1,Corner,58,Netherlands,IN POSSESSION
+65,Tijjani REIJNDERS,Off Target,0,Loose Ball,58,Netherlands,IN POSSESSION
+65,Denzel DUMFRIES,Incomplete,0,Loose Ball,58,Netherlands,IN POSSESSION
+67,Tijjani REIJNDERS,On Target - Saved,0,Other,58,Netherlands,IN POSSESSION
+77,Virgil VAN DIJK,On Target - Saved,0,Freekick,58,Netherlands,IN POSSESSION
+79,Nathan AKE,Off Target,0,Pass,58,Netherlands,IN POSSESSION
+9,Arda GULER,On Target - Goal,1,Pass,59,Türkiye,IN POSSESSION
+30,Orkun KOKCU,Incomplete,0,Cross,59,Türkiye,IN POSSESSION
+39,Abdulkerim BARDAKCI Deflected,Off Target,0,Pass,59,Türkiye,IN POSSESSION
+42,Kenan YILDIZ Deflected,Off Target,0,Pass,59,Türkiye,IN POSSESSION
+71,Kenan YILDIZ,Off Target,0,Pass,59,Türkiye,IN POSSESSION
+80,Orkun KOKCU,Off Target,0,Pass,59,Türkiye,IN POSSESSION
+97,Can UZUN,Incomplete - Blocked,0,Loose Ball,59,Türkiye,IN POSSESSION
+97,Kaan AYHAN,On Target - Goal,1,Loose Ball,59,Türkiye,IN POSSESSION
+0,Giovanni REYNA Deflected,Off Target,0,Loose Ball,59,USA,IN POSSESSION
+2,Auston TRUSTY,On Target - Goal,1,Corner,59,USA,IN POSSESSION
+12,Brenden AARONSON,Incomplete - Blocked,0,Pass,59,USA,IN POSSESSION
+12,Brenden AARONSON,On Target - Saved,0,Loose Ball,59,USA,IN POSSESSION
+28,Miles ROBINSON,Incomplete - Blocked,0,Corner,59,USA,IN POSSESSION
+44,Weston McKENNIE,On Target - Saved,0,Pass,59,USA,IN POSSESSION
+47,Auston TRUSTY,Off Target,0,Corner,59,USA,IN POSSESSION
+48,Sebastian BERHALTER,On Target - Goal,1,Loose Ball,59,USA,IN POSSESSION
+61,Christian PULISIC,On Target - Saved,0,Pass,59,USA,IN POSSESSION
+61,Brenden AARONSON,Off Target,0,Other,59,USA,IN POSSESSION
+62,Ricardo PEPI,Incomplete,0,Cross,59,USA,IN POSSESSION
+62,Christian PULISIC,On Target - Saved,0,Loose Ball,59,USA,IN POSSESSION
+62,Weston McKENNIE Deflected,Off Target,0,Cross,59,USA,IN POSSESSION
+65,Weston McKENNIE,Off Target,0,Corner,59,USA,IN POSSESSION
+76,Christian PULISIC,Off Target,0,Pass,59,USA,IN POSSESSION
+92,Alex ZENDEJAS,Incomplete - Blocked,0,Pass,59,USA,IN POSSESSION
+94,Ricardo PEPI,Incomplete - Blocked,0,Pass,59,USA,IN POSSESSION
+37,Gabriel AVALOS,Off Target,0,Pass,60,Paraguay,IN POSSESSION
+45,Juan Jose CACERES,Off Target,0,Loose Ball,60,Paraguay,IN POSSESSION
+47,Andres CUBAS,Off Target,0,Loose Ball,60,Paraguay,IN POSSESSION
+81,Julio ENCISO,Off Target,0,Pass,60,Paraguay,IN POSSESSION
+92,MAURICIO,On Target - Saved,0,Pass,60,Paraguay,IN POSSESSION
+3,Jackson IRVINE,On Target - Saved,0,Loose Ball,60,Australia,IN POSSESSION
+9,Aiden ONEILL,Off Target,0,Loose Ball,60,Australia,IN POSSESSION
+22,Connor METCALFE,Incomplete - Blocked,0,Pass,60,Australia,IN POSSESSION
+35,Jordan BOS,On Target - Saved,0,Pass,60,Australia,IN POSSESSION
+46,Cristian VOLPATO,On Target - Saved,0,Pass,60,Australia,IN POSSESSION
+47,Jackson IRVINE,Off Target,0,Cross,60,Australia,IN POSSESSION
+58,Nestory IRANKUNDA,Off Target,0,Other,60,Australia,IN POSSESSION
+59,Nestory IRANKUNDA,Incomplete - Blocked,0,Loose Ball,60,Australia,IN POSSESSION
+60,Ajdin HRUSTIC Deflected,Off Target,0,Pass,60,Australia,IN POSSESSION
+92,Tete YENGI,On Target - Saved,0,Pass,60,Australia,IN POSSESSION
+10,Kristian THORSTVEDT,On Target - Saved,0,Loose Ball,61,Norway,IN POSSESSION
+13,Jorgen STRAND LARSEN,Off Target,0,Pass,61,Norway,IN POSSESSION
+18,Thelo AASGAARD Deflected,Off Target,0,Pass,61,Norway,IN POSSESSION
+20,Thelo AASGAARD,On Target - Goal,1,Pass,61,Norway,IN POSSESSION
+49,Jorgen STRAND LARSEN,On Target - Saved,0,Penalty,61,Norway,IN POSSESSION
+54,Leo OSTIGARD,Off Target,0,Corner,61,Norway,IN POSSESSION
+71,Oscar BOBB,On Target - Saved,0,Pass,61,Norway,IN POSSESSION
+78,Patrick BERG,Incomplete - Blocked,0,Pass,61,Norway,IN POSSESSION
+86,Fredrik AURSNES,Off Target,0,Loose Ball,61,Norway,IN POSSESSION
+0,Kylian MBAPPE,On Target - Saved,0,Pass,61,France,IN POSSESSION
+3,Manu KONE,On Target - Saved,0,Loose Ball,61,France,IN POSSESSION
+4,Desire DOUE Deflected,On Target - Saved,0,Pass,61,France,IN POSSESSION
+6,Ousmane DEMBELE,On Target - Goal,1,Pass,61,France,IN POSSESSION
+7,Desire DOUE,On Target - Saved,0,Other,61,France,IN POSSESSION
+12,Michael OLISE,Incomplete - Blocked,0,Pass,61,France,IN POSSESSION
+16,Kylian MBAPPE,On Target - Saved,0,Pass,61,France,IN POSSESSION
+19,Ousmane DEMBELE,On Target - Goal,1,Pass,61,France,IN POSSESSION
+22,Michael OLISE,Incomplete - Blocked,0,Cross,61,France,IN POSSESSION
+22,Desire DOUE,Incomplete - Blocked,0,Pass,61,France,IN POSSESSION
+23,Theo HERNANDEZ,Off Target,0,Pass,61,France,IN POSSESSION
+31,Ousmane DEMBELE,On Target - Goal,1,Pass,61,France,IN POSSESSION
+34,Aurelien TCHOUAMENI,Off Target,0,Pass,61,France,IN POSSESSION
+45,Michael OLISE,Off Target,0,Pass,61,France,IN POSSESSION
+55,Kylian MBAPPE,Off Target,0,Pass,61,France,IN POSSESSION
+91,Theo HERNANDEZ,Off Target,0,Pass,61,France,IN POSSESSION
+93,Desire DOUE,On Target - Goal,1,Cross,61,France,IN POSSESSION
+2,Idrissa Gana GUEYE Deflected,Off Target,0,Other,62,Senegal,IN POSSESSION
+3,Abdoulaye SECK,Incomplete,0,Corner,62,Senegal,IN POSSESSION
+13,Sadio MANE Deflected,On Target - Saved,0,Freekick,62,Senegal,IN POSSESSION
+13,Abdoulaye SECK,Off Target,0,Pass,62,Senegal,IN POSSESSION
+16,Ismaila SARR,Off Target,0,Loose Ball,62,Senegal,IN POSSESSION
+32,Ismail JAKOBS,Off Target,0,Pass,62,Senegal,IN POSSESSION
+45,Sadio MANE,Off Target,0,Pass,62,Senegal,IN POSSESSION
+46,Moussa NIAKHATE,Incomplete,0,Corner,62,Senegal,IN POSSESSION
+50,Lamine CAMARA,Off Target,0,Loose Ball,62,Senegal,IN POSSESSION
+45,Habib DIARRA,Off Target,0,Pass,62,Senegal,IN POSSESSION
+50,Sadio MANE,Off Target,0,Cross,62,Senegal,IN POSSESSION
+55,Ismaila SARR,On Target - Goal,1,Pass,62,Senegal,IN POSSESSION
+58,Pape GUEYE,On Target - Goal,1,Pass,62,Senegal,IN POSSESSION
+60,Pape GUEYE Deflected,Off Target,0,Pass,62,Senegal,IN POSSESSION
+70,Pape GUEYE,On Target - Goal,1,Pass,62,Senegal,IN POSSESSION
+73,Pape GUEYE,Incomplete - Blocked,0,Pass,62,Senegal,IN POSSESSION
+73,Krepin DIATTA,Off Target,0,Pass,62,Senegal,IN POSSESSION
+76,Nicolas JACKSON,Incomplete - Blocked,0,Cross,62,Senegal,IN POSSESSION
+78,Pathe CISS,On Target - Saved,0,Pass,62,Senegal,IN POSSESSION
+78,Nicolas JACKSON,On Target - Saved,0,Pass,62,Senegal,IN POSSESSION
+81,Iliman NDIAYE,On Target - Goal,1,Pass,62,Senegal,IN POSSESSION
+85,Sadio MANE,Incomplete - Blocked,0,Pass,62,Senegal,IN POSSESSION
+87,Pape GUEYE Deflected,Off Target,0,Pass,62,Senegal,IN POSSESSION
+90,Nicolas JACKSON,On Target - Saved,0,Freekick,62,Senegal,IN POSSESSION
+91,Pape GUEYE,On Target - Saved,0,Loose Ball,62,Senegal,IN POSSESSION
+19,ALI JASIM,Incomplete - Blocked,0,Freekick,62,Iraq,IN POSSESSION
+19,ALI JASIM Deflected,Off Target,0,Other,62,Iraq,IN POSSESSION
+40,MERCHAS DOSKI,Incomplete - Blocked,0,Pass,62,Iraq,IN POSSESSION
+40,ALI JASIM,Incomplete - Blocked,0,Loose Ball,62,Iraq,IN POSSESSION
+52,ALI JASIM,On Target - Saved,0,Other,62,Iraq,IN POSSESSION
+4,MOHAMED SALAH Deflected,Off Target,0,Pass,63,Egypt,IN POSSESSION
+4,MAHMOUD SABER Deflected,On Target - Goal,1,Loose Ball,63,Egypt,IN POSSESSION
+16,MOSTAFA ZICO,Off Target,0,Cross,63,Egypt,IN POSSESSION
+20,MOHAMED HANY Deflected,Off Target,0,Pass,63,Egypt,IN POSSESSION
+29,TREZEGUET,On Target - Saved,0,Pass,63,Egypt,IN POSSESSION
+38,MAHMOUD SABER,Off Target,0,Loose Ball,63,Egypt,IN POSSESSION
+40,TREZEGUET,Incomplete - Blocked,0,Loose Ball,63,Egypt,IN POSSESSION
+48,MAHMOUD SABER,Off Target,0,Pass,63,Egypt,IN POSSESSION
+48,TREZEGUET,On Target - Saved,0,Pass,63,Egypt,IN POSSESSION
+51,TREZEGUET Deflected,Off Target,0,Pass,63,Egypt,IN POSSESSION
+51,MOHANAD LASHIN,Off Target,0,Corner,63,Egypt,IN POSSESSION
+71,TREZEGUET,Incomplete,0,Corner,63,Egypt,IN POSSESSION
+83,MOHANAD LASHIN,Off Target,0,Other,63,Egypt,IN POSSESSION
+10,Mehdi TAREMI,On Target - Saved,0,Penalty,63,IR Iran,IN POSSESSION
+10,Saman GHODDOS,Incomplete,0,Loose Ball,63,IR Iran,IN POSSESSION
+13,Ramin REZAEIAN,On Target - Goal,1,Other,63,IR Iran,IN POSSESSION
+33,Ramin REZAEIAN,Off Target,0,Loose Ball,63,IR Iran,IN POSSESSION
+45,Shoja KHALILZADEH,Off Target,0,Cross,63,IR Iran,IN POSSESSION
+46,Saeid EZATOLAHI,Off Target,0,Pass,63,IR Iran,IN POSSESSION
+54,Saman GHODDOS,Incomplete - Blocked,0,Loose Ball,63,IR Iran,IN POSSESSION
+75,Mohammad GHORBANI,Incomplete - Blocked,0,Loose Ball,63,IR Iran,IN POSSESSION
+92,Mohammad GHORBANI,Incomplete,0,Loose Ball,63,IR Iran,IN POSSESSION
+96,Mehdi TAREMI,Incomplete - Blocked,0,Pass,63,IR Iran,IN POSSESSION
+96,Ramin REZAEIAN Deflected,Off Target,0,Pass,63,IR Iran,IN POSSESSION
+96,Saeid EZATOLAHI,Off Target,0,Cross,63,IR Iran,IN POSSESSION
+54,Elijah JUST,On Target - Saved,0,Pass,64,New Zealand,IN POSSESSION
+54,Tim PAYNE,Incomplete - Blocked,0,Other,64,New Zealand,IN POSSESSION
+58,Jesse RANDALL,Off Target,0,Loose Ball,64,New Zealand,IN POSSESSION
+75,Elijah JUST Deflected,Off Target,0,Pass,64,New Zealand,IN POSSESSION
+75,Tyler BINDON,Off Target,0,Corner,64,New Zealand,IN POSSESSION
+83,Elijah JUST,On Target - Goal,1,Loose Ball,64,New Zealand,IN POSSESSION
+3,Youri TIELEMANS,Off Target,0,Pass,64,Belgium,IN POSSESSION
+10,Leandro TROSSARD,Off Target,0,Pass,64,Belgium,IN POSSESSION
+11,Brandon MECHELE,Incomplete - Blocked,0,Pass,64,Belgium,IN POSSESSION
+11,Kevin DE BRUYNE,On Target - Saved,0,Pass,64,Belgium,IN POSSESSION
+15,Leandro TROSSARD,Incomplete - Blocked,0,Loose Ball,64,Belgium,IN POSSESSION
+15,Jeremy DOKU,On Target - Saved,0,Pass,64,Belgium,IN POSSESSION
+18,Leandro TROSSARD,Incomplete - Blocked,0,Pass,64,Belgium,IN POSSESSION
+27,Leandro TROSSARD Deflected,On Target - Goal,1,Loose Ball,64,Belgium,IN POSSESSION
+30,Hans VANAKEN,Incomplete - Blocked,0,Cross,64,Belgium,IN POSSESSION
+41,Kevin DE BRUYNE,Off Target,0,Pass,64,Belgium,IN POSSESSION
+42,Charles DE KETELAERE,On Target - Saved,0,Pass,64,Belgium,IN POSSESSION
+44,Leandro TROSSARD,Incomplete - Blocked,0,Loose Ball,64,Belgium,IN POSSESSION
+46,Hans VANAKEN Deflected,Off Target,0,Pass,64,Belgium,IN POSSESSION
+46,Arthur THEATE,Incomplete,0,Other,64,Belgium,IN POSSESSION
+47,Timothy CASTAGNE,Off Target,0,Cross,64,Belgium,IN POSSESSION
+46,Kevin DE BRUYNE,Off Target,0,Pass,64,Belgium,IN POSSESSION
+49,Leandro TROSSARD,On Target - Goal,1,Loose Ball,64,Belgium,IN POSSESSION
+59,Arthur THEATE,Incomplete,0,Corner,64,Belgium,IN POSSESSION
+60,Kevin DE BRUYNE Deflected,Off Target,0,Pass,64,Belgium,IN POSSESSION
+61,Arthur THEATE,On Target - Saved,0,Loose Ball,64,Belgium,IN POSSESSION
+61,Kevin DE BRUYNE Deflected,Off Target,0,Loose Ball,64,Belgium,IN POSSESSION
+64,Matias FERNANDEZPARDO,Off Target,0,Pass,64,Belgium,IN POSSESSION
+65,Kevin DE BRUYNE,Incomplete - Blocked,0,Pass,64,Belgium,IN POSSESSION
+65,Kevin DE BRUYNE,On Target - Goal,1,Loose Ball,64,Belgium,IN POSSESSION
+73,Matias FERNANDEZPARDO,Incomplete - Blocked,0,Pass,64,Belgium,IN POSSESSION
+73,Amadou ONANA,Incomplete - Blocked,0,Loose Ball,64,Belgium,IN POSSESSION
+77,Maxim DE CUYPER,Off Target,0,Freekick,64,Belgium,IN POSSESSION
+80,Alexis SAELEMAEKERS,Off Target,0,Pass,64,Belgium,IN POSSESSION
+85,Romelu LUKAKU,On Target - Goal,1,Cross,64,Belgium,IN POSSESSION
+89,Amadou ONANA,Off Target,0,Freekick,64,Belgium,IN POSSESSION
+91,Maxim DE CUYPER,On Target - Saved,0,Pass,64,Belgium,IN POSSESSION
+92,Arthur THEATE,Off Target,0,Loose Ball,64,Belgium,IN POSSESSION
+93,Alexis SAELEMAEKERS,On Target - Goal,1,Pass,64,Belgium,IN POSSESSION
+21,WILLY SEMEDO,Off Target,0,Pass,65,Cabo Verde,IN POSSESSION
+33,JAMIRO MONTEIRO,Incomplete - Blocked,0,Pass,65,Cabo Verde,IN POSSESSION
+38,JOAO PAULO,Off Target,0,Corner,65,Cabo Verde,IN POSSESSION
+41,WILLY SEMEDO,Off Target,0,Loose Ball,65,Cabo Verde,IN POSSESSION
+47,JAMIRO MONTEIRO,On Target - Saved,0,Cross,65,Cabo Verde,IN POSSESSION
+49,KEVIN PINA,Off Target,0,Pass,65,Cabo Verde,IN POSSESSION
+52,RYAN MENDES,Incomplete - Blocked,0,Loose Ball,65,Cabo Verde,IN POSSESSION
+56,DEROY DUARTE,Off Target,0,Loose Ball,65,Cabo Verde,IN POSSESSION
+73,LAROS DUARTE,On Target - Saved,0,Pass,65,Cabo Verde,IN POSSESSION
+74,PICO LOPES,Off Target,0,Corner,65,Cabo Verde,IN POSSESSION
+76,JOAO PAULO,Incomplete - Blocked,0,Pass,65,Cabo Verde,IN POSSESSION
+83,KEVIN PINA,Off Target,0,Loose Ball,65,Cabo Verde,IN POSSESSION
+85,WAGNER PINA,Incomplete - Blocked,0,Cross,65,Cabo Verde,IN POSSESSION
+17,SALEM ALDAWSARI,Incomplete - Blocked,0,Cross,65,Saudi Arabia,IN POSSESSION
+46,MOHAMED KANNO,On Target - Saved,0,Pass,65,Saudi Arabia,IN POSSESSION
+48,SAUD ABDULHAMID Deflected,Off Target,0,Loose Ball,65,Saudi Arabia,IN POSSESSION
+46,ABDULELAH ALAMRI,Incomplete,0,Other,65,Saudi Arabia,IN POSSESSION
+66,MOHAMMED ABU ALSHAMAT,On Target - Saved,0,Pass,65,Saudi Arabia,IN POSSESSION
+82,NASSER ALDAWSARI,Incomplete - Blocked,0,Pass,65,Saudi Arabia,IN POSSESSION
+91,ABDULLAH ALHAMDDAN,On Target - Saved,0,Pass,65,Saudi Arabia,IN POSSESSION
+31,Agustin CANOBBIO Deflected,Off Target,0,Loose Ball,66,Uruguay,IN POSSESSION
+35,Rodrigo BENTANCUR,Off Target,0,Pass,66,Uruguay,IN POSSESSION
+38,Darwin NUNEZ,Incomplete,0,Loose Ball,66,Uruguay,IN POSSESSION
+63,Federico VINAS,Off Target,0,Cross,66,Uruguay,IN POSSESSION
+84,Nicolas DE LA CRUZ,On Target - Saved,0,Pass,66,Uruguay,IN POSSESSION
+16,Lamine YAMAL,Incomplete - Blocked,0,Pass,66,Spain,IN POSSESSION
+19,Pau CUBARSI,Incomplete,0,Corner,66,Spain,IN POSSESSION
+41,Alex BAENA,On Target - Goal,1,Cross,66,Spain,IN POSSESSION
+52,Mikel OYARZABAL,Off Target,0,Pass,66,Spain,IN POSSESSION
+62,Dani OLMO,Off Target,0,Pass,66,Spain,IN POSSESSION
+0,Tomas RODRIGUEZ,On Target - Saved,0,Other,67,Panama,IN POSSESSION
+25,Jose Luis RODRIGUEZ,On Target - Saved,0,Pass,67,Panama,IN POSSESSION
+27,Carlos HARVEY,Off Target,0,Other,67,Panama,IN POSSESSION
+55,Jose Luis RODRIGUEZ,Off Target,0,Loose Ball,67,Panama,IN POSSESSION
+63,Amir MURILLO,Off Target,0,Pass,67,Panama,IN POSSESSION
+73,Azarias LONDONO,Incomplete - Blocked,0,Loose Ball,67,Panama,IN POSSESSION
+73,Ismael DIAZ,Off Target,0,Cross,67,Panama,IN POSSESSION
+74,Ismael DIAZ Deflected,Off Target,0,Loose Ball,67,Panama,IN POSSESSION
+75,Carlos HARVEY,Incomplete,0,Loose Ball,67,Panama,IN POSSESSION
+75,Amir MURILLO,Incomplete - Blocked,0,Cross,67,Panama,IN POSSESSION
+75,Ismael DIAZ,Off Target,0,Pass,67,Panama,IN POSSESSION
+93,Eric DAVIS,Off Target,0,Other,67,Panama,IN POSSESSION
+7,Marcus RASHFORD,On Target - Saved,0,Pass,67,England,IN POSSESSION
+7,Bukayo SAKA,Off Target,0,Loose Ball,67,England,IN POSSESSION
+21,Jude BELLINGHAM,Off Target,0,Loose Ball,67,England,IN POSSESSION
+21,Bukayo SAKA,Incomplete - Blocked,0,Pass,67,England,IN POSSESSION
+32,Nico OREILLY,Off Target,0,Pass,67,England,IN POSSESSION
+34,Elliot ANDERSON,On Target - Saved,0,Pass,67,England,IN POSSESSION
+37,Marcus RASHFORD,Off Target,0,Pass,67,England,IN POSSESSION
+47,Marcus RASHFORD,Off Target,0,Freekick,67,England,IN POSSESSION
+56,Harry KANE,On Target - Saved,0,Pass,67,England,IN POSSESSION
+61,Jude BELLINGHAM,On Target - Goal,1,Corner,67,England,IN POSSESSION
+66,Harry KANE,On Target - Goal,1,Cross,67,England,IN POSSESSION
+86,Marcus RASHFORD,Off Target,0,Cross,67,England,IN POSSESSION
+90,Noni MADUEKE,On Target - Saved,0,Pass,67,England,IN POSSESSION
+93,Eberechi EZE Deflected,Off Target,0,Pass,67,England,IN POSSESSION
+16,Nikola VLASIC,Off Target,0,Pass,68,Croatia,IN POSSESSION
+20,Marin PONGRACIC,Off Target,0,Freekick,68,Croatia,IN POSSESSION
+29,Ivan PERISIC,On Target - Saved,0,Freekick,68,Croatia,IN POSSESSION
+30,Petar SUCIC,On Target - Goal,1,Pass,68,Croatia,IN POSSESSION
+37,Mateo KOVACIC,Incomplete - Blocked,0,Pass,68,Croatia,IN POSSESSION
+81,Mario PASALIC,On Target - Saved,0,Pass,68,Croatia,IN POSSESSION
+82,Nikola VLASIC,On Target - Goal,1,Corner,68,Croatia,IN POSSESSION
+91,Mario PASALIC,Incomplete - Blocked,0,Pass,68,Croatia,IN POSSESSION
+46,Abdul FATAWU,Off Target,0,Pass,68,Ghana,IN POSSESSION
+56,Kamaldeen SULEMANA,Incomplete - Blocked,0,Loose Ball,68,Ghana,IN POSSESSION
+72,Derrick LUCKASSEN,On Target - Goal,1,Freekick,68,Ghana,IN POSSESSION
+93,Marvin SENAYA,Incomplete - Blocked,0,Loose Ball,68,Ghana,IN POSSESSION
+41,Riyad MAHREZ,Incomplete - Blocked,0,Pass,69,Algeria,IN POSSESSION
+43,Ibrahim MAZA,On Target - Saved,0,Pass,69,Algeria,IN POSSESSION
+48,Ramy BENSEBAINI,Off Target,0,Loose Ball,69,Algeria,IN POSSESSION
+53,Fares CHAIBI,On Target - Saved,0,Pass,69,Algeria,IN POSSESSION
+58,Fares CHAIBI,Incomplete - Blocked,0,Pass,69,Algeria,IN POSSESSION
+59,Riyad MAHREZ,On Target - Goal,1,Cross,69,Algeria,IN POSSESSION
+7,Xaver SCHLAGER,Off Target,0,Loose Ball,69,Austria,IN POSSESSION
+27,Marko ARNAUTOVIC,On Target - Goal,1,Pass,69,Austria,IN POSSESSION
+37,Romano SCHMID,Off Target,0,Loose Ball,69,Austria,IN POSSESSION
+40,Phillip MWENE,Off Target,0,Loose Ball,69,Austria,IN POSSESSION
+46,Nicolas SEIWALD,Incomplete - Blocked,0,Loose Ball,69,Austria,IN POSSESSION
+54,Marcel SABITZER,On Target - Goal,1,Pass,69,Austria,IN POSSESSION
+64,Nicolas SEIWALD,Off Target,0,Pass,69,Austria,IN POSSESSION
+67,Kevin DANSO,Off Target,0,Corner,69,Austria,IN POSSESSION
+94,Philipp LIENHART,Off Target,0,Pass,69,Austria,IN POSSESSION
+95,Sasa KALAJDZIC,On Target - Goal,1,Pass,69,Austria,IN POSSESSION
+34,MOHANNAD ABUTAHA,Incomplete - Blocked,0,Loose Ball,70,Jordan,IN POSSESSION
+37,ALI AZAIZEH,Off Target,0,Cross,70,Jordan,IN POSSESSION
+50,MOUSA ALTAMARI,Off Target,0,Cross,70,Jordan,IN POSSESSION
+54,MOUSA ALTAMARI,On Target - Goal,1,Cross,70,Jordan,IN POSSESSION
+12,Nicolas OTAMENDI,Off Target,0,Corner,70,Argentina,IN POSSESSION
+18,Giovani LO CELSO,On Target - Goal,1,Freekick,70,Argentina,IN POSSESSION
+27,Lautaro MARTINEZ,Off Target,0,Cross,70,Argentina,IN POSSESSION
+27,Marcos SENESI,Incomplete,0,Other,70,Argentina,IN POSSESSION
+30,Lautaro MARTINEZ,On Target - Goal,1,Penalty,70,Argentina,IN POSSESSION
+49,Julian ALVAREZ,On Target - Saved,0,Pass,70,Argentina,IN POSSESSION
+52,Lautaro MARTINEZ,Off Target,0,Pass,70,Argentina,IN POSSESSION
+58,Nico PAZ,Off Target,0,Loose Ball,70,Argentina,IN POSSESSION
+64,Lionel MESSI,Off Target,0,Freekick,70,Argentina,IN POSSESSION
+79,Lionel MESSI,On Target - Goal,1,Freekick,70,Argentina,IN POSSESSION
+81,Thiago ALMADA,Off Target,0,Loose Ball,70,Argentina,IN POSSESSION
+85,Jose Manuel LOPEZ Deflected,Off Target,0,Pass,70,Argentina,IN POSSESSION
+90,Marcos SENESI,Off Target,0,Freekick,70,Argentina,IN POSSESSION
+1,Luis DIAZ,Deflected On Target - Defensive Event,0,Pass,71,Colombia,IN POSSESSION
+1,Jhon CORDOBA,Off Target,0,Loose Ball,71,Colombia,IN POSSESSION
+5,Luis DIAZ,Incomplete,0,Pass,71,Colombia,IN POSSESSION
+13,Gustavo PUERTA,Off Target,0,Pass,71,Colombia,IN POSSESSION
+16,Jhon CORDOBA,On Target - Saved,0,Pass,71,Colombia,IN POSSESSION
+16,Luis DIAZ Deflected,Off Target,0,Pass,71,Colombia,IN POSSESSION
+21,Jhon ARIAS,Incomplete,0,Pass,71,Colombia,IN POSSESSION
+43,James RODRIGUEZ,Incomplete - Blocked,0,Cross,71,Colombia,IN POSSESSION
+43,Jefferson LERMA,Incomplete,0,Loose Ball,71,Colombia,IN POSSESSION
+44,Gustavo PUERTA,On Target - Saved,0,Pass,71,Colombia,IN POSSESSION
+45,Luis DIAZ,Off Target,0,Pass,71,Colombia,IN POSSESSION
+54,Jefferson LERMA,On Target - Saved,0,Pass,71,Colombia,IN POSSESSION
+54,Jhon ARIAS,On Target - Saved,0,Pass,71,Colombia,IN POSSESSION
+61,Richard RIOS,Off Target,0,Cross,71,Colombia,IN POSSESSION
+64,Luis SUAREZ Deflected,Off Target,0,Pass,71,Colombia,IN POSSESSION
+64,Davinson SANCHEZ,Off Target,0,Cross,71,Colombia,IN POSSESSION
+65,Jhon ARIAS Deflected,On Target - Saved,0,Pass,71,Colombia,IN POSSESSION
+66,Gustavo PUERTA,Off Target,0,Pass,71,Colombia,IN POSSESSION
+72,Luis SUAREZ,Incomplete - Blocked,0,Cross,71,Colombia,IN POSSESSION
+73,James RODRIGUEZ Deflected,Off Target,0,Loose Ball,71,Colombia,IN POSSESSION
+87,Luis SUAREZ,Off Target,0,Other,71,Colombia,IN POSSESSION
+90,Luis SUAREZ,Incomplete,0,Cross,71,Colombia,IN POSSESSION
+94,Gustavo PUERTA,Incomplete - Blocked,0,Pass,71,Colombia,IN POSSESSION
+3,RUBEN NEVES,Off Target,0,Loose Ball,71,Portugal,IN POSSESSION
+11,BRUNO FERNANDES,Off Target,0,Pass,71,Portugal,IN POSSESSION
+23,CRISTIANO RONALDO,On Target - Saved,0,Freekick,71,Portugal,IN POSSESSION
+37,VITINHA,Incomplete - Blocked,0,Loose Ball,71,Portugal,IN POSSESSION
+38,BRUNO FERNANDES,On Target - Saved,0,Cross,71,Portugal,IN POSSESSION
+38,CRISTIANO RONALDO,Incomplete - Blocked,0,Other,71,Portugal,IN POSSESSION
+39,RUBEN NEVES,Off Target,0,Pass,71,Portugal,IN POSSESSION
+46,CRISTIANO RONALDO,Incomplete - Blocked,0,Pass,71,Portugal,IN POSSESSION
+50,JOAO FELIX,Off Target,0,Pass,71,Portugal,IN POSSESSION
+56,JOAO FELIX,Incomplete - Blocked,0,Pass,71,Portugal,IN POSSESSION
+77,DIOGO DALOT,Off Target,0,Corner,71,Portugal,IN POSSESSION
+1,Yoane WISSA,Off Target,0,Loose Ball,72,Congo DR,IN POSSESSION
+28,Yoane WISSA,Off Target,0,Cross,72,Congo DR,IN POSSESSION
+43,Brian CIPENGA,Incomplete,0,Freekick,72,Congo DR,IN POSSESSION
+47,Chancel MBEMBA,Off Target,0,Loose Ball,72,Congo DR,IN POSSESSION
+47,Brian CIPENGA,Off Target,0,Pass,72,Congo DR,IN POSSESSION
+49,Yoane WISSA,Off Target,0,Cross,72,Congo DR,IN POSSESSION
+52,Brian CIPENGA,Off Target,0,Pass,72,Congo DR,IN POSSESSION
+57,Nathanael MBUKU,On Target - Saved,0,Pass,72,Congo DR,IN POSSESSION
+59,Fiston MAYELE,Off Target,0,Pass,72,Congo DR,IN POSSESSION
+60,Yoane WISSA,Off Target,0,Cross,72,Congo DR,IN POSSESSION
+67,Yoane WISSA,On Target - Goal,1,Penalty,72,Congo DR,IN POSSESSION
+77,Meschack ELIA,Deflected On Target - Defensive Event,0,Pass,72,Congo DR,IN POSSESSION
+77,Fiston MAYELE,On Target - Goal,1,Loose Ball,72,Congo DR,IN POSSESSION
+87,Fiston MAYELE,Off Target,0,Pass,72,Congo DR,IN POSSESSION
+90,Fiston MAYELE,Incomplete,0,Pass,72,Congo DR,IN POSSESSION
+90,Yoane WISSA,On Target - Goal,1,Pass,72,Congo DR,IN POSSESSION
+94,Ngalayel MUKAU,Off Target,0,Pass,72,Congo DR,IN POSSESSION
+95,Theo BONGONDA,Off Target,0,Cross,72,Congo DR,IN POSSESSION
+9,Eldor SHOMURODOV,On Target - Goal,1,Pass,72,Uzbekistan,IN POSSESSION
+50,Abbosbek FAYZULLAEV,Off Target,0,Freekick,72,Uzbekistan,IN POSSESSION
+50,Eldor SHOMURODOV,Off Target,0,Pass,72,Uzbekistan,IN POSSESSION
+5,Teboho MOKOENA,On Target - Saved,0,Pass,73,South Africa,IN POSSESSION
+22,Teboho MOKOENA,Incomplete - Blocked,0,Pass,73,South Africa,IN POSSESSION
+35,Ime OKON,Off Target,0,Corner,73,South Africa,IN POSSESSION
+61,Oswin APPOLLIS,Off Target,0,Loose Ball,73,South Africa,IN POSSESSION
+74,Thalente MBATHA,Off Target,0,Pass,73,South Africa,IN POSSESSION
+6,Stephen EUSTAQUIO,Off Target,0,Loose Ball,73,Canada,IN POSSESSION
+16,Jonathan DAVID,Off Target,0,Corner,73,Canada,IN POSSESSION
+21,Derek CORNELIUS,On Target - Saved,0,Freekick,73,Canada,IN POSSESSION
+34,Tani OLUWASEYI,On Target - Saved,0,Pass,73,Canada,IN POSSESSION
+40,Tani OLUWASEYI,Off Target,0,Freekick,73,Canada,IN POSSESSION
+43,Moise BOMBITO,On Target - Goal,1,Corner,73,Canada,IN POSSESSION
+43,Tajon BUCHANAN,On Target - Saved,0,Loose Ball,73,Canada,IN POSSESSION
+64,Tani OLUWASEYI Deflected,On Target - Saved,0,Pass,73,Canada,IN POSSESSION
+65,Luc DE FOUGEROLLES,Off Target,0,Corner,73,Canada,IN POSSESSION
+75,Promise DAVID,Off Target,0,Pass,73,Canada,IN POSSESSION
+77,Jonathan DAVID,On Target - Saved,0,Pass,73,Canada,IN POSSESSION
+91,Stephen EUSTAQUIO,On Target - Goal,1,Loose Ball,73,Canada,IN POSSESSION
+5,Deniz UNDAV,Off Target,0,Pass,74,Germany,IN POSSESSION
+7,Florian WIRTZ,Off Target,0,Loose Ball,74,Germany,IN POSSESSION
+32,Kai HAVERTZ,Incomplete - Blocked,0,Pass,74,Germany,IN POSSESSION
+44,Joshua KIMMICH,Off Target,0,Loose Ball,74,Germany,IN POSSESSION
+47,Joshua KIMMICH,Off Target,0,Cross,74,Germany,IN POSSESSION
+53,Kai HAVERTZ,On Target - Goal,1,Cross,74,Germany,IN POSSESSION
+55,Leon GORETZKA,Incomplete - Blocked,0,Loose Ball,74,Germany,IN POSSESSION
+55,Aleksandar PAVLOVIC,Incomplete - Blocked,0,Loose Ball,74,Germany,IN POSSESSION
+65,Leroy SANE Deflected,Off Target,0,Freekick,74,Germany,IN POSSESSION
+77,Kai HAVERTZ,On Target - Saved,0,Cross,74,Germany,IN POSSESSION
+79,Florian WIRTZ,Incomplete - Blocked,0,Freekick,74,Germany,IN POSSESSION
+90,Joshua KIMMICH Deflected,Off Target,0,Pass,74,Germany,IN POSSESSION
+91,Jonathan TAH,On Target - Saved,0,Corner,74,Germany,IN POSSESSION
+92,Nick WOLTEMADE,Incomplete - Blocked,0,Loose Ball,74,Germany,IN POSSESSION
+92,Joshua KIMMICH,Incomplete - Blocked,0,Loose Ball,74,Germany,IN POSSESSION
+96,Nick WOLTEMADE,Incomplete - Blocked,0,Other,74,Germany,IN POSSESSION
+109,Kai HAVERTZ,On Target - Saved,0,Cross,74,Germany,IN POSSESSION
+110,Joshua KIMMICH,On Target - Saved,0,Other,74,Germany,IN POSSESSION
+118,Waldemar ANTON,On Target - Saved,0,Corner,74,Germany,IN POSSESSION
+120,Nadiem AMIRI,Off Target,0,Freekick,74,Germany,IN POSSESSION
+0,Julio ENCISO Deflected,Off Target,0,Other,74,Paraguay,IN POSSESSION
+1,Junior ALONSO,On Target - Saved,0,Corner,74,Paraguay,IN POSSESSION
+41,Julio ENCISO,On Target - Goal,1,Cross,74,Paraguay,IN POSSESSION
+58,Gustavo CABALLERO,On Target - Saved,0,Cross,74,Paraguay,IN POSSESSION
+69,Gustavo GOMEZ,Off Target,0,Corner,74,Paraguay,IN POSSESSION
+92,Miguel ALMIRON Deflected,Off Target,0,Loose Ball,74,Paraguay,IN POSSESSION
+6,Ryan GRAVENBERCH,Incomplete - Blocked,0,Loose Ball,75,Netherlands,IN POSSESSION
+36,Denzel DUMFRIES Deflected,Off Target,0,Corner,75,Netherlands,IN POSSESSION
+43,Micky VAN DE VEN,Off Target,0,Pass,75,Netherlands,IN POSSESSION
+47,Micky VAN DE VEN,On Target - Saved,0,Other,75,Netherlands,IN POSSESSION
+58,Ryan GRAVENBERCH,Incomplete - Blocked,0,Loose Ball,75,Netherlands,IN POSSESSION
+71,Cody GAKPO,On Target - Goal,1,Pass,75,Netherlands,IN POSSESSION
+19,Neil EL AYNAOUI,On Target - Saved,0,Corner,75,Morocco,IN POSSESSION
+19,Ayyoub BOUADDI,Off Target,0,Pass,75,Morocco,IN POSSESSION
+20,Achraf HAKIMI,On Target - Saved,0,Pass,75,Morocco,IN POSSESSION
+47,Azzedine OUNAHI,Off Target,0,Loose Ball,75,Morocco,IN POSSESSION
+48,Ayyoub BOUADDI,Off Target,0,Pass,75,Morocco,IN POSSESSION
+51,Achraf HAKIMI,Off Target,0,Pass,75,Morocco,IN POSSESSION
+55,Achraf HAKIMI,Incomplete - Blocked,0,Pass,75,Morocco,IN POSSESSION
+57,Bilal EL KHANNOUSS Deflected,On Target - Saved,0,Loose Ball,75,Morocco,IN POSSESSION
+77,Anass SALAH EDDINE,Incomplete - Blocked,0,Loose Ball,75,Morocco,IN POSSESSION
+90,Issa DIOP,On Target - Goal,1,Cross,75,Morocco,IN POSSESSION
+1,BRUNO GUIMARAES Deflected,Off Target,0,Other,76,Brazil,IN POSSESSION
+9,BRUNO GUIMARAES Deflected,Off Target,0,Pass,76,Brazil,IN POSSESSION
+13,MATHEUS CUNHA,Off Target,0,Pass,76,Brazil,IN POSSESSION
+13,BRUNO GUIMARAES,Off Target,0,Pass,76,Brazil,IN POSSESSION
+33,VINICIUS JUNIOR,On Target - Saved,0,Pass,76,Brazil,IN POSSESSION
+34,LUCAS PAQUETA,Incomplete - Blocked,0,Pass,76,Brazil,IN POSSESSION
+37,MATHEUS CUNHA,On Target - Saved,0,Pass,76,Brazil,IN POSSESSION
+45,LUCAS PAQUETA,Off Target,0,Pass,76,Brazil,IN POSSESSION
+51,BRUNO GUIMARAES,On Target - Saved,0,Pass,76,Brazil,IN POSSESSION
+52,ENDRICK,Incomplete,0,Cross,76,Brazil,IN POSSESSION
+53,CASEMIRO,On Target - Goal,1,Pass,76,Brazil,IN POSSESSION
+57,MATHEUS CUNHA,Off Target,0,Loose Ball,76,Brazil,IN POSSESSION
+73,RAYAN Deflected,Off Target,0,Pass,76,Brazil,IN POSSESSION
+76,GABRIEL MARTINELLI,Off Target,0,Loose Ball,76,Brazil,IN POSSESSION
+88,VINICIUS JUNIOR Deflected,Off Target,0,Pass,76,Brazil,IN POSSESSION
+93,FABINHO,Off Target,0,Corner,76,Brazil,IN POSSESSION
+95,GABRIEL MARTINELLI,On Target - Goal,1,Pass,76,Brazil,IN POSSESSION
+15,Daichi KAMADA Deflected,Off Target,0,Freekick,76,Japan,IN POSSESSION
+27,Ayase UEDA,Off Target,0,Corner,76,Japan,IN POSSESSION
+44,Junya ITO,Incomplete - Blocked,0,Pass,76,Japan,IN POSSESSION
+63,Ayase UEDA Deflected,On Target - Saved,0,Pass,76,Japan,IN POSSESSION
+14,Lucas DIGNE,On Target - Saved,0,Loose Ball,77,France,IN POSSESSION
+16,Kylian MBAPPE,On Target - Saved,0,Pass,77,France,IN POSSESSION
+27,Ousmane DEMBELE Deflected,Off Target,0,Pass,77,France,IN POSSESSION
+29,Adrien RABIOT,On Target - Saved,0,Pass,77,France,IN POSSESSION
+31,Kylian MBAPPE,Off Target,0,Cross,77,France,IN POSSESSION
+32,Adrien RABIOT,Off Target,0,Pass,77,France,IN POSSESSION
+35,Michael OLISE,Off Target,0,Loose Ball,77,France,IN POSSESSION
+35,Ousmane DEMBELE,Off Target,0,Other,77,France,IN POSSESSION
+38,Dayot UPAMECANO,Incomplete,0,Freekick,77,France,IN POSSESSION
+39,Kylian MBAPPE,On Target - Saved,0,Pass,77,France,IN POSSESSION
+43,Jules KOUNDE,Incomplete,0,Loose Ball,77,France,IN POSSESSION
+44,Michael OLISE,On Target - Saved,0,Pass,77,France,IN POSSESSION
+49,Aurelien TCHOUAMENI,Off Target,0,Pass,77,France,IN POSSESSION
+52,Bradley BARCOLA,On Target - Goal,1,Pass,77,France,IN POSSESSION
+60,Michael OLISE,On Target - Saved,0,Pass,77,France,IN POSSESSION
+64,Michael OLISE Deflected,Off Target,0,Pass,77,France,IN POSSESSION
+65,Dayot UPAMECANO,Incomplete,0,Pass,77,France,IN POSSESSION
+70,Michael OLISE,On Target - Saved,0,Pass,77,France,IN POSSESSION
+73,Kylian MBAPPE,On Target - Goal,1,Pass,77,France,IN POSSESSION
+91,Jean-Philippe MATETA,Off Target,0,Cross,77,France,IN POSSESSION
+2,Alexander ISAK Deflected,On Target - Saved,0,Pass,77,Sweden,IN POSSESSION
+27,Alexander ISAK,Off Target,0,Freekick,77,Sweden,IN POSSESSION
+46,Elliot STROUD,Off Target,0,Loose Ball,77,Sweden,IN POSSESSION
+56,Lucas BERGVALL,Off Target,0,Corner,77,Sweden,IN POSSESSION
+85,Mattias SVANBERG,Off Target,0,Loose Ball,77,Sweden,IN POSSESSION
+88,Viktor GYOKERES,On Target - Saved,0,Loose Ball,77,Sweden,IN POSSESSION
+93,Gustaf NILSSON,Incomplete,0,Cross,77,Sweden,IN POSSESSION
+93,Mattias SVANBERG,On Target - Saved,0,Pass,77,Sweden,IN POSSESSION
+7,Yan DIOMANDE,Incomplete,0,Other,78,Côte d'Ivoire,IN POSSESSION
+27,Nicolas PEPE,Incomplete,0,Cross,78,Côte d'Ivoire,IN POSSESSION
+34,Emmanuel AGBADOU,On Target - Saved,0,Loose Ball,78,Côte d'Ivoire,IN POSSESSION
+46,Emmanuel AGBADOU,Off Target,0,Freekick,78,Côte d'Ivoire,IN POSSESSION
+51,Ibrahim SANGARE,Off Target,0,Loose Ball,78,Côte d'Ivoire,IN POSSESSION
+54,Nicolas PEPE,On Target - Saved,0,Loose Ball,78,Côte d'Ivoire,IN POSSESSION
+56,Franck KESSIE Deflected,On Target - Saved,0,Pass,78,Côte d'Ivoire,IN POSSESSION
+58,Emmanuel AGBADOU,Off Target,0,Pass,78,Côte d'Ivoire,IN POSSESSION
+63,Guela DOUE,Incomplete - Blocked,0,Pass,78,Côte d'Ivoire,IN POSSESSION
+71,Ghislain KONAN,Incomplete - Blocked,0,Pass,78,Côte d'Ivoire,IN POSSESSION
+95,Amad DIALLO,On Target - Saved,0,Freekick,78,Côte d'Ivoire,IN POSSESSION
+97,Evann GUESSAND,Incomplete,0,Corner,78,Côte d'Ivoire,IN POSSESSION
+2,Erling HAALAND,Incomplete - Blocked,0,Cross,78,Norway,IN POSSESSION
+36,Erling HAALAND,On Target - Saved,0,Cross,78,Norway,IN POSSESSION
+37,Martin ODEGAARD,Incomplete - Blocked,0,Pass,78,Norway,IN POSSESSION
+38,Antonio NUSA,On Target - Goal,1,Pass,78,Norway,IN POSSESSION
+41,Erling HAALAND Deflected,Off Target,0,Other,78,Norway,IN POSSESSION
+41,Alexander SORLOTH,Incomplete,0,Corner,78,Norway,IN POSSESSION
+66,Torbjorn HEGGEM,On Target - Goal,1,Pass,78,Norway,IN POSSESSION
+85,Erling HAALAND,On Target - Goal,1,Cross,78,Norway,IN POSSESSION
+89,Andreas SCHJELDERUP,Off Target,0,Other,78,Norway,IN POSSESSION
+3,Roberto ALVARADO,Incomplete - Blocked,0,Pass,79,Mexico,IN POSSESSION
+4,Gilberto MORA,Off Target,0,Pass,79,Mexico,IN POSSESSION
+5,Luis ROMO,Off Target,0,Pass,79,Mexico,IN POSSESSION
+6,Raul JIMENEZ,Off Target,0,Cross,79,Mexico,IN POSSESSION
+13,Roberto ALVARADO Deflected,Off Target,0,Pass,79,Mexico,IN POSSESSION
+14,Gilberto MORA,Off Target,0,Loose Ball,79,Mexico,IN POSSESSION
+21,Julian QUINONES,On Target - Goal,1,Pass,79,Mexico,IN POSSESSION
+30,Raul JIMENEZ,On Target - Goal,1,Pass,79,Mexico,IN POSSESSION
+43,Raul JIMENEZ,Off Target,0,Cross,79,Mexico,IN POSSESSION
+44,Raul JIMENEZ,Off Target,0,Pass,79,Mexico,IN POSSESSION
+45,Roberto ALVARADO,Off Target,0,Pass,79,Mexico,IN POSSESSION
+66,Cesar MONTES,On Target - Saved,0,Corner,79,Mexico,IN POSSESSION
+66,Johan VASQUEZ,Off Target,0,Corner,79,Mexico,IN POSSESSION
+91,Orbelin PINEDA,Off Target,0,Pass,79,Mexico,IN POSSESSION
+39,John YEBOAH,On Target - Saved,0,Pass,79,Ecuador,IN POSSESSION
+50,Pedro VITE,Off Target,0,Pass,79,Ecuador,IN POSSESSION
+73,Kevin RODRIGUEZ,Off Target,0,Pass,79,Ecuador,IN POSSESSION
+84,Moises CAICEDO,Off Target,0,Other,79,Ecuador,IN POSSESSION
+87,Yaimar MEDINA,Incomplete,0,Pass,79,Ecuador,IN POSSESSION
+88,Jordy CAICEDO,Incomplete - Blocked,0,Other,79,Ecuador,IN POSSESSION
+29,Jude BELLINGHAM,On Target - Saved,0,Pass,80,England,IN POSSESSION
+34,Harry KANE,Incomplete - Blocked,0,Loose Ball,80,England,IN POSSESSION
+34,Nico OREILLY,Incomplete,0,Pass,80,England,IN POSSESSION
+34,Marcus RASHFORD,On Target - Goal,1,Loose Ball,80,England,IN POSSESSION
+35,Noni MADUEKE,Incomplete - Blocked,0,Loose Ball,80,England,IN POSSESSION
+38,Noni MADUEKE,Incomplete - Blocked,0,Pass,80,England,IN POSSESSION
+46,Jude BELLINGHAM,On Target - Saved,0,Cross,80,England,IN POSSESSION
+50,Harry KANE,On Target - Saved,0,Corner,80,England,IN POSSESSION
+53,Marcus RASHFORD,Off Target,0,Cross,80,England,IN POSSESSION
+74,Harry KANE,On Target - Goal,1,Cross,80,England,IN POSSESSION
+84,Anthony GORDON,Incomplete,0,Cross,80,England,IN POSSESSION
+85,Jude BELLINGHAM,On Target - Saved,0,Pass,80,England,IN POSSESSION
+85,Harry KANE,On Target - Goal,1,Pass,80,England,IN POSSESSION
+89,Harry KANE,Off Target,0,Pass,80,England,IN POSSESSION
+6,Brian CIPENGA,On Target - Goal,1,Pass,80,Congo DR,IN POSSESSION
+31,Brian CIPENGA,Off Target,0,Pass,80,Congo DR,IN POSSESSION
+41,Yoane WISSA,Off Target,0,Cross,80,Congo DR,IN POSSESSION
+61,Brian CIPENGA,Incomplete - Blocked,0,Pass,80,Congo DR,IN POSSESSION
+62,Nathanael MBUKU Deflected,Off Target,0,Pass,80,Congo DR,IN POSSESSION
+84,Meschack ELIA,On Target - Saved,0,Other,80,Congo DR,IN POSSESSION
+96,Yoane WISSA,Off Target,0,Freekick,80,Congo DR,IN POSSESSION
+3,Christian PULISIC Deflected,Off Target,0,Pass,81,USA,IN POSSESSION
+14,Folarin BALOGUN,Off Target,0,Cross,81,USA,IN POSSESSION
+41,Folarin BALOGUN,Off Target,0,Freekick,81,USA,IN POSSESSION
+44,Folarin BALOGUN,On Target - Goal,1,Loose Ball,81,USA,IN POSSESSION
+52,Folarin BALOGUN,Off Target,0,Pass,81,USA,IN POSSESSION
+78,Malik TILLMAN,Incomplete,0,Cross,81,USA,IN POSSESSION
+81,Malik TILLMAN,On Target - Goal,1,Freekick,81,USA,IN POSSESSION
+95,Alex FREEMAN,Off Target,0,Loose Ball,81,USA,IN POSSESSION
+9,Ermedin DEMIROVIC,On Target - Saved,0,Pass,81,Bosnia and Herzegovina,IN POSSESSION
+55,Nikola KATIC,Off Target,0,Pass,81,Bosnia and Herzegovina,IN POSSESSION
+65,Ermedin DEMIROVIC Deflected,On Target - Saved,0,Loose Ball,81,Bosnia and Herzegovina,IN POSSESSION
+67,Esmir BAJRAKTAREVIC,On Target - Saved,0,Loose Ball,81,Bosnia and Herzegovina,IN POSSESSION
+73,Amar DEDIC,Incomplete - Blocked,0,Pass,81,Bosnia and Herzegovina,IN POSSESSION
+76,Kerim ALAJBEGOVIC,Incomplete - Blocked,0,Loose Ball,81,Bosnia and Herzegovina,IN POSSESSION
+89,Amar MEMIC,Incomplete - Blocked,0,Cross,81,Bosnia and Herzegovina,IN POSSESSION
+91,Kerim ALAJBEGOVIC,Off Target,0,Pass,81,Bosnia and Herzegovina,IN POSSESSION
+97,Ermin MAHMIC,Off Target,0,Pass,81,Bosnia and Herzegovina,IN POSSESSION
+98,Ermin MAHMIC,Off Target,0,Pass,81,Bosnia and Herzegovina,IN POSSESSION
+8,Leandro TROSSARD,On Target - Saved,0,Pass,82,Belgium,IN POSSESSION
+17,Kevin DE BRUYNE,Off Target,0,Pass,82,Belgium,IN POSSESSION
+44,Maxim DE CUYPER,On Target - Saved,0,Corner,82,Belgium,IN POSSESSION
+49,Maxim DE CUYPER,Incomplete - Blocked,0,Freekick,82,Belgium,IN POSSESSION
+50,Kevin DE BRUYNE,Off Target,0,Loose Ball,82,Belgium,IN POSSESSION
+55,Brandon MECHELE,Off Target,0,Other,82,Belgium,IN POSSESSION
+59,Dodi LUKEBAKIO,Incomplete - Blocked,0,Pass,82,Belgium,IN POSSESSION
+59,Youri TIELEMANS Deflected,Off Target,0,Pass,82,Belgium,IN POSSESSION
+61,Dodi LUKEBAKIO,Incomplete - Blocked,0,Pass,82,Belgium,IN POSSESSION
+76,Arthur THEATE,Incomplete - Blocked,0,Pass,82,Belgium,IN POSSESSION
+77,Dodi LUKEBAKIO,Off Target,0,Pass,82,Belgium,IN POSSESSION
+83,Youri TIELEMANS,Off Target,0,Pass,82,Belgium,IN POSSESSION
+85,Romelu LUKAKU,On Target - Goal,1,Cross,82,Belgium,IN POSSESSION
+88,Youri TIELEMANS,On Target - Goal,1,Pass,82,Belgium,IN POSSESSION
+92,Thomas MEUNIER,Incomplete,0,Loose Ball,82,Belgium,IN POSSESSION
+106,Nicolas RASKIN,Off Target,0,Cross,82,Belgium,IN POSSESSION
+124,Youri TIELEMANS,On Target - Goal,1,Penalty,82,Belgium,IN POSSESSION
+12,Ismaila SARR,Off Target,0,Loose Ball,82,Senegal,IN POSSESSION
+16,Idrissa Gana GUEYE,On Target - Saved,0,Loose Ball,82,Senegal,IN POSSESSION
+24,Ismaila SARR,Off Target,0,Cross,82,Senegal,IN POSSESSION
+24,Habib DIARRA,On Target - Goal,1,Other,82,Senegal,IN POSSESSION
+36,Sadio MANE,On Target - Saved,0,Pass,82,Senegal,IN POSSESSION
+45,Pape GUEYE,Off Target,0,Loose Ball,82,Senegal,IN POSSESSION
+45,Pape GUEYE,Incomplete - Blocked,0,Pass,82,Senegal,IN POSSESSION
+45,Iliman NDIAYE,Off Target,0,Loose Ball,82,Senegal,IN POSSESSION
+50,Habib DIARRA,Off Target,0,Cross,82,Senegal,IN POSSESSION
+50,Ismaila SARR,On Target - Goal,1,Pass,82,Senegal,IN POSSESSION
+87,Ibrahim MBAYE,Off Target,0,Pass,82,Senegal,IN POSSESSION
+95,Idrissa Gana GUEYE,Off Target,0,Pass,82,Senegal,IN POSSESSION
+108,Ibrahim MBAYE,Off Target,0,Cross,82,Senegal,IN POSSESSION
+112,Bara Sapoko NDIAYE,On Target - Saved,0,Pass,82,Senegal,IN POSSESSION
+126,Pape Matar SARR,Off Target,0,Pass,82,Senegal,IN POSSESSION
+130,Pathe CISS,Incomplete - Blocked,0,Pass,82,Senegal,IN POSSESSION
+130,Ismaila SARR,Incomplete - Blocked,0,Loose Ball,82,Senegal,IN POSSESSION
+131,Pape Matar SARR,Off Target,0,Freekick,82,Senegal,IN POSSESSION
+3,BRUNO FERNANDES,On Target - Saved,0,Cross,83,Portugal,IN POSSESSION
+3,BRUNO FERNANDES Deflected,Off Target,0,Other,83,Portugal,IN POSSESSION
+3,VITINHA,Incomplete - Blocked,0,Loose Ball,83,Portugal,IN POSSESSION
+6,JOAO CANCELO,Off Target,0,Loose Ball,83,Portugal,IN POSSESSION
+12,CRISTIANO RONALDO,Incomplete - Blocked,0,Freekick,83,Portugal,IN POSSESSION
+15,RENATO VEIGA,Off Target,0,Corner,83,Portugal,IN POSSESSION
+23,JOAO NEVES,Off Target,0,Corner,83,Portugal,IN POSSESSION
+45,RAFAEL LEAO,Off Target,0,Loose Ball,83,Portugal,IN POSSESSION
+57,RAFAEL LEAO,Off Target,0,Pass,83,Portugal,IN POSSESSION
+67,CRISTIANO RONALDO,On Target - Goal,1,Penalty,83,Portugal,IN POSSESSION
+90,GONCALO RAMOS,Off Target,0,Corner,83,Portugal,IN POSSESSION
+93,GONCALO RAMOS,On Target - Goal,1,Cross,83,Portugal,IN POSSESSION
+101,FRANCISCO CONCEICAO,Incomplete,0,Pass,83,Portugal,IN POSSESSION
+2,Ante BUDIMIR,Off Target,0,Pass,83,Croatia,IN POSSESSION
+9,Ante BUDIMIR,Off Target,0,Cross,83,Croatia,IN POSSESSION
+27,Martin BATURINA,Incomplete - Blocked,0,Pass,83,Croatia,IN POSSESSION
+48,Nikola VLASIC,Off Target,0,Loose Ball,83,Croatia,IN POSSESSION
+52,Ivan PERISIC,On Target - Goal,1,Loose Ball,83,Croatia,IN POSSESSION
+58,Petar SUCIC,On Target - Saved,0,Pass,83,Croatia,IN POSSESSION
+74,Mateo KOVACIC,On Target - Saved,0,Pass,83,Croatia,IN POSSESSION
+75,Igor MATANOVIC,Off Target,0,Corner,83,Croatia,IN POSSESSION
+88,Mario PASALIC,Off Target,0,Cross,83,Croatia,IN POSSESSION
+98,Igor MATANOVIC,Incomplete - Blocked,0,Corner,83,Croatia,IN POSSESSION
+1,Lamine YAMAL,On Target - Saved,0,Pass,84,Spain,IN POSSESSION
+7,Dani OLMO,Incomplete,0,Cross,84,Spain,IN POSSESSION
+7,Aymeric LAPORTE,Off Target,0,Corner,84,Spain,IN POSSESSION
+35,Mikel OYARZABAL,On Target - Goal,1,Cross,84,Spain,IN POSSESSION
+38,Mikel OYARZABAL,Incomplete - Blocked,0,Pass,84,Spain,IN POSSESSION
+41,Aymeric LAPORTE,Off Target,0,Pass,84,Spain,IN POSSESSION
+46,Alex BAENA,On Target - Saved,0,Freekick,84,Spain,IN POSSESSION
+46,Lamine YAMAL,On Target - Saved,0,Loose Ball,84,Spain,IN POSSESSION
+51,Mikel OYARZABAL,Off Target,0,Corner,84,Spain,IN POSSESSION
+53,RODRI Deflected,Off Target,0,Pass,84,Spain,IN POSSESSION
+57,Alex BAENA,Incomplete - Blocked,0,Pass,84,Spain,IN POSSESSION
+58,Lamine YAMAL,Incomplete - Blocked,0,Pass,84,Spain,IN POSSESSION
+61,Dani OLMO,Incomplete - Blocked,0,Pass,84,Spain,IN POSSESSION
+65,Dani OLMO,Incomplete - Blocked,0,Pass,84,Spain,IN POSSESSION
+65,Pedro PORRO,On Target - Goal,1,Cross,84,Spain,IN POSSESSION
+77,Ferran TORRES,Off Target,0,Corner,84,Spain,IN POSSESSION
+84,Lamine YAMAL,On Target - Goal,1,Loose Ball,84,Spain,IN POSSESSION
+88,Mikel OYARZABAL,On Target - Goal,1,Cross,84,Spain,IN POSSESSION
+94,Ferran TORRES,Off Target,0,Pass,84,Spain,IN POSSESSION
+34,David ALABA,Off Target,0,Loose Ball,84,Austria,IN POSSESSION
+44,Nicolas SEIWALD,Incomplete - Blocked,0,Cross,84,Austria,IN POSSESSION
+60,Sasa KALAJDZIC,Off Target,0,Cross,84,Austria,IN POSSESSION
+78,Carney CHUKWUEMEKA,Off Target,0,Pass,84,Austria,IN POSSESSION
+81,Stefan POSCH,Off Target,0,Cross,84,Austria,IN POSSESSION
+10,Breel EMBOLO,On Target - Goal,1,Cross,85,Switzerland,IN POSSESSION
+15,Denis ZAKARIA,On Target - Saved,0,Pass,85,Switzerland,IN POSSESSION
+24,Ricardo RODRIGUEZ,Off Target,0,Pass,85,Switzerland,IN POSSESSION
+36,Denis ZAKARIA,Off Target,0,Freekick,85,Switzerland,IN POSSESSION
+45,Dan NDOYE,On Target - Goal,1,Loose Ball,85,Switzerland,IN POSSESSION
+64,Nico ELVEDI,Incomplete - Blocked,0,Corner,85,Switzerland,IN POSSESSION
+74,Fabian RIEDER,On Target - Goal,1,Loose Ball,85,Switzerland,IN POSSESSION
+79,Breel EMBOLO,Off Target,0,Pass,85,Switzerland,IN POSSESSION
+80,Fabian RIEDER,Off Target,0,Cross,85,Switzerland,IN POSSESSION
+95,Noah OKAFOR,Incomplete - Blocked,0,Pass,85,Switzerland,IN POSSESSION
+95,Remo FREULER,On Target - Saved,0,Loose Ball,85,Switzerland,IN POSSESSION
+5,Houssem AOUAR,Incomplete,0,Cross,85,Algeria,IN POSSESSION
+13,Houssem AOUAR,On Target - Saved,0,Pass,85,Algeria,IN POSSESSION
+17,Ibrahim MAZA,Incomplete - Blocked,0,Pass,85,Algeria,IN POSSESSION
+42,Fares CHAIBI,On Target - Saved,0,Pass,85,Algeria,IN POSSESSION
+46,Ibrahim MAZA,Off Target,0,Other,85,Algeria,IN POSSESSION
+49,Riyad MAHREZ,Incomplete - Blocked,0,Cross,85,Algeria,IN POSSESSION
+92,Ibrahim MAZA,Incomplete - Blocked,0,Pass,85,Algeria,IN POSSESSION
+14,Lionel MESSI,Off Target,0,Pass,86,Argentina,IN POSSESSION
+17,Lionel MESSI,On Target - Saved,0,Freekick,86,Argentina,IN POSSESSION
+28,Lionel MESSI,On Target - Goal,1,Pass,86,Argentina,IN POSSESSION
+44,Enzo FERNANDEZ,On Target - Saved,0,Loose Ball,86,Argentina,IN POSSESSION
+66,Enzo FERNANDEZ,Off Target,0,Pass,86,Argentina,IN POSSESSION
+68,Lionel MESSI,On Target - Saved,0,Freekick,86,Argentina,IN POSSESSION
+72,Lionel MESSI,On Target - Saved,0,Freekick,86,Argentina,IN POSSESSION
+72,Nico GONZALEZ,Off Target,0,Corner,86,Argentina,IN POSSESSION
+83,Nico GONZALEZ,Incomplete,0,Corner,86,Argentina,IN POSSESSION
+86,Alexis MAC ALLISTER Deflected,Off Target,0,Loose Ball,86,Argentina,IN POSSESSION
+91,Leandro PAREDES,On Target - Saved,0,Pass,86,Argentina,IN POSSESSION
+94,Lionel MESSI Deflected,On Target - Saved,0,Freekick,86,Argentina,IN POSSESSION
+94,Enzo FERNANDEZ,On Target - Saved,0,Other,86,Argentina,IN POSSESSION
+91,Lisandro MARTINEZ,On Target - Goal,1,Pass,86,Argentina,IN POSSESSION
+97,Lionel MESSI,Incomplete - Blocked,0,Pass,86,Argentina,IN POSSESSION
+97,Julian ALVAREZ Deflected,Off Target,0,Loose Ball,86,Argentina,IN POSSESSION
+98,Enzo FERNANDEZ,Incomplete - Blocked,0,Loose Ball,86,Argentina,IN POSSESSION
+105,Lionel MESSI,On Target - Saved,0,Loose Ball,86,Argentina,IN POSSESSION
+105,Gonzalo MONTIEL,Incomplete - Blocked,0,Other,86,Argentina,IN POSSESSION
+110,Cristian ROMERO,Deflected On Target - Defensive Event,0,Corner,86,Argentina,IN POSSESSION
+6,RYAN MENDES Deflected,Off Target,0,Other,86,Cabo Verde,IN POSSESSION
+48,JOVANE CABRAL Deflected,Off Target,0,Loose Ball,86,Cabo Verde,IN POSSESSION
+49,RYAN MENDES,Off Target,0,Other,86,Cabo Verde,IN POSSESSION
+53,DEROY DUARTE,On Target - Saved,0,Loose Ball,86,Cabo Verde,IN POSSESSION
+58,DEROY DUARTE,On Target - Goal,1,Pass,86,Cabo Verde,IN POSSESSION
+77,KEVIN PINA,Off Target,0,Freekick,86,Cabo Verde,IN POSSESSION
+96,DINEY BORGES,Incomplete,0,Loose Ball,86,Cabo Verde,IN POSSESSION
+96,STEVEN MOREIRA,Incomplete - Blocked,0,Pass,86,Cabo Verde,IN POSSESSION
+107,YANNICK SEMEDO,Off Target,0,Pass,86,Cabo Verde,IN POSSESSION
+113,WILLY SEMEDO,Incomplete - Blocked,0,Pass,86,Cabo Verde,IN POSSESSION
+115,SIDNY LOPES CABRAL,On Target - Saved,0,Freekick,86,Cabo Verde,IN POSSESSION
+118,DINEY BORGES Deflected,On Target - Saved,0,Cross,86,Cabo Verde,IN POSSESSION
+120,HELIO VARELA Deflected,Off Target,0,Pass,86,Cabo Verde,IN POSSESSION
+121,JAMIRO MONTEIRO,Incomplete,0,Corner,86,Cabo Verde,IN POSSESSION
+121,HELIO VARELA,Off Target,0,Loose Ball,86,Cabo Verde,IN POSSESSION
+13,Jhon ARIAS,On Target - Goal,1,Cross,87,Colombia,IN POSSESSION
+19,Luis DIAZ,On Target - Saved,0,Pass,87,Colombia,IN POSSESSION
+38,Luis DIAZ,Off Target,0,Loose Ball,87,Colombia,IN POSSESSION
+41,Luis SUAREZ,Off Target,0,Cross,87,Colombia,IN POSSESSION
+45,Johan MOJICA,On Target - Saved,0,Cross,87,Colombia,IN POSSESSION
+47,Richard RIOS,Off Target,0,Pass,87,Colombia,IN POSSESSION
+54,Gustavo PUERTA,On Target - Saved,0,Corner,87,Colombia,IN POSSESSION
+55,Davinson SANCHEZ,Off Target,0,Loose Ball,87,Colombia,IN POSSESSION
+57,Luis DIAZ,On Target - Saved,0,Pass,87,Colombia,IN POSSESSION
+76,Juan QUINTERO,Off Target,0,Freekick,87,Colombia,IN POSSESSION
+79,Luis DIAZ Deflected,Off Target,0,Loose Ball,87,Colombia,IN POSSESSION
+83,Juan QUINTERO,Off Target,0,Pass,87,Colombia,IN POSSESSION
+86,Luis DIAZ Deflected,Off Target,0,Pass,87,Colombia,IN POSSESSION
+91,Richard RIOS,Off Target,0,Cross,87,Colombia,IN POSSESSION
+94,Jaminton CAMPAZ,Off Target,0,Pass,87,Colombia,IN POSSESSION
+94,Luis SUAREZ,Incomplete - Blocked,0,Pass,87,Colombia,IN POSSESSION
+94,Gustavo PUERTA,Incomplete,0,Loose Ball,87,Colombia,IN POSSESSION
+95,Jaminton CAMPAZ,On Target - Saved,0,Other,87,Colombia,IN POSSESSION
+0,Thomas PARTEY,Off Target,0,Loose Ball,87,Ghana,IN POSSESSION
+33,Inaki WILLIAMS,Incomplete - Blocked,0,Pass,87,Ghana,IN POSSESSION
+36,Antoine SEMENYO Deflected,Off Target,0,Pass,87,Ghana,IN POSSESSION
+39,Inaki WILLIAMS,Off Target,0,Pass,87,Ghana,IN POSSESSION
+43,Antoine SEMENYO,Incomplete - Blocked,0,Pass,87,Ghana,IN POSSESSION
+43,Inaki WILLIAMS,Incomplete - Blocked,0,Loose Ball,87,Ghana,IN POSSESSION
+68,Thomas PARTEY,Off Target,0,Loose Ball,87,Ghana,IN POSSESSION
+14,Connor METCALFE Deflected,Off Target,0,Loose Ball,88,Australia,IN POSSESSION
+14,Aiden ONEILL,Off Target,0,Pass,88,Australia,IN POSSESSION
+34,Aziz BEHICH,On Target - Saved,0,Pass,88,Australia,IN POSSESSION
+47,Nestory IRANKUNDA,Deflected On Target - Defensive Event,0,Cross,88,Australia,IN POSSESSION
+60,Nestory IRANKUNDA,Incomplete - Blocked,0,Loose Ball,88,Australia,IN POSSESSION
+80,Connor METCALFE Deflected,Off Target,0,Loose Ball,88,Australia,IN POSSESSION
+85,Ajdin HRUSTIC,Incomplete - Blocked,0,Pass,88,Australia,IN POSSESSION
+87,Jackson IRVINE,Incomplete,0,Corner,88,Australia,IN POSSESSION
+105,Mohamed TOURE,Off Target,0,Loose Ball,88,Australia,IN POSSESSION
+117,Awer MABIL,Incomplete - Blocked,0,Freekick,88,Australia,IN POSSESSION
+121,Alessandro CIRCATI,Incomplete - Blocked,0,Freekick,88,Australia,IN POSSESSION
+121,Mohamed TOURE Deflected,Off Target,0,Loose Ball,88,Australia,IN POSSESSION
+12,EMAM ASHOUR,Incomplete - Blocked,0,Freekick,88,Egypt,IN POSSESSION
+12,EMAM ASHOUR,On Target - Goal,1,Pass,88,Egypt,IN POSSESSION
+15,OMAR MARMOUSH,Incomplete - Blocked,0,Pass,88,Egypt,IN POSSESSION
+45,OMAR MARMOUSH,Off Target,0,Pass,88,Egypt,IN POSSESSION
+72,EMAM ASHOUR,Off Target,0,Loose Ball,88,Egypt,IN POSSESSION
+85,MARAWAN ATTIA,Incomplete - Blocked,0,Loose Ball,88,Egypt,IN POSSESSION
+92,RAMY RABIA,On Target - Saved,0,Cross,88,Egypt,IN POSSESSION
+93,MOHAMED SALAH,On Target - Saved,0,Loose Ball,88,Egypt,IN POSSESSION
+94,MARAWAN ATTIA,Incomplete - Blocked,0,Pass,88,Egypt,IN POSSESSION
+95,HAISSEM HASSAN,Incomplete - Blocked,0,Pass,88,Egypt,IN POSSESSION
+92,MOHAMED SALAH,Off Target,0,Pass,88,Egypt,IN POSSESSION
+102,EMAM ASHOUR,Off Target,0,Pass,88,Egypt,IN POSSESSION
+108,MARAWAN ATTIA,Deflected On Target - Defensive Event,0,Pass,88,Egypt,IN POSSESSION
+111,EMAM ASHOUR Deflected,Off Target,0,Pass,88,Egypt,IN POSSESSION
+27,Diego GOMEZ,Off Target,0,Loose Ball,89,Paraguay,IN POSSESSION
+86,Junior ALONSO,Off Target,0,Pass,89,Paraguay,IN POSSESSION
+89,MAURICIO,Off Target,0,Pass,89,Paraguay,IN POSSESSION
+21,Manu KONE Deflected,Off Target,0,Pass,89,France,IN POSSESSION
+32,Adrien RABIOT,Off Target,0,Pass,89,France,IN POSSESSION
+37,Ousmane DEMBELE Deflected,Off Target,0,Pass,89,France,IN POSSESSION
+42,Manu KONE,Off Target,0,Pass,89,France,IN POSSESSION
+44,Adrien RABIOT Deflected,Off Target,0,Pass,89,France,IN POSSESSION
+48,Adrien RABIOT,Off Target,0,Pass,89,France,IN POSSESSION
+51,Ousmane DEMBELE,Off Target,0,Corner,89,France,IN POSSESSION
+53,Manu KONE,On Target - Saved,0,Pass,89,France,IN POSSESSION
+59,Bradley BARCOLA,Off Target,0,Pass,89,France,IN POSSESSION
+63,Kylian MBAPPE,Off Target,0,Pass,89,France,IN POSSESSION
+69,Kylian MBAPPE,On Target - Goal,1,Penalty,89,France,IN POSSESSION
+88,Kylian MBAPPE,On Target - Saved,0,Pass,89,France,IN POSSESSION
+90,Desire DOUE,Incomplete - Blocked,0,Pass,89,France,IN POSSESSION
+95,Kylian MBAPPE,On Target - Saved,0,Pass,89,France,IN POSSESSION
+4,Jonathan DAVID,On Target - Saved,0,Pass,90,Canada,IN POSSESSION
+10,Tani OLUWASEYI,Incomplete,0,Loose Ball,90,Canada,IN POSSESSION
+17,Alistair JOHNSTON,Incomplete - Blocked,0,Corner,90,Canada,IN POSSESSION
+48,Luc DE FOUGEROLLES,Off Target,0,Pass,90,Canada,IN POSSESSION
+77,Jonathan DAVID,Off Target,0,Freekick,90,Canada,IN POSSESSION
+78,Tajon BUCHANAN,On Target - Saved,0,Pass,90,Canada,IN POSSESSION
+83,Jonathan DAVID,Incomplete - Blocked,0,Pass,90,Canada,IN POSSESSION
+89,Jonathan OSORIO,Incomplete - Blocked,0,Pass,90,Canada,IN POSSESSION
+96,Jayden NELSON,Incomplete - Blocked,0,Freekick,90,Canada,IN POSSESSION
+28,Soufiane RAHIMI Deflected,On Target - Saved,0,Pass,90,Morocco,IN POSSESSION
+49,Azzedine OUNAHI,On Target - Goal,1,Freekick,90,Morocco,IN POSSESSION
+81,Azzedine OUNAHI,On Target - Goal,1,Pass,90,Morocco,IN POSSESSION
+84,Soufiane RAHIMI,Off Target,0,Cross,90,Morocco,IN POSSESSION
+97,Soufiane RAHIMI,On Target - Goal,1,Pass,90,Morocco,IN POSSESSION
+13,BRUNO GUIMARAES,On Target - Saved,0,Penalty,91,Brazil,IN POSSESSION
+30,DANILO,Incomplete,0,Pass,91,Brazil,IN POSSESSION
+34,VINICIUS JUNIOR,Incomplete - Blocked,0,Pass,91,Brazil,IN POSSESSION
+39,CASEMIRO,Incomplete - Blocked,0,Pass,91,Brazil,IN POSSESSION
+48,BRUNO GUIMARAES,Incomplete,0,Pass,91,Brazil,IN POSSESSION
+48,MATHEUS CUNHA,Incomplete,0,Loose Ball,91,Brazil,IN POSSESSION
+58,ENDRICK,Off Target,0,Pass,91,Brazil,IN POSSESSION
+60,ENDRICK Deflected,Off Target,0,Pass,91,Brazil,IN POSSESSION
+61,RAYAN Deflected,On Target - Saved,0,Pass,91,Brazil,IN POSSESSION
+93,EDERSON SILVA,Incomplete - Blocked,0,Pass,91,Brazil,IN POSSESSION
+99,NEYMAR JR,On Target - Goal,1,Penalty,91,Brazil,IN POSSESSION
+34,Martin ODEGAARD,Off Target,0,Loose Ball,91,Norway,IN POSSESSION
+36,Erling HAALAND,On Target - Saved,0,Cross,91,Norway,IN POSSESSION
+42,Martin ODEGAARD Deflected,Off Target,0,Pass,91,Norway,IN POSSESSION
+47,Martin ODEGAARD,On Target - Saved,0,Loose Ball,91,Norway,IN POSSESSION
+66,Erling HAALAND,Off Target,0,Cross,91,Norway,IN POSSESSION
+74,Andreas SCHJELDERUP,On Target - Saved,0,Pass,91,Norway,IN POSSESSION
+79,Erling HAALAND,On Target - Goal,1,Cross,91,Norway,IN POSSESSION
+89,Erling HAALAND,On Target - Goal,1,Pass,91,Norway,IN POSSESSION
+14,Raul JIMENEZ,On Target - Saved,0,Cross,92,Mexico,IN POSSESSION
+18,Gilberto MORA,Incomplete - Blocked,0,Pass,92,Mexico,IN POSSESSION
+31,Luis ROMO,Off Target,0,Pass,92,Mexico,IN POSSESSION
+41,Julian QUINONES,On Target - Goal,1,Loose Ball,92,Mexico,IN POSSESSION
+45,Raul JIMENEZ,Off Target,0,Pass,92,Mexico,IN POSSESSION
+47,Raul JIMENEZ,On Target - Saved,0,Pass,92,Mexico,IN POSSESSION
+47,Julian QUINONES,Incomplete - Blocked,0,Pass,92,Mexico,IN POSSESSION
+56,Julian QUINONES,Off Target,0,Pass,92,Mexico,IN POSSESSION
+68,Raul JIMENEZ,On Target - Goal,1,Penalty,92,Mexico,IN POSSESSION
+77,Brian GUTIERREZ,Incomplete - Blocked,0,Pass,92,Mexico,IN POSSESSION
+81,Santiago GIMENEZ,Off Target,0,Pass,92,Mexico,IN POSSESSION
+88,Alvaro FIDALGO Deflected,On Target - Saved,0,Pass,92,Mexico,IN POSSESSION
+93,Jesus GALLARDO,Off Target,0,Pass,92,Mexico,IN POSSESSION
+95,Raul JIMENEZ,Incomplete - Blocked,0,Pass,92,Mexico,IN POSSESSION
+95,Edson ALVAREZ,Incomplete - Blocked,0,Pass,92,Mexico,IN POSSESSION
+96,Raul JIMENEZ,Off Target,0,Cross,92,Mexico,IN POSSESSION
+101,Raul JIMENEZ,Incomplete - Blocked,0,Loose Ball,92,Mexico,IN POSSESSION
+101,Alvaro FIDALGO Deflected,Off Target,0,Loose Ball,92,Mexico,IN POSSESSION
+35,Jude BELLINGHAM,On Target - Goal,1,Cross,92,England,IN POSSESSION
+37,Jude BELLINGHAM Deflected,On Target - Goal,1,Cross,92,England,IN POSSESSION
+48,Nico OREILLY,Incomplete,0,Loose Ball,92,England,IN POSSESSION
+59,Harry KANE,On Target - Goal,1,Penalty,92,England,IN POSSESSION
+92,Jude BELLINGHAM,On Target - Saved,0,Pass,92,England,IN POSSESSION
+6,JOAO CANCELO,Off Target,0,Pass,93,Portugal,IN POSSESSION
+9,PEDRO NETO,Incomplete - Blocked,0,Loose Ball,93,Portugal,IN POSSESSION
+11,CRISTIANO RONALDO,On Target - Saved,0,Pass,93,Portugal,IN POSSESSION
+36,CRISTIANO RONALDO,On Target - Saved,0,Loose Ball,93,Portugal,IN POSSESSION
+40,NUNO MENDES Deflected,Off Target,0,Pass,93,Portugal,IN POSSESSION
+58,CRISTIANO RONALDO,Off Target,0,Pass,93,Portugal,IN POSSESSION
+75,VITINHA,Incomplete - Blocked,0,Pass,93,Portugal,IN POSSESSION
+75,BRUNO FERNANDES,Off Target,0,Loose Ball,93,Portugal,IN POSSESSION
+96,BERNARDO SILVA,Off Target,0,Cross,93,Portugal,IN POSSESSION
+98,JOAO NEVES,Off Target,0,Freekick,93,Portugal,IN POSSESSION
+7,Mikel OYARZABAL,Off Target,0,Pass,93,Spain,IN POSSESSION
+13,Alex BAENA,Off Target,0,Loose Ball,93,Spain,IN POSSESSION
+15,Lamine YAMAL,On Target - Saved,0,Pass,93,Spain,IN POSSESSION
+15,Alex BAENA,On Target - Saved,0,Other,93,Spain,IN POSSESSION
+22,Pedro PORRO,Incomplete,0,Loose Ball,93,Spain,IN POSSESSION
+30,Dani OLMO,Off Target,0,Loose Ball,93,Spain,IN POSSESSION
+44,RODRI,Off Target,0,Loose Ball,93,Spain,IN POSSESSION
+60,PEDRI Deflected,Off Target,0,Pass,93,Spain,IN POSSESSION
+61,Lamine YAMAL Deflected,Off Target,0,Loose Ball,93,Spain,IN POSSESSION
+64,Alex BAENA,On Target - Saved,0,Loose Ball,93,Spain,IN POSSESSION
+72,Lamine YAMAL,On Target - Saved,0,Freekick,93,Spain,IN POSSESSION
+76,Ferran TORRES,Off Target,0,Pass,93,Spain,IN POSSESSION
+77,Dani OLMO Deflected,Off Target,0,Pass,93,Spain,IN POSSESSION
+90,Mikel MERINO,On Target - Goal,1,Pass,93,Spain,IN POSSESSION
+30,Malik TILLMAN Deflected,On Target - Goal,1,Freekick,94,USA,IN POSSESSION
+44,Alex FREEMAN,Incomplete,0,Other,94,USA,IN POSSESSION
+44,Folarin BALOGUN,Off Target,0,Loose Ball,94,USA,IN POSSESSION
+65,Alex FREEMAN,Off Target,0,Corner,94,USA,IN POSSESSION
+78,Sebastian BERHALTER,Off Target,0,Loose Ball,94,USA,IN POSSESSION
+81,Folarin BALOGUN,On Target - Saved,0,Pass,94,USA,IN POSSESSION
+82,Folarin BALOGUN Deflected,Off Target,0,Corner,94,USA,IN POSSESSION
+0,Leandro TROSSARD,Incomplete - Blocked,0,Loose Ball,94,Belgium,IN POSSESSION
+0,Youri TIELEMANS,Incomplete - Blocked,0,Loose Ball,94,Belgium,IN POSSESSION
+0,Timothy CASTAGNE,On Target - Saved,0,Loose Ball,94,Belgium,IN POSSESSION
+1,Charles DE KETELAERE,On Target - Saved,0,Corner,94,Belgium,IN POSSESSION
+7,Youri TIELEMANS,Incomplete,0,Cross,94,Belgium,IN POSSESSION
+8,Charles DE KETELAERE,On Target - Goal,1,Cross,94,Belgium,IN POSSESSION
+13,Leandro TROSSARD,Off Target,0,Pass,94,Belgium,IN POSSESSION
+32,Charles DE KETELAERE Deflected,On Target - Goal,1,Cross,94,Belgium,IN POSSESSION
+38,Nicolas RASKIN,On Target - Saved,0,Corner,94,Belgium,IN POSSESSION
+42,Dodi LUKEBAKIO,Off Target,0,Freekick,94,Belgium,IN POSSESSION
+48,Dodi LUKEBAKIO,Off Target,0,Pass,94,Belgium,IN POSSESSION
+56,Hans VANAKEN Deflected,On Target - Goal,1,Loose Ball,94,Belgium,IN POSSESSION
+61,Leandro TROSSARD Deflected,Off Target,0,Pass,94,Belgium,IN POSSESSION
+85,Leandro TROSSARD,Incomplete - Blocked,0,Pass,94,Belgium,IN POSSESSION
+92,Romelu LUKAKU,On Target - Goal,1,Loose Ball,94,Belgium,IN POSSESSION
+20,Lionel MESSI,On Target - Saved,0,Penalty,95,Argentina,IN POSSESSION
+27,Alexis MAC ALLISTER,On Target - Saved,0,Cross,95,Argentina,IN POSSESSION
+28,Enzo FERNANDEZ Deflected,Off Target,0,Pass,95,Argentina,IN POSSESSION
+30,Lionel MESSI,Off Target,0,Freekick,95,Argentina,IN POSSESSION
+37,Lionel MESSI,Off Target,0,Pass,95,Argentina,IN POSSESSION
+38,Julian ALVAREZ,On Target - Saved,0,Pass,95,Argentina,IN POSSESSION
+42,Julian ALVAREZ,Off Target,0,Pass,95,Argentina,IN POSSESSION
+46,Rodrigo DE PAUL,On Target - Saved,0,Pass,95,Argentina,IN POSSESSION
+57,Leandro PAREDES Deflected,Off Target,0,Pass,95,Argentina,IN POSSESSION
+60,Alexis MAC ALLISTER Deflected,Off Target,0,Freekick,95,Argentina,IN POSSESSION
+73,Lautaro MARTINEZ,Incomplete - Blocked,0,Cross,95,Argentina,IN POSSESSION
+74,Lautaro MARTINEZ,Off Target,0,Cross,95,Argentina,IN POSSESSION
+77,Lionel MESSI,Incomplete - Blocked,0,Pass,95,Argentina,IN POSSESSION
+78,Cristian ROMERO,On Target - Goal,1,Cross,95,Argentina,IN POSSESSION
+81,Lautaro MARTINEZ,Off Target,0,Cross,95,Argentina,IN POSSESSION
+82,Lionel MESSI,On Target - Goal,1,Pass,95,Argentina,IN POSSESSION
+91,Enzo FERNANDEZ,On Target - Goal,1,Cross,95,Argentina,IN POSSESSION
+14,YASSER IBRAHIM,On Target - Goal,1,Pass,95,Egypt,IN POSSESSION
+66,MOSTAFA ZICO,On Target - Goal,1,Cross,95,Egypt,IN POSSESSION
+76,TREZEGUET,Off Target,0,Pass,95,Egypt,IN POSSESSION
+91,TREZEGUET,Incomplete - Blocked,0,Cross,95,Egypt,IN POSSESSION
+29,Fabian RIEDER,On Target - Saved,0,Loose Ball,96,Switzerland,IN POSSESSION
+31,Dan NDOYE,On Target - Saved,0,Pass,96,Switzerland,IN POSSESSION
+46,Djibril SOW,Off Target,0,Cross,96,Switzerland,IN POSSESSION
+52,Fabian RIEDER,Off Target,0,Freekick,96,Switzerland,IN POSSESSION
+90,Dan NDOYE,Incomplete,0,Pass,96,Switzerland,IN POSSESSION
+113,Granit XHAKA,Off Target,0,Pass,96,Switzerland,IN POSSESSION
+2,Jhon ARIAS,Incomplete - Blocked,0,Cross,96,Colombia,IN POSSESSION
+20,Gustavo PUERTA,On Target - Saved,0,Pass,96,Colombia,IN POSSESSION
+32,Luis DIAZ,Incomplete - Blocked,0,Pass,96,Colombia,IN POSSESSION
+38,Luis SUAREZ,Incomplete - Blocked,0,Pass,96,Colombia,IN POSSESSION
+38,Gustavo PUERTA,Incomplete,0,Loose Ball,96,Colombia,IN POSSESSION
+59,Luis DIAZ,On Target - Saved,0,Other,96,Colombia,IN POSSESSION
+62,Luis SUAREZ,Off Target,0,Other,96,Colombia,IN POSSESSION
+92,Davinson SANCHEZ,Off Target,0,Loose Ball,96,Colombia,IN POSSESSION
+98,Jhon LUCUMI,Off Target,0,Corner,96,Colombia,IN POSSESSION
+99,Richard RIOS,Off Target,0,Pass,96,Colombia,IN POSSESSION
+105,Luis DIAZ Deflected,Off Target,0,Pass,96,Colombia,IN POSSESSION
+111,Juan QUINTERO,Off Target,0,Pass,96,Colombia,IN POSSESSION
+114,Jaminton CAMPAZ,Off Target,0,Loose Ball,96,Colombia,IN POSSESSION
+116,Cucho HERNANDEZ,Incomplete,0,Freekick,96,Colombia,IN POSSESSION
+3,Kylian MBAPPE,Off Target,0,Pass,97,France,IN POSSESSION
+3,Dayot UPAMECANO,On Target - Saved,0,Cross,97,France,IN POSSESSION
+9,Desire DOUE,Incomplete - Blocked,0,Pass,97,France,IN POSSESSION
+17,Ousmane DEMBELE,Off Target,0,Cross,97,France,IN POSSESSION
+19,Ousmane DEMBELE,Incomplete - Blocked,0,Pass,97,France,IN POSSESSION
+20,Adrien RABIOT,Off Target,0,Cross,97,France,IN POSSESSION
+27,Kylian MBAPPE,On Target - Saved,0,Penalty,97,France,IN POSSESSION
+32,Ousmane DEMBELE,Off Target,0,Pass,97,France,IN POSSESSION
+35,Jules KOUNDE Deflected,Off Target,0,Corner,97,France,IN POSSESSION
+45,Manu KONE,Incomplete - Blocked,0,Pass,97,France,IN POSSESSION
+46,Lucas DIGNE,Off Target,0,Loose Ball,97,France,IN POSSESSION
+54,Desire DOUE,On Target - Saved,0,Pass,97,France,IN POSSESSION
+55,Kylian MBAPPE,Off Target,0,Pass,97,France,IN POSSESSION
+59,Kylian MBAPPE,On Target - Goal,1,Pass,97,France,IN POSSESSION
+65,Ousmane DEMBELE,On Target - Goal,1,Pass,97,France,IN POSSESSION
+85,Michael OLISE,Off Target,0,Pass,97,France,IN POSSESSION
+87,Bradley BARCOLA,On Target - Saved,0,Loose Ball,97,France,IN POSSESSION
+87,Jean-Philippe MATETA,Off Target,0,Corner,97,France,IN POSSESSION
+96,Michael OLISE,Off Target,0,Pass,97,France,IN POSSESSION
+49,Achraf HAKIMI,Off Target,0,Freekick,97,Morocco,IN POSSESSION
+47,Brahim DIAZ,Incomplete - Blocked,0,Pass,97,Morocco,IN POSSESSION
+82,Azzedine OUNAHI,On Target - Saved,0,Freekick,97,Morocco,IN POSSESSION
+83,Neil EL AYNAOUI,Off Target,0,Corner,97,Morocco,IN POSSESSION
+94,Gessime YASSINE,Off Target,0,Pass,97,Morocco,IN POSSESSION
+9,RODRI,Incomplete - Blocked,0,Cross,98,Spain,IN POSSESSION
+12,Alex BAENA,Incomplete - Blocked,0,Pass,98,Spain,IN POSSESSION
+20,Lamine YAMAL,Off Target,0,Loose Ball,98,Spain,IN POSSESSION
+29,Dani OLMO,On Target - Saved,0,Cross,98,Spain,IN POSSESSION
+29,Fabian RUIZ Deflected,On Target - Goal,1,Other,98,Spain,IN POSSESSION
+34,Lamine YAMAL,On Target - Saved,0,Freekick,98,Spain,IN POSSESSION
+44,Pedro PORRO,Off Target,0,Pass,98,Spain,IN POSSESSION
+46,Fabian RUIZ,Incomplete - Blocked,0,Pass,98,Spain,IN POSSESSION
+51,Lamine YAMAL Deflected,Off Target,0,Other,98,Spain,IN POSSESSION
+52,Dani OLMO,Off Target,0,Loose Ball,98,Spain,IN POSSESSION
+61,Mikel OYARZABAL Deflected,On Target - Saved,0,Pass,98,Spain,IN POSSESSION
+73,Lamine YAMAL Deflected,Off Target,0,Pass,98,Spain,IN POSSESSION
+87,Pau CUBARSI,On Target - Saved,0,Pass,98,Spain,IN POSSESSION
+87,Mikel MERINO,On Target - Goal,1,Other,98,Spain,IN POSSESSION
+14,Charles DE KETELAERE,Incomplete - Blocked,0,Pass,98,Belgium,IN POSSESSION
+40,Charles DE KETELAERE,On Target - Goal,1,Cross,98,Belgium,IN POSSESSION
+54,Maxim DE CUYPER,Off Target,0,Loose Ball,98,Belgium,IN POSSESSION
+61,Kevin DE BRUYNE,On Target - Saved,0,Loose Ball,98,Belgium,IN POSSESSION
+83,Kevin DE BRUYNE,Incomplete - Blocked,0,Loose Ball,98,Belgium,IN POSSESSION
+34,Erling HAALAND,On Target - Saved,0,Cross,99,Norway,IN POSSESSION
+35,Andreas SCHJELDERUP,On Target - Goal,1,Pass,99,Norway,IN POSSESSION
+38,Alexander SORLOTH,Off Target,0,Freekick,99,Norway,IN POSSESSION
+39,Martin ODEGAARD,On Target - Saved,0,Pass,99,Norway,IN POSSESSION
+43,Alexander SORLOTH Deflected,Off Target,0,Pass,99,Norway,IN POSSESSION
+52,Erling HAALAND,Off Target,0,Cross,99,Norway,IN POSSESSION
+75,Fredrik AURSNES,Incomplete,0,Loose Ball,99,Norway,IN POSSESSION
+75,Kristoffer AJER,Off Target,0,Loose Ball,99,Norway,IN POSSESSION
+84,Antonio NUSA,On Target - Saved,0,Pass,99,Norway,IN POSSESSION
+103,Antonio NUSA,Incomplete - Blocked,0,Pass,99,Norway,IN POSSESSION
+108,Patrick BERG,Off Target,0,Pass,99,Norway,IN POSSESSION
+113,Oscar BOBB,Off Target,0,Loose Ball,99,Norway,IN POSSESSION
+28,Harry KANE,Off Target,0,Freekick,99,England,IN POSSESSION
+44,Jude BELLINGHAM,Incomplete - Blocked,0,Corner,99,England,IN POSSESSION
+46,Jude BELLINGHAM,On Target - Goal,1,Pass,99,England,IN POSSESSION
+47,Harry KANE,Off Target,0,Loose Ball,99,England,IN POSSESSION
+47,Eberechi EZE,Incomplete,0,Freekick,99,England,IN POSSESSION
+51,Bukayo SAKA,Incomplete - Blocked,0,Pass,99,England,IN POSSESSION
+94,Jude BELLINGHAM,Off Target,0,Pass,99,England,IN POSSESSION
+92,Harry KANE,On Target - Saved,0,Cross,99,England,IN POSSESSION
+92,Morgan ROGERS,On Target - Saved,0,Pass,99,England,IN POSSESSION
+92,Jude BELLINGHAM,On Target - Goal,1,Other,99,England,IN POSSESSION
+107,Jude BELLINGHAM,Off Target,0,Pass,99,England,IN POSSESSION
+109,Bukayo SAKA,On Target - Saved,0,Other,99,England,IN POSSESSION
