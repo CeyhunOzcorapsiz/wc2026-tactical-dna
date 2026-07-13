@@ -19,7 +19,7 @@ Companion project: [wc2026-climate-analysis](https://github.com/CeyhunOzcorapsiz
 PPDA-like pressing intensity, press duration/direction, recovery time…)
 → z-scores → PCA + k-means over 100 matches:
 
-![Tactical map](output/tactical_map_2026.png)
+![Tactical map](output/tactical_map_2026_en.png)
 
 Four families emerged. All four semi-finalists (Spain, France, England,
 Argentina) sit in the **control-and-press** family, whose average run was
@@ -35,13 +35,15 @@ Line-break *completion rate* correlates with tournament progression at
 And the anatomy differs: elite teams go *around* defensive lines (45% of
 attempts), reactive teams go *over* them with long balls (47%).
 
-![Line-break anatomy](output/line_break_anatomy.png)
+![Line-break anatomy](output/line_break_anatomy_en.png)
 
 **2026 was an open-play World Cup.** Only 13% of goals came from set
 pieces (9% excluding penalties) — far below the ~25% historical World Cup
 norm. The USA were the outlier, scoring 43% of their goals from set pieces.
 
-![Goal sources](output/goal_sources.png)
+![Goal sources](output/goal_sources_en.png)
+
+*Turkish versions of all figures are in [`output/`](output/).*
 
 **The goalkeeper paradox.** Teams whose goalkeeper attempted more line
 breaks went *less* deep (ρ = −0.31, p = 0.031). High keeper involvement
