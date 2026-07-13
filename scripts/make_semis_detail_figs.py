@@ -39,22 +39,24 @@ tmt = pd.read_csv(DATA / "team_match_tactics.csv")
 for lang in ("tr", "en"):
     T = NAME[lang]
     if lang == "tr":
-        dir_labels = ["Hat arasına\nara pasıyla", "Kanattan\ndolaşarak", "Üstünden\nuzun topla"]
-        veh_labels = ["Pas oyunuyla", "Top sürerek", "Ortalarla"]
-        t1, t2 = "Savunma bloğunu nereden deliyorlar?", "Silah tercihi ne?"
-        title = "Blok delme sanatı: dört yarı finalistin parmak izi"
-        sub = "Kademeli savunmayı aşma tercihleri — aynı ekol, dört farklı el yazısı"
-        foot = ("Veri: FIFA Training Centre maç raporları, oyuncu bazlı hat kırma kayıtları; yön toplamı = deneme sayısı sağlaması %100. "
-                "Paylar takımın toplam hat kırma denemeleri içindeki orandır.")
+        dir_labels = ["Arasından:\ndikine ara pasıyla", "Yanından:\nhattın dışından geçerek", "Üzerinden:\naşırtma / uzun topla"]
+        veh_labels = ["Pasla", "Top taşıyarak", "Orta ile"]
+        t1 = "Savunma hattını nasıl aşıyorlar?"
+        t2 = "Hat kırmada başvurulan yol"
+        title = "Hat kırma sanatı: dört yarı finalistin hücum imzası"
+        sub = "Organize savunmayı çözme tercihleri — aynı ekol, dört farklı imza"
+        foot = ("Veri: FIFA Training Centre maç raporları, oyuncu bazlı hat kırma kayıtları; yön toplamı = deneme sayısı sağlaması %100.\n"
+                "Hat kırma (line break): rakip savunma hattını arasından, yanından veya üzerinden aşan pas/taşıma. Paylar takımın toplam denemeleri içindedir.")
         out = "semifinal_lb_fingerprint.png"
     else:
-        dir_labels = ["Through the lines\n(needle passes)", "Around the block\n(wide circulation)", "Over the top\n(long balls)"]
-        veh_labels = ["Through passing", "On the carry", "From crosses"]
-        t1, t2 = "Where do they unlock the block?", "Weapon of choice?"
-        title = "The art of unlocking a block: four semi-finalist fingerprints"
-        sub = "How each side beats a set defence — one school, four different handwritings"
-        foot = ("Data: FIFA Training Centre match reports, per-player line-break records; direction sums ≡ attempts for 100% of rows. "
-                "Shares are of each team's total line-break attempts.")
+        dir_labels = ["Through:\nline-splitting passes", "Around:\npast the end of the line", "Over:\nballs over the top"]
+        veh_labels = ["By pass", "On the carry", "From crosses"]
+        t1 = "How do they beat a defensive line?"
+        t2 = "The route they take"
+        title = "The art of the line break: four semi-finalist signatures"
+        sub = "How each side unlocks an organised defence — one school, four different signatures"
+        foot = ("Data: FIFA Training Centre match reports, per-player line-break records; direction sums ≡ attempts for 100% of rows.\n"
+                "Line break: a pass/carry beating an opposition defensive line through, around or over it. Shares are of each team's total attempts.")
         out = "semifinal_lb_fingerprint_en.png"
 
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12.5, 6.75))
@@ -190,25 +192,29 @@ for lang in ("tr", "en"):
     T = NAME[lang]
     if lang == "tr":
         title = "Dört yüksek pres, dört farklı pres kimliği"
-        sub = ("Adamına pres mi, alan daraltma mı? Gegenpressing'in dört yorumu — kesikli çizgi: 48 takım ortalaması")
-        panels = [("direct_share", "Direkt pres payı (%)", "Topun adamını ne kadar boğuyor?", "%{:.0f}"),
+        sub = ("Topa mı gidiyor, pas kanalını mı kapatıyor? Ön alan presinin dört yorumu — kesikli çizgi: 48 takım ortalaması")
+        panels = [("direct_share", "Topa yapılan direkt pres payı (%)", "Pres topun adamına mı gidiyor?", "%{:.0f}"),
                   ("press_duration", "Pres süresi (sn)", "Baskı dalgası kaç saniye sürüyor?", "{:.2f}"),
-                  ("recovery", "Topu geri kazanma (sn)", "Kayıptan sonra top kaç saniyede geri?", "{:.1f}"),
-                  ("inside_share", "Orta koridora yönlendirme (%)", "Rakibi hangi koridora hapsediyor?", "%{:.0f}")]
+                  ("recovery", "Top kazanma süresi (sn)", "Top kaybından sonra kaç saniyede geri?", "{:.1f}"),
+                  ("inside_share", "İçe yönlendirilen pres payı (%)", "Rakip merkeze mi, kanada mı itiliyor?", "%{:.0f}")]
         avg_lab = "turnuva ort."
         foot = ("Veri: FIFA Training Centre maç raporları, savunma baskısı sayfaları (takım başına 6 maç). "
-                "Direkt pres: topa oynayan oyuncuya uygulanan baskı; orta koridora yönlendirme: presin rakibi kalabalık merkeze itmesi.")
+                "Direkt pres: topa oynayan oyuncuya yapılan baskı.\n"
+                "İçe yönlendirme: presin rakibi kalabalık orta koridora itmesi; "
+                "düşük değer = rakibi kanada/dışarı itme tercihi.")
         out = "semifinal_press_identity.png"
     else:
         title = "Four high presses, four pressing identities"
-        sub = ("Man-oriented or space-squeezing? Four readings of the counter-press — dashed line: 48-team tournament average")
-        panels = [("direct_share", "Direct-press share (%)", "How hard do they hunt the ball-carrier?", "{:.0f}%"),
+        sub = ("Ball-oriented or lane-blocking? Four readings of the high press — dashed line: 48-team tournament average")
+        panels = [("direct_share", "Direct pressure on the ball (%)", "Does the press go to the ball-carrier?", "{:.0f}%"),
                   ("press_duration", "Press duration (s)", "How long does the pressing wave last?", "{:.2f}"),
-                  ("recovery", "Ball recovery (s)", "Seconds to win it back after losing it", "{:.1f}"),
-                  ("inside_share", "Central-channel steer (%)", "Which channel do they trap opponents in?", "{:.0f}%")]
+                  ("recovery", "Ball-recovery time (s)", "Seconds to win the ball back after losing it", "{:.1f}"),
+                  ("inside_share", "Press steered infield (%)", "Steered into midfield traffic or out wide?", "{:.0f}%")]
         avg_lab = "tournament avg"
         foot = ("Data: FIFA Training Centre match reports, defensive-pressure pages (6 matches per team). "
-                "Direct press: pressure on the player in possession; central steer: press funnelling opponents into congested central areas.")
+                "Direct press: pressure on the player in possession.\n"
+                "Infield steer: press funnelling opponents into the congested "
+                "central corridor; a low value = a preference for showing opponents wide.")
         out = "semifinal_press_identity_en.png"
 
     fig, axes = plt.subplots(2, 2, figsize=(12, 8.5))
