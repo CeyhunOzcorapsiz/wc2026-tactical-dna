@@ -55,14 +55,20 @@ mostly reflects long clearances under pressure (Paraguay: 22.6 attempts
 per match), not modern build-up play; elite keepers contribute rarely but
 efficiently (Brazil: 6.8).
 
+![Goalkeeper paradox](output/gk_paradox_en.png)
+
 **The underdog recipe.** In the 92 matches with a ≥50 Elo gap, underdogs
 who took points recovered the ball ~2 s faster (17.5 vs 19.3 s, p = 0.025)
 and crossed less (p = 0.023) than underdogs who lost.
+
+![Underdog recipe](output/underdog_recipe_en.png)
 
 **Knockout football is different.** Within the same 32 teams, knockout
 matches showed −3.9 pp possession, +45 pressures and +1.9 s recovery time
 versus their group games (paired tests, p < 0.05) — partly tougher
 opponents, partly a real shift to transition football.
+
+![Knockout shift](output/knockout_shift_en.png)
 
 **No fatigue signature.** Per-team match order shows *rising* distance and
 pressure counts as the tournament progresses — and heat does not reduce
@@ -92,7 +98,7 @@ scripts/
   cluster_teams.py     # style features → PCA + k-means
   findings.py          # findings 1-7 (style vs results)
   findings_8_10.py     # GK build-up, set pieces, line-break anatomy
-  make_map.py / make_finding_figs.py
+  make_map.py / make_finding_figs.py / make_detail_figs_en.py
 data/    # generated CSVs
 output/  # figures
 ```
