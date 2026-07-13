@@ -21,6 +21,10 @@ PPDA-like pressing intensity, press duration/direction, recovery time…)
 
 ![Tactical map](output/tactical_map_2026_en.png)
 
+🎬 **Animated version:** the map builds itself school by school in a
+~37 s data story — [English](output/tactical_map_story_en.mp4) ·
+[Turkish](output/tactical_map_story_tr.mp4).
+
 Four families emerged. All four semi-finalists (Spain, France, England,
 Argentina) sit in the **control-and-press** family, whose average run was
 two rounds deeper than the reactive family's. Türkiye lands in the small
