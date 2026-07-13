@@ -31,6 +31,14 @@ two rounds deeper than the reactive family's. Türkiye lands in the small
 **vertical hunters** family — the tournament's most aggressive direct
 pressers alongside Canada, the USA and Uruguay.
 
+Why did the most aggressive pressers go home early while Spain's press
+carried them to the semis? Not the style — the execution. Türkiye out-shot
+both Australia and Paraguay (62 shots combined) without scoring; Spain
+converted at more than twice Türkiye's rate, from better positions, with
+a cleaner line-break completion:
+
+![Türkiye vs Spain](output/turkiye_vs_ispanya_en.png)
+
 ## Key findings
 
 **Breaking the block: accuracy is the strongest style-success signal.**
