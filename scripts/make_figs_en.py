@@ -128,7 +128,7 @@ colors = {"Open-play combinations": C_BLUE, "Crosses & wide deliveries": C_BLUE,
           "Second balls & rebounds": C_BLUE, "Other": "#9ca3af",
           "Penalties": C_ORANGE, "Corners": C_ORANGE, "Free kicks": C_ORANGE}
 fig, ax = plt.subplots(figsize=(12, 6.75))
-fig.subplots_adjust(top=0.80, bottom=0.16, left=0.20, right=0.93)
+fig.subplots_adjust(top=0.80, bottom=0.16, left=0.24, right=0.93)
 items = [(EN_DEL[k], v) for k, v in src.items()][::-1]
 names = [i[0] for i in items]; vals = [i[1] for i in items]
 bars = ax.barh(names, vals, height=0.62, color=[colors[n] for n in names], zorder=3)

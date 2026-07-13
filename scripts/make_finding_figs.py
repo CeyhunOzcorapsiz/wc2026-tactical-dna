@@ -100,7 +100,7 @@ colors = {"Açık oyun – pas organizasyonu": C_BLUE, "Orta / kanat servisi": C
           "Korner": C_ORANGE, "Serbest vuruş": C_ORANGE}
 
 fig, ax = plt.subplots(figsize=(12, 6.75))
-fig.subplots_adjust(top=0.80, bottom=0.16, left=0.16, right=0.93)
+fig.subplots_adjust(top=0.80, bottom=0.16, left=0.26, right=0.93)
 items = [(TR_DEL[k], v) for k, v in src.items()][::-1]
 names = [i[0] for i in items]; vals = [i[1] for i in items]
 bars = ax.barh(names, vals, height=0.62,
