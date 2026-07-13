@@ -13,10 +13,10 @@ OUT.mkdir(exist_ok=True)
 
 INK = "#1a1d21"; MUTED = "#6b7280"; GRID = "#e5e7eb"; SURFACE = "#ffffff"
 CLUSTER_STYLE = {
-    0: ("#0ea5e9", "Kontrolcü baskıcılar"),
-    3: ("#059669", "Dengeli pragmatikler"),
-    2: ("#f97316", "Dikey avcılar (yüksek direkt pres)"),
-    1: ("#7c3aed", "Derin blok reaktifler"),
+    0: ("#0ea5e9", "Top hakimiyeti + yüksek pres"),
+    3: ("#059669", "Dengeli, maça göre oynayanlar"),
+    2: ("#f97316", "Geçiş oyunu + ön alan presi"),
+    1: ("#7c3aed", "Alçak blok + kontra"),
 }
 plt.rcParams.update({
     "figure.facecolor": SURFACE, "axes.facecolor": SURFACE,
@@ -57,15 +57,15 @@ for _, r in df.iterrows():
                 color=INK if bold else MUTED, zorder=4)
 
 ax.tick_params(length=0, labelleft=False, labelbottom=False)
-ax.set_xlabel("← reaktif / uzun geri kazanım        top ve saha kontrolü →",
+ax.set_xlabel("← topsuz bekleyen / topu geç kazanan        topa ve sahaya hükmeden →",
               fontsize=10.5)
-ax.set_ylabel("← sabırlı hücum        direkt & dikey hücum →", fontsize=10.5)
+ax.set_ylabel("← sabırlı, yapılandırılmış hücum        dikine, hızlı hücum →", fontsize=10.5)
 ax.legend(frameon=False, fontsize=9.5, loc="lower right")
 
 fig.text(0.05, 0.955, "2026 Dünya Kupası'nın Taktik Haritası",
          fontsize=17, fontweight="bold", color=INK)
 fig.text(0.05, 0.905,
-         "FIFA'nın resmî taktik verisiyle 48 takım, 10 stil metriği, 4 aile — kalın yazılanlar yarı finalist (4/4 mavi ailede)",
+         "FIFA'nın resmî taktik verisiyle 48 takım, 10 stil metriği, 4 oyun ekolü — kalın: yarı finalistler (4'ü de top hakimiyeti ekolünde)",
          fontsize=10.5, color=MUTED)
 fig.text(0.05, 0.02,
          "Veri: FIFA Training Centre maç raporları (100 maç, takım başına ort. 4+ maç ortalaması). Metrikler: topa sahiplik, pas isabeti, line-break/pas,\n"

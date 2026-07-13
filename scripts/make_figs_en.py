@@ -24,8 +24,8 @@ plt.rcParams.update({
     "axes.spines.left": False, "axes.spines.bottom": False,
 })
 
-CLUSTER_EN = {0: "Control pressers", 3: "Balanced pragmatists",
-              2: "Vertical hunters (high direct press)", 1: "Deep-block reactives"}
+CLUSTER_EN = {0: "Possession & high press", 3: "Pragmatic, adaptable sides",
+              2: "Transition game & counter-press", 1: "Low block & counters"}
 CLUSTER_COLOR = {0: C_BLUE, 3: C_GREEN, 2: C_ORANGE, 1: C_VIOLET}
 SEMIS = {"France", "Spain", "England", "Argentina"}
 STAGE_EN = {1: "Group", 2: "R32", 3: "R16", 4: "QF", 5: "SF", 7: "Final"}
@@ -46,14 +46,14 @@ for _, r in df.iterrows():
                 fontweight="bold" if bold else "normal",
                 color=INK if bold else MUTED, zorder=4)
 ax.tick_params(length=0, labelleft=False, labelbottom=False)
-ax.set_xlabel("← reactive / slow recovery        ball & territory control →",
+ax.set_xlabel("← sitting off / slow to regain        dominating ball & territory →",
               fontsize=10.5)
-ax.set_ylabel("← patient attack        direct & vertical attack →", fontsize=10.5)
+ax.set_ylabel("← patient build-up        direct, vertical attacking →", fontsize=10.5)
 ax.legend(frameon=False, fontsize=9.5, loc="lower right")
 fig.text(0.05, 0.955, "The Tactical Map of the 2026 World Cup",
          fontsize=17, fontweight="bold", color=INK)
 fig.text(0.05, 0.905,
-         "48 teams, 10 style metrics from FIFA's official tactical data, 4 families — bold = semi-finalists (4/4 in the blue family)",
+         "48 teams, 10 style metrics from FIFA's official tactical data, 4 schools of play — bold = semi-finalists (all 4 in the possession-press school)",
          fontsize=10.5, color=MUTED)
 fig.text(0.05, 0.02,
          "Data: FIFA Training Centre post-match reports (100 matches, 4+ match averages per team). Metrics: possession, pass completion, line breaks per pass,\n"
@@ -64,17 +64,17 @@ plt.close(fig)
 
 # ---------- 2) Line-break anatomy ----------
 team = pd.read_csv(DATA / "team_line_break_profile.csv")
-CL_SHORT = {0: "Control\npressers", 1: "Deep-block\nreactives",
-            2: "Vertical\nhunters", 3: "Balanced\npragmatists"}
+CL_SHORT = {0: "Possession\n+ high press", 1: "Low block\n+ counters",
+            2: "Transition\n+ counter-press", 3: "Pragmatic\nmid-block"}
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12.5, 6.75),
                                gridspec_kw={"width_ratios": [1.1, 1]})
 fig.subplots_adjust(top=0.80, bottom=0.14, left=0.08, right=0.97, wspace=0.28)
 prof = team.groupby("cluster")[["through_share", "around_share", "over_share"]].mean()
 order = [0, 3, 2, 1]
 x = np.arange(len(order)); w = 0.26
-series = [("Through (between lines)", "through_share", C_BLUE),
-          ("Around (wide)", "around_share", C_GREEN),
-          ("Over (long ball)", "over_share", C_ORANGE)]
+series = [("Through the lines", "through_share", C_BLUE),
+          ("Around the block", "around_share", C_GREEN),
+          ("Over the top", "over_share", C_ORANGE)]
 for i, (lab, col, color) in enumerate(series):
     vals = [100 * prof.loc[c, col] for c in order]
     bars = ax1.bar(x + (i - 1) * w, vals, w, color=color, zorder=3, label=lab)
@@ -87,7 +87,7 @@ ax1.set_ylabel("Share of line-break attempts (%)", fontsize=10)
 ax1.grid(axis="x", visible=False); ax1.tick_params(length=0)
 ax1.legend(frameon=False, fontsize=8.5, loc="upper center", ncol=3,
            bbox_to_anchor=(0.5, 1.005), columnspacing=0.9, handlelength=1.2)
-ax1.set_title("How blocks were broken (by family)", fontsize=11.5,
+ax1.set_title("How defensive lines were beaten (by school)", fontsize=11.5,
               color=INK, fontweight="bold", pad=12)
 
 rho, p = stats.spearmanr(team["lb_success"], team["max_stage"])
@@ -105,10 +105,10 @@ ax2.set_yticks(sorted(team["max_stage"].unique()),
 ax2.set_xlabel("Line-break completion rate (%)", fontsize=10)
 ax2.set_ylabel("Round reached", fontsize=10)
 ax2.grid(axis="x", visible=False); ax2.tick_params(length=0)
-ax2.set_title(f"Completion predicts progression (ρ=+{rho:.2f}, p<0.001)",
+ax2.set_title(f"Line-break completion predicts progression (ρ=+{rho:.2f})",
               fontsize=11.5, color=INK, fontweight="bold", pad=12)
-fig.text(0.06, 0.945, "The anatomy of breaking the block: elites go around, survivors go over",
-         fontsize=14.5, fontweight="bold", color=INK)
+fig.text(0.06, 0.945, "Breaking the low block: top sides work it around the press, struggling sides go long",
+         fontsize=14, fontweight="bold", color=INK)
 fig.text(0.06, 0.89, "48 teams, 100 matches, 27,000+ line-break attempts — FIFA official tactical data",
          fontsize=10.5, color=MUTED)
 fig.text(0.06, 0.02,
@@ -121,12 +121,12 @@ plt.close(fig)
 sh = pd.read_csv(DATA / "shot_details.csv")
 goals = sh[sh["is_goal"] == 1]
 src = goals["delivery"].value_counts()
-EN_DEL = {"Pass": "From open-play pass", "Cross": "From cross",
-          "Loose Ball": "Loose ball / second ball", "Other": "Other",
-          "Penalty": "Penalty", "Corner": "Corner", "Freekick": "Free kick"}
-colors = {"From open-play pass": C_BLUE, "From cross": C_BLUE,
-          "Loose ball / second ball": C_BLUE, "Other": "#9ca3af",
-          "Penalty": C_ORANGE, "Corner": C_ORANGE, "Free kick": C_ORANGE}
+EN_DEL = {"Pass": "Open-play combinations", "Cross": "Crosses & wide deliveries",
+          "Loose Ball": "Second balls & rebounds", "Other": "Other",
+          "Penalty": "Penalties", "Corner": "Corners", "Freekick": "Free kicks"}
+colors = {"Open-play combinations": C_BLUE, "Crosses & wide deliveries": C_BLUE,
+          "Second balls & rebounds": C_BLUE, "Other": "#9ca3af",
+          "Penalties": C_ORANGE, "Corners": C_ORANGE, "Free kicks": C_ORANGE}
 fig, ax = plt.subplots(figsize=(12, 6.75))
 fig.subplots_adjust(top=0.80, bottom=0.16, left=0.20, right=0.93)
 items = [(EN_DEL[k], v) for k, v in src.items()][::-1]
